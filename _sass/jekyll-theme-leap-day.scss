@@ -55,11 +55,21 @@ h3 {
   line-height: 24px;
 }
 
+
 a {
-  color:#4276b6;
   font-weight:400;
   text-decoration:none;
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+  padding: 10px;
+}
+
+
 
 a small {
   font-size:11px;
@@ -81,6 +91,7 @@ strong {
   width:650px;
   margin:0 auto;
   position:relative;
+  background-color: dodgerblue;
 }
 
 section img {
