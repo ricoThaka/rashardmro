@@ -9,11 +9,19 @@ by Matt Graham
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#2b2b2b;
-  font-weight:300;
-  margin: 0px;
-  padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+
+
+
+
+  background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/MOSHED-2024-3-4-13-41-24.jpg) no-repeat 0 0 fixed; 
+  background-size: cover;
+   line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: 1rem;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
