@@ -285,16 +285,37 @@ header {
 }
 
 section {
-  width:590px;
-  padding: 30px 30px 50px 30px;
-  margin: 20px 0;
-  margin-top: 190px;
-  position:relative;
-  background: #fbfbfb;
-  border-radius: 3px;
-  border: 1px solid #cbcbcb;
-  box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
-}
+  /*  width:590px;
+    padding: 30px 30px 50px 30px;
+    margin: 20px 0;
+    margin-top: 190px;
+    position:relative;
+    background: #fbfbfb;
+    border-radius: 3px;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4); */
+    border-radius: 31px 31px 31px 31px;
+    margin-top: -20px;
+  width: 85vh; 
+  padding: 0px;
+    margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto; 	
+  /* opera does not like 'margin:20px auto' */
+  /* background: #666; */
+  border: 19px solid #DB362D;
+         background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+  background-size: cover;
+  text-align:left; 
+  /* part 2 of 2 centering hack */
+  voice-family: "\"}\"";
+  voice-family:inherit;
+  overflow: hidden;
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
+  /* color: #c9ff23;  */
+  }
 
 small {
   font-size:12px;
