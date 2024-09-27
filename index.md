@@ -17,6 +17,11 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
 
+<div class="greenlineflex-container">
+<div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
+<div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
+<div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
+</div> 
 
 <div class="gallery-wrap">
     <div class="item item-1"></div>
@@ -268,12 +273,12 @@ Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help
     </video>    
       
 <img src="https://static.uahirise.org/hipod/ESP_040663_1415.jpg" />
-     <div class="flex-container">
-       
-        <div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
-        <div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
-        <div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
-    </div> 
+
+<div class="greenlineflex-container">
+<div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
+<div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
+<div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
+</div> 
       
   
 

@@ -4,7 +4,7 @@
 html {
 
   background-size: 100%;
-   font: normal 10px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+   font: normal 13px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
   
     font-variation-settings:
       "wdth" 100;
@@ -34,9 +34,7 @@ html {
     }
 
 body {
-  font:14px/22px "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
-   
-  font-size: 1rem;
+
 
 }
 
@@ -815,27 +813,29 @@ iframe {
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
 /* FLEX_BOX_FOR_3_IMAGES */
-.flex-container {
-  align-items: stretch;
-  /* flex-flow: row nowrap; */
-  flex-direction: row;
-  flex-wrap: nowrap;
-  padding: 0px;
+.greenlineflex-container {
+
+  display: flex;
+   align-items: stretch; 
+   flex-flow: row nowrap;  
+  flex-direction: row; 
+  flex-wrap: nowrap; 
   justify-content: center;
   align-content: stretch;
-  display: grid;
-  grid-template-columns: auto auto auto;
+  height: auto;
+width:100%;
+  padding: 15px;
+  gap: 5px;
+
 }
 
-.flex-container > div {
-  border: 1px dotted #c9ff23;
-}
-
-.flex-container > img {
-  object-fit: contain;
-  max-width: 100%;
+.flex-container > div{
+ 
   border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
 }
+
 
 :root {
   --magnifier: 8;
