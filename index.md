@@ -850,11 +850,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Martian Sunrise at Phoenix Landing Site, Sol 101](https://photojournal.jpl.nasa.gov/archive/PIA11201.gif)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Great Red Spot Rotation](https://photojournal.jpl.nasa.gov/archive/PIA22178.gif)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -877,3 +877,40 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg">
+    <pre>body {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        font-family: verdana, arial, helvetica, sans-serif;
+        color: #ccc;
+        background-color: #333;
+        text-align: center;
+        /* part 1 of 2 centering hack */
+        }
+    #content {
+        width: 400px; 
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: auto;
+        margin-left: auto; 	
+        /* opera does not like 'margin:20px auto' */
+        background: #666;
+        border: 5px solid #ccc;
+        text-align:left; 
+        /* part 2 of 2 centering hack */
+        width: 400px; /* ie5win fudge begins */
+        voice-family: "\"}\"";
+        voice-family:inherit;
+        width: 370px;
+        }
+    html&gt;body #content {
+        width: 370px; /* ie5win fudge ends */
+        }
+    </pre>
+    
+<div style="padding:20px;" align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+    
