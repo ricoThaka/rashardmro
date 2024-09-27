@@ -4,7 +4,9 @@ layout: default
 
 
 ![rocknest_curiosity](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg)
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+
 
 
 
@@ -14,6 +16,15 @@ layout: default
 The PDS Geosciences Node Spectral Library is a database of laboratory spectra submitted by various data providers. It includes spectra from the Reflectance Experiment Laboratory (RELAB) at Brown University as well as XAS and reflectance spectra from the [PDS4 bundles below](https://pds-geosciences.wustl.edu/spectrallibrary/default.htm)... ~> 
 
 ![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
+
+
+<div class="gallery-wrap">
+    <div class="item item-1"></div>
+    <div class="item item-2"></div>
+    <div class="item item-3"></div>
+    <div class="item item-4"></div>
+    <div class="item item-5"></div>
+</div>
 
 ![Sabotage Recovery](https://pbs.twimg.com/media/GUvM1WZaoAI-_hP?format=jpg&name=large)
 
@@ -47,6 +58,9 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![dilbert](https://pbs.twimg.com/media/GU9nUSha4AAi5oN?format=jpg&name=small)
 
+Zero Divide (ゼロ・ディバイド)[4] is a 3D fighting video game developed by Zoom that was released for the PlayStation in 1995
+<iframe src="https://archive.org/embed/psx_zerodiv" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ![EcoStress](https://ecostress.jpl.nasa.gov/logo.png)
 
 ### Dear Rep/Mayor Karen,
@@ -64,6 +78,28 @@ So I want to make sure i can make the [ECOSTRESS Science and Application Team Me
 [NASAJPL on HOLLYWOOD WALK OF FAME](https://x.com/MooNLOVER404/status/1761520866612187488)
 [Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
 [LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
+
+# Computing
+[#HTML5 <video> source examples </video>](https://codepen.io/thakarashard/pen/BagQQaR?editors=1000)
+[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+The CSS attribute selector matches elements based on the element having a given attribute explicitly set, with options for defining an attribute value or substring value match.[full article on mozilla_developer](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+
+```css
+img[alt="whiteslavery"] { max-width: 20%;}
+img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
+```
+<cite>markdown</cite>
+
+![whiteslavery](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)
+![whiteslavery40](https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg)
+
+<cite>HTML5</cite>
+<IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="whiteslavery">
+<cite>img[alt="whiteslavery"] { max-width: 20%;}</cite>
+<IMG src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="whiteslavery40">
+<cite>img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}</cite>   
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/epfIATepb7">https://t.co/epfIATepb7</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/SFCLA?ref_src=twsrc%5Etfw">@SFCLA</a> <a href="https://twitter.com/HollywoodFoodCo?ref_src=twsrc%5Etfw">@HollywoodFoodCo</a> <a href="https://twitter.com/WeingartCenter?ref_src=twsrc%5Etfw">@WeingartCenter</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> I signed up for the <a href="https://twitter.com/hashtag/ECOSTRESS?src=hash&amp;ref_src=twsrc%5Etfw">#ECOSTRESS</a> workshop <a href="https://twitter.com/hashtag/Pasadena?src=hash&amp;ref_src=twsrc%5Etfw">#Pasadena</a> <a href="https://twitter.com/metrolosangeles?ref_src=twsrc%5Etfw">@metrolosangeles</a> <a href="https://twitter.com/LAPDOutreach?ref_src=twsrc%5Etfw">@LAPDOutreach</a> <a href="https://t.co/8TPHSNFFfb">https://t.co/8TPHSNFFfb</a> <a href="https://twitter.com/hashtag/FareEnforcement?src=hash&amp;ref_src=twsrc%5Etfw">#FareEnforcement</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://t.co/APQX4kRqW1">pic.twitter.com/APQX4kRqW1</a></p>&mdash; ThakaRasharD (@MooNLOVER404) <a href="https://twitter.com/MooNLOVER404/status/1835034532896190723?ref_src=twsrc%5Etfw">September 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -197,20 +233,23 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
     </object>
     
       
-    <h1><span id="Main_heading">Main heading</span></h1>
-    <h2><span id="Subheading">Subheading</span></h2>
-    <h3><span id="Sub-subheading">Sub-subheading</span></h3>
-    <h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
-    <h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
-    <h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
+<h1><span id="Main_heading">Main heading</span></h1>
+<h2><span id="Subheading">Subheading</span></h2>
+<h3><span id="Sub-subheading">Sub-subheading</span></h3>
+<h4><span id="sub-sub-subheading">sub-sub-subheading</span></h4>
+<h5><span id="sub-sub-sub-subheading">sub-sub-sub-subheading</span></h5>
+<h6><span id="sub-sub-sub-sub-subheading">sub-sub-sub-sub-subheading</span></h6>
     
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" />
-     Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? (Thugga)
-      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
-      <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
-         <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
-    Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
-      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission.png" /> 
+
+ Future i got in trouble with them male dancers an im really distracted about the scope... can i use this instumental someday for a #NasaMars presentation im working on?  ? ? 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633670590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alilmilk" title="alilmilk" target="_blank" style="color: #cccccc; text-decoration: none;">alilmilk</a> · <a href="https://soundcloud.com/alilmilk/future-red-carpet-feat-young-thug-prod-by-wheezy" title="Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]" target="_blank" style="color: #cccccc; text-decoration: none;">Future - Red Carpet (feat. Young Thug) [Prod. By Wheezy]</a></div>
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/images/BoardingPass_MyNameOnFutureMission%20(1).png" />
+<img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" />
+Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help me accept you for all you are - #Shaadi  
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
     <a href="https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_m.html">The Global CTX Mosaic
       of Mars</a>
       <a href="https://astrogeology-usgs.hub.arcgis.com/pages/interactive-maps-mars">USGS-NASA Planetary Geologic Mapping Program ::Interactive Maps: Mars</a>
@@ -245,6 +284,29 @@ Those girls i met in atlanta are in trouble. Im bleeding from prostitution punis
 [Table Top Mountain NaSAJPL LOCATion](https://tmf.jpl.nasa.gov/tmf-lidar/about_us/personnel.htm) [Local LA](https://www.recreation.gov/camping/campgrounds/233735) [Table Mountain Campground](https://www.fs.usda.gov/recarea/angeles/recarea/?recid=41684) [Table Moutain Facility](https://tmf.jpl.nasa.gov/) [Table Mountain Observatory](https://en.wikipedia.org/wiki/Table_Mountain_Observatory) [Griffith Zoo to Observatory Loop](https://www.alltrails.com/trail/us/california/griffith-zoo-to-observatory-loop) [Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Twitters](https://thakarashard.github.io/twitters/) is a [repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) I made with some tweet where i talked about people effected by the [coviDrape](https://bristoluniversitypressdigital.com/view/journals/jgbv/6/2/article-p242.xml) of [east atlanta](https://sfi.usc.edu/collections/nanjing-massacre)
 > 23% increase of sexual and psychological violence reported in a survey of 13,786 people in Spain
 [The impact of COVID19 pandemic and government enforced lockdowns on levels of attendance and context of sexual assaults reported at Saint Marys Sexual Assault Referral Centre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245237/#:~:text=Reports%20of%20intimate%20partner%20violence,in%20Peru%20increased%20by%2048%25) [A Second, Silent Pandemic: Sexual Violence in the time of COVID-19](https://info.primarycare.hms.harvard.edu/perspectives/articles/sexual-violence-and-covid)
+
+# Coral 
+
+![Pillars of Creation](https://stsci-opo.org/STScI-01GFRYX6CJ1ZTKW4PHAE55BY8P.png)
+[Web Space Telescope](https://webbtelescope.org/home) [76ers apologize for canceling 'We Matter' anthem singer's performance](https://www.theguardian.com/sport/2016/oct/28/philadelphia-76ers-apologize-sevyn-streeter-we-matter-national-anthem)
+
+![webb](https://stsci-opo.org/STScI-01HV6MQ5QQ6GBYANM6GV7YWYK5.png)
+
+
+[Raising Dion | imdb](https://www.imdb.com/title/tt7826108/) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6koPaImHzY?si=F2xFui8BCBfTHKJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dear_KevinRothwell idk whats going on with my life but im living in Los Angeles right now. You fired me. Do you have ties to [Netflix](https://www.netflix.com/title/80117803?) because [Raising Dion](https://en.wikipedia.org/wiki/Raising_Dion) is an embellished copy of my life with Coral! Theres a Gender swap. And she is a graphic designer, those girls from Dance411 know me that way i was hired as an inter webdeveloper probono an its like Willow Smith or Chloe Bailey from Rentpath Graphic Design... Well maybe thats not you [yallywood](https://www.wsj.com/story/welcome-to-yallywood-atlanta-is-now-the-hot-spot-for-celebrity-home-buyers-aa98768b). But I know Gary Powers was into [Korean Girls](https://www.cnn.com/2024/03/08/asia/north-korean-refugees-trafficked-china-intl-hnk-dst/index.html) so I dont know your [value system](https://typeset.io/questions/what-is-the-conceptual-definition-of-value-systems-2nacjv2xlr). But there is a girl at CNN that i am angry at because I work for nasajpl i just am in a labor dispute after being poisoned thats all. Jeff told me he worked for JPL in the past so I thoughtI was in the right place. Ashley is related to you one way or another. There aer images posted from Curiosity and I was doing research my blog is popular back east and so is CNN. I was doing Geology on Mars and all the places [I need to explore  ](https://murray-lab.caltech.edu/) are on that map so its not like she stole something i cooked from scratch and im new to the world of research. So to be honest im confused. But Nakesha held me down for sex and i was all ready digging her so its toxic but not in terms of her control over my physical being and mind... She works at Magic City an they out here in Losangeles dancing at a the place from [Demi Moore movie  sHOWGIRLS](https://archive.org/details/showgirls-tv-version) I yelled at you to get away from me bc u dont realize you not my daddy, that was nasty an Mike Child a villian in the AJC... Was my termination related to sex with nakeisha?
+![Mike Child](https://img.newspapers.com/img/img?user=10009388&id=398125058&clippingId=124905270&width=820&height=2122&crop=0_3380_1308_3385&rotation=0)
+
+
+[Electronic Gaming Monthly 58](https://archive.org/details/Electronic_Gaming_Monthly_58) [GamePro Issue 049 August 1993](https://archive.org/details/GamePro_Issue_049_August_1993) [GamePro Issue 056 March 1994 NBAJAM(s)](https://archive.org/details/GamePro_Issue_056_March_1994)
+
+people are taking over [my sessions](https://archive.org/details/screen-recording-2024-07-20-2.18.38-pm), i know i was hacked by you and ppl u know b4... but if u trying to keep up with me i have an [atom feed](https://ricothaka.github.io/compiling/atom) how do i see you, im so confused, im scared of getting killed. TTys i hope
+
+Hi Coral, here are some of my notes from my job, i gotta blog about this discovery bc i cant find the pin in the raw files [NASA’s Curiosity Rover Discovers a Surprise in a Martian Rock](https://www.jpl.nasa.gov/news/nasas-curiosity-rover-discovers-a-surprise-in-a-martian-rock?utm_source=TWITTER&utm_medium=NASA&utm_campaign=NASASocial&linkId=513448326) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4245 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=10&mission=msl&begin_date=2024-7-16&end_date=2024-7-19) [RelatedTweet](https://x.com/MooNLOVER404/status/1814371477732638922) [relatedtweet](https://x.com/MooNLOVER404/status/1814369090984915019) [Mars Science Laboratory: Curiosity Raw Images Filtering:Sol: 4247 to 4248](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=1&mission=msl&begin_date=2024-7-18&end_date=2024-7-19)
+
+![Curiosity](https://pbs.twimg.com/media/GS3wr4JaIAAgNwa?format=jpg&name=large)
 
 
 ![MAriner](https://d2pn8kiwq2w21t.cloudfront.net/images/Mars-800h-v2_02.width-1024.png)
@@ -593,6 +655,107 @@ NASA/JPL-Caltech</p>
   <a href="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4">MP4</a>
   video.
 </video>
+
+
+![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
+[Normani](https://www.tiktok.com/@normani?lang=en) [Bobbly Ray is from Decatur](https://en.wikipedia.org/wiki/B.o.B) No one belived i worked for nasa when i came back east after being poisoned out of [Monrovia's Extended Stay](https://www.yelp.com/biz/extended-stay-america-los-angeles-monrovia-monrovia) with [Erika](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/). When I was babysitting coral, the song [5Th Dimension](https://www.youtube.com/watch?v=NHfPx7EZ_0U) was a fun tune. iDk if you assisted with production but it had that [Party Vibe we catch with the kids](https://www.abcearlylearning.com/child-care-atlanta-ga.htm). So im running around [Palmdale Mall(Antelope Valley)](https://www.av-mall.com/) Playing that hppy pop shit from atlanta to keep her entertained. She was born in [Northside](https://www.northside.com/locations/northside-hospital-atlanta) and has a true Native Georgia energy! I bring it up bc a few ppl talk to me in strange ways like you, but i really dont know who he is. But I know i went to the same [barbershop](https://www.yelp.com/biz/platinum-cut-decatur) for some time. I had some ppl taunting me in songs about you, erika and muna. It really breaks my heart bc im not from there. A lot of ppl got chewed up with jealosy and im terrified he is fighting me too. He is a [Flat Earther](https://en.wikipedia.org/wiki/B.o.B_discography)... i think im wrong [irt](https://www.suvoda.com/insights/blog/what-is-interactive-response-technology-irt) *inrealtime* Anyway im trying to weed out real people. Since you from Magic, like yo i really need you to help me sort out my male relationships so i dont hurt you ... [peer pressure](https://soundcloud.com/housevibez/de-la-soul-peer-pressure-feat-b-real-jaydee?in=joshua-calhoun-299698480/sets/de-la-soul-aoi-bionix-1&si=4cc9e042b14345248a46399e7ab6f147&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) im scared i dont really know what to say but there is a layer of men i can hang out with and have fun but they destroy my life  bc they have a different view of the law and [graffiti](https://archive.org/details/artofgettingover0000powe)... Back to Bobby ray. Since he using a [Nasa Logo](https://www.cnn.com/style/article/nasa-worm-logo-scn/index.html) i dont know man since the [The traditional NASA blue circular logo](https://www.nasa.gov/history/symbols-of-nasa/) is common in the media i think ppl see the [WormLogo](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf) as [Deprecated](https://www.techtarget.com/whatis/definition/deprecated) i use it to identify myself in [California](https://www.ca.gov/)
+
+
+[Rapper B.o.B. raising funds to check if Earth is flat](https://www.bbc.com/news/blogs-trending-41399164) 
+<embed  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260595988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
+
+[BoB  London Jae - NASA (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m8f53a99)
+
+![wormLogo](https://media.cnn.com/api/v1/images/stellar/prod/200424060716-nasa-worm-logo.jpg?q=w_1480,c_fill/f_webp)
+![BoBNaSa](https://ia801201.us.archive.org/4/items/datpiff-mixtape-m8f53a99/00%20-%20BoB_London_Jae_NASA-back-large.jpg)
+
+
+<embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
+
+Ella Mai::Not Another Love Song
+
+## YoungBoy Never Broke Again - We Poppin (feat. Birdman)
+<embed  src="https://www.youtube.com/embed/SKexLz5QRN0?si=09OSnzNjbIoy50dD" title="YouTube video player"  allowfullscreen />
+
+
+
+I have not really connected to any of your songs before, but today is different. I miss riding in [Savannah](https://visitsavannah.com/). I lost my little girl, the one that was with me when you an your girl pulled up on me in Savannah. That song was really healing. Im in Los Angeles, i got intimate with [Normani](https://variety.com/2024/music/news/normani-dopamine-debut-solo-album-1235918512/) and i dont know what life is, but i saw that LenoxMall tape when [Allied](https://www.aus.com/) tried you. They had this Intership program at Dance411 an a few girls encircled me, we went to Graveyard and HodgePodge for meetings, an after some reondevus with about 4 different girls that all wear the same makeup i realized i got played... There is this lightskinone i see in Hollywood hellafly, used to dance there... Anyway Im running bc i was accused of killing erika and ppl trying to kill me bc the charge cant stick! [Nasa](https://www.jpl.nasa.gov/) has been monitoring me an i know i can get clear! If you stuck in LosAngeles go get a BackgroundCheck its [FortMcFphereson](https://militarybases.com/georgia/fort-mcpherson/) for LA bc im getting taht since im criminally clean they putting a lot of pressure on me to stay healthy so they can come home. Erika is [Latto](https://www.essence.com/celebrity/mulatto-rapper/) her an Gucci was ... actually u know all there was a [namechange](https://www.11alive.com/article/entertainment/television/programs/the-a-scene/why-rapper-mulatto-changed-her-name/85-2e9c3a1c-0d0f-4ea3-9589-91ded4a60165) an im hurt but since Matt is involved i hope there was like a bad trick bc, at somepoint hey will be free from Playboy an im grieving Normani getting shit Erika missed out on bc they would never give her privacy as a married woman. Its Genocide man they have a word for it in California... [eugenics](https://www.latimes.com/business/story/2020-07-07/caltech-robert-millikan-eugenics-sterilization)
+
+
+
+{% highlight python linenos hl_lines="1 3 4" %}
+print("YoungBoy Never Broke Again - We Poppin (feat. Birdman)")
+print("Normani ride with me ...")
+{% endhighlight %}
+
+![Atlanta](https://eoimages.gsfc.nasa.gov/images/imagerecords/147000/147806/atlanta_oli_2020127.jpg)
+[Changing Atlanta](https://earthobservatory.nasa.gov/images/147806/changing-atlanta)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1818588336&color=%237a7262&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jiahofficial" title="Jiah" target="_blank" style="color: #cccccc; text-decoration: none;">Jiah</a> · <a href="https://soundcloud.com/jiahofficial/sets/college-daze" title="College Daze" target="_blank" style="color: #cccccc; text-decoration: none;">College Daze</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1758800004&color=%230582cd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thakaserika-selassie_kelly" title="thakasErika" target="_blank" style="color: #cccccc; text-decoration: none;">thakasErika</a> · <a href="https://soundcloud.com/thakaserika-selassie_kelly/sets/holetoanotheruniverse" title="#holeToAnotherUniverse #WorkShirt" target="_blank" style="color: #cccccc; text-decoration: none;">#holeToAnotherUniverse #WorkShirt</a></div>
+
+[Travis Scott - Days Before Astroworld (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m6dd0cdf)[Rihanna - The Anti Tape (DatPiff.com)](https://archive.org/details/datpiff-mixtape-m1666550) 
+[Album Of The Week | Meek Mill – DC4 88.7fm 11/4/2016](https://wfnp.org/album-of-the-week-meek-mill-dc4/)
+[Gunsmith Cats Episode 1 1080p Subbed](https://youtu.be/rELcbhPheRM?si=mZ4NL3hLQiIRrSdL)
+By <a href="//en.wikipedia.org/wiki/Kenichi_Sonoda" title="Kenichi Sonoda">Kenichi Sonoda</a> - <a rel="nofollow" class="external free" href="https://www.amazon.co.jp/dp/B00A2MCLJY">https://www.amazon.co.jp/dp/B00A2MCLJY</a>, <a href="//en.wikipedia.org/wiki/File:Gunsmith_Cats_volume_1_cover.jpg" title="Fair use of copyrighted material in the context of Gunsmith Cats">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=69585498">Link</a>
+
+<a href="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png"><img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Fire_and_Ice_1983_poster.png" style="width:180px;height:252px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> 
+[Fire and Ice (1983 film)](https://youtu.be/iqGl01na3a4?si=PYxA8SzkXaMKxhJc)
+[imdb](https://www.imdb.com/title/tt0085542/)
+<iframe src="https://archive.org/embed/a137ee3e2a37701695abd791d95bfeaf-1080p" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+Red Earth / War-Zard (Euro 961121)
+Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo),[1] is a fantasy-themed 2D fighting game released by Capcom as an arcade game in 1996. It was the first game for Capcom's CP System III hardware,[2] the same hardware which Street Fighter III and its derivatives ran on.[3] After not being released on a home platform for 26 years, it was announced on February 20, 2022 that Red Earth would receive its first port as a part of the Capcom Fighting Collection on June 24, 2022 for PlayStation 4, Xbox One, Nintendo Switch, and PC.[4] 
+
+<a href="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg" style="width:180px;height:252px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> 
+ 
+[ReadMoreOnWikipedia](https://en.wikipedia.org/wiki/Red_Earth_(video_game)) 
+Play WarZard
+<iframe src="https://www.retrogames.cc/embed/9655-red-earth-war-zard-euro-961121.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
+
+[Magnum Photos](https://www.magnumphotos.com/)
+
+<iframe src="https://archive.org/embed/vietnam-war-era" width="500" height="200" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
+[imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
+
+<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+
+<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+<iframe src="https://archive.org/embed/arcade_tron" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/msdos_TRON_-_Light_Cycles_1992" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
+
+<video controls width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+
+<source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+## Beyond the Valley of the Dolls
+Beyond the Valley of the Dolls is a 1970 American satirical[6][7] musical melodrama film starring Dolly Read, Cynthia Myers, Marcia McBroom, Phyllis Davis, John LaZar, Michael Blodgett, and David Gurian. The film was directed by Russ Meyer and screenwritten by Roger Ebert from a story by Ebert and Meyer.[8]
+
+<iframe src="https://archive.org/embed/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![VALLEY](https://archive.org/download/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag/beyond.-the.-valley.-of.-the.-dolls.-1970.1080p.-blu-ray.x-264-yts.-ag.thumbs/Beyond.The.Valley.Of.The.Dolls.1970.1080p.BluRay.x264-%5BYTS.AG%5D_002340.jpg)
+
+![Viking](https://upload.wikimedia.org/wikipedia/commons/7/7a/Mars_Viking_21i093.png)
+[Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
+![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
