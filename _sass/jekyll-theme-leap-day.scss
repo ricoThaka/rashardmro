@@ -409,8 +409,11 @@ section {
     border-radius: 3px;
     border: 1px solid #cbcbcb;
     box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4); */
+    
+    display : flex;
+    flex-wrap: wrap;
     border-radius: 31px 31px 31px 31px;
-    margin-top: -20px;
+    margin-top: -25px;
   width: 85vh; 
   padding: 0px;
     margin-bottom: 40px;
@@ -427,9 +430,8 @@ section {
   /* part 2 of 2 centering hack */
   voice-family: "\"}\"";
   voice-family:inherit;
-  overflow: hidden;
-  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
-  font-family: 'Martian Mono',"Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana; 
+   box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+  font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
   /* color: #c9ff23;  */
   }
 
@@ -614,7 +616,7 @@ footer {
 
   header{
     position: relative;
-    padding: 5px 0px;
+    padding: 0px 0px;
     min-height: 0px;
 
     h1 {
@@ -627,7 +629,7 @@ footer {
     }
   }
   section {
-    margin-top: 5px;
+    margin-top: 0px;
   }
 
   #banner { display: none;}
@@ -678,6 +680,7 @@ footer {
 .gallery-wrap {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   width: 100%;
   height: 70vh;
 }
@@ -818,14 +821,12 @@ iframe {
 
   display: flex;
    align-items: stretch; 
-   flex-flow: row nowrap;  
+   flex-flow: row wrap;  
   flex-direction: row; 
-  flex-wrap: nowrap; 
   justify-content: center;
   align-content: stretch;
   height: auto;
 width:100%;
-  padding: 15px;
   gap: 5px;
 
 }
