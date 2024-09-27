@@ -881,7 +881,11 @@ The final element.
 
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26202.jpg" >
 <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26207.jpg">
-    <pre>body {
+
+<pre>
+ 
+ 
+ body {
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px 0px;
         font-family: verdana, arial, helvetica, sans-serif;
