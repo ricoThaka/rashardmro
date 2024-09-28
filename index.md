@@ -19,6 +19,12 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
 
+
+### Old MArs Blogs
+[RicoThaka/MarsBlog](https://ricothaka.github.io/twitters/marsblog.html) the background uses a technique i learned from [Eric Meyer Design Complex Spiral](https://meyerweb.com/eric/css/edge/complexspiral/demo.html)
+[RicoThaka/MarsBlog1 its a diff look](https://ricothaka.github.io/twitters/marsblog.html)
+
+
 {% include unixingandroid.md %}
 
 <div class="greenlineflex-container">
