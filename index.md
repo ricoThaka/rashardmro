@@ -11,11 +11,15 @@ layout: default
 
 
 # Planetary Data Sciences Update : : : M_R_O
-### August 1, 2024. The SHARAD radargrams from the SHARAD Science Team have been migrated to the PDS4 standard. See the PDS4 notes document for details.
+### September 23, 2024. New data have been added to the RELAB spectral library bundle. [See relab_data_release_notes.txt for details.](https://pds-geosciences.wustl.edu/speclib/urn-nasa-pds-relab/document/relab_data_release_notes.txt)
 
-The PDS Geosciences Node Spectral Library is a database of laboratory spectra submitted by various data providers. It includes spectra from the Reflectance Experiment Laboratory (RELAB) at Brown University as well as XAS and reflectance spectra from the [PDS4 bundles below](https://pds-geosciences.wustl.edu/spectrallibrary/default.htm)... ~> 
+The PDS Geosciences Node Spectral Library is a database of laboratory spectra submitted by various data providers. It includes spectra from the [Reflectance Experiment Laboratory (RELAB)](https://sites.brown.edu/relab/) at Brown University as well as XAS and reflectance spectra from the [PDS4 bundles below](https://pds-geosciences.wustl.edu/spectrallibrary/default.htm)... ~> 
 
 ![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
+
+![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
+
+{% include unixingandroid.md %}
 
 <div class="greenlineflex-container">
 <div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
