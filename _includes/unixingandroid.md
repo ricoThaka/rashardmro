@@ -11,13 +11,13 @@ Hi MRO, want you to have an update on what my computing situation has been since
 <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
 <img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GYmk8QmasAEk6i2?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
 <img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
 <img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
-<img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GYmlk8TasAARByF?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
+<img src="https://pbs.twimg.com/media/GYmk40DasAMTr8y?format=png&name=large" />
 </div>
 </div>
 

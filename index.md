@@ -19,6 +19,13 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
 
+<div class="greenlineflex-container">
+<div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
+<div class="item2">                        <img src="https://mars.nasa.gov/system/resources/detail_files/25690_2-PIA24338-800.gif" /></div>
+<div class="item3">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1006_PIA24489-3-ncamRRWheel-800px.gif" /></div>
+</div> 
+
+
 
 ### Old MArs Blogs
 [RicoThaka/MarsBlog](https://ricothaka.github.io/twitters/marsblog.html) the background uses a technique i learned from [Eric Meyer Design Complex Spiral](https://meyerweb.com/eric/css/edge/complexspiral/demo.html)
@@ -26,6 +33,11 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 
 {% include unixingandroid.md %}
+
+
+<iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1259032933&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/didnt-say-feat-latto" title="Didn&#x27;t Say (feat. Latto)" target="_blank" style="color: #cccccc; text-decoration: none;">Didn&#x27;t Say (feat. Latto)</a></div>
 
 <div class="greenlineflex-container">
 <div class="item1">                        <img src="https://mars.nasa.gov/system/internal_resources/details/original/1004_PIA24489-1-ncamFLWheel-800px.gif" /></div>
