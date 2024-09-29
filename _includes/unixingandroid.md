@@ -21,8 +21,13 @@ Hi MRO, want you to have an update on what my computing situation has been since
 </div>
 </div>
 
+### Its just a Personal Computer
+There is such an abstraction when running the manufacure bundeld android. But its normal PC architechture in a small ass package! The Following video is a screenshare of me using [Android](https://www.android.com/) for abt a half hour on a severley disabled cellphone. No root just [termux](https://termux.dev/en/) [![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png) [](https://github.com/termux/termux-app#f-droid)]
 
 
+[What is F-Droid](https://f-droid.org/en/)? `A Software Repo!` <~ "ME" ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+<iframe src="https://archive.org/embed/screen-20240806-030550" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 
@@ -49,6 +54,19 @@ Hi MRO, want you to have an update on what my computing situation has been since
   </div>
 
 
+![Nintendo64](https://dn721101.ca.archive.org/0/items/nintendo-64-romset-usa/N64.png)
+
+<iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+
+# gaming
+
+The concept of what a Handheld is is greatly challenged with the virtualization options on the platform! The games played really well under [Lemuroid](https://github.com/Swordfish90/Lemuroid) and [RetroArch](https://www.retroarch.com/) there are a lot of what they refer to as CORES which is simply a [vmdk](https://en.wikipedia.org/wiki/VMDK#:~:text=VMDK%20(short%20for%20Virtual%20Machine,like%20VMware%20Workstation%20or%20VirtualBox.) in corporate talk a container and it will run [8-bit programs](https://docs.libretro.com/library/vice/)! The potential is limitless for us not being tied to an office. The Municipal Law Enforcement Guys appear advanced at this outside of Fare Enforcement! 
+![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
+![vmdk](https://upload.wikimedia.org/wikipedia/commons/b/b7/VMDK_File_Format_icon.png)
+![RetroArch](https://www.retroarch.com/images/bgbuttons.png)
 
 
   <div class="featured-pinupImage expandingGallery">
@@ -100,6 +118,9 @@ Hi MRO, want you to have an update on what my computing situation has been since
 ![GrandCentral](https://pbs.twimg.com/media/GIL5cEibgAACUDh?format=jpg&name=900x900)
 ![PeachtreeCenter](https://pbs.twimg.com/media/GIL9zgQbUAAt9xN?format=jpg&name=medium)
 [![homepage](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large "Redirect to homepage")
+
+
+<iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <div class="mermaid">
 sequenceDiagram
