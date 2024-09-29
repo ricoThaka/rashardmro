@@ -7,6 +7,10 @@
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
+
+
+
+----- author readme ------- 
 ## Usage
 
 To use the Leap day theme:
