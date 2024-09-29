@@ -26,7 +26,7 @@ There is such an abstraction when running the manufacure bundeld android. But it
 
 [![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://github.com/termux/termux-app#f-droid "Redirect to homepage")
 
-[![homepage](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large)](https://pbs.twimg.com/media/GK6lMrFbMAAm3m_?format=jpg&name=large "Redirect to homepage")
+
 
 
 
@@ -52,7 +52,8 @@ There is such an abstraction when running the manufacure bundeld android. But it
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
 
-[What is F-Droid](https://f-droid.org/en/)? `A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+## What is F-Droid?
+>`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 ![Nintendo64](https://dn721101.ca.archive.org/0/items/nintendo-64-romset-usa/N64.png)
 
