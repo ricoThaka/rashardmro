@@ -433,6 +433,7 @@ section {
    box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
   font-family: 'Martian Mono',-apple-system, Ariel, Verdana; 
   /* color: #c9ff23;  */
+  overflow: hidden;
   }
 
 small {
@@ -465,7 +466,7 @@ nav {
 
         a {
           font-weight: bold;
-          color: #00ff00;
+          color: white;
         }
 
         + .tag-h2 {
@@ -482,9 +483,10 @@ nav {
     }
 
     a {
-      color: #00ff26;
+      color: #ffffff;
+      transition: 0.3s;
 
-      &:hover { color: #00e5ff; }
+      &:hover { color: #37ff00; }
     }
 
     // .active {

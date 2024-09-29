@@ -122,6 +122,41 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 
 <iframe src="https://archive.org/embed/msdos_Turbo_Out_Run_1990" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968932438&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/erick-chapa-villarreal" title="TREEKEL" target="_blank" style="color: #cccccc; text-decoration: none;">TREEKEL</a> · <a href="https://soundcloud.com/erick-chapa-villarreal/ridge-racer-psx-rare-hero-hq" title="Ridge Racer (PSX) - Rare Hero (HQ)" target="_blank" style="color: #cccccc; text-decoration: none;">Ridge Racer (PSX) - Rare Hero (HQ)</a></div>
+
+<div class="pinupGallery">
+<div class="pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
+  <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
+<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
+<img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
+<img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
+</div>
+</div>
+
+
+
+## Marvel Super Heroes (Euro 951024)
+by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
+ <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
+<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
+<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
+</div>
+
 <div class="mermaid">
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -169,23 +204,9 @@ C --> D
 
 [video link](https://www.youtube.com/watch?v=BzgQKphzhzQ)
 
-# UnixinG_Android 
 
-<div class="pinupGallery">
-<div class="pinupImage expandingGallery">
-<img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
-  <img src="https://pbs.twimg.com/media/GK__WllbQAAMH69?format=jpg&name=large" />
-<img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" />
-<img src="https://pbs.twimg.com/media/F7ZU0vDaQAAnOav?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GB--_Aja4AABqTO?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/F9TCvKpawAAePpN?format=png&name=medium" />
-<img src="https://pbs.twimg.com/media/GBuuXERakAABNTx?format=png&name=large" />
-<img src="https://pbs.twimg.com/media/F5kTRrvacAA36ea?format=png&name=medium" />
-<img src="https://pbs.twimg.com/media/F9JWlldagAA7Tk_?format=jpg&name=medium" />
-<img src="https://pbs.twimg.com/media/GE47huua0AA4t46?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
-</div>
-</div>
+
+
 
 
 <div class="gullies">
@@ -204,24 +225,6 @@ C --> D
 # <(''<)  <( ' ' )>  (> '')>
 
 ![ATLien420](https://pbs.twimg.com/media/GLoRhfRbMAA8_JK?format=jpg&name=large)
-
-<embed src="https://www.youtube.com/embed/qxyxqVDjSzs?si=FJLDFHo9UgZocaYA" title="YouTube video player"  allowfullscreen />
-<embed src="https://www.youtube.com/embed/5YMYrB0dqoU?si=ShVaFTO1D4851hIv" title="YouTube video player"  allowfullscreen />
-
-## Marvel Super Heroes (Euro 951024)
-by [Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
- <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GFr3hVJagAAm7la?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/GHi26hTasAAOD99?format=jpg&name=large" />
-<img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
-<img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
-<img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
-
-
-</div>
 
 ![ATLiEN](https://pbs.twimg.com/media/GILodwkaMAASXdr?format=jpg&name=4096x4096)
 
