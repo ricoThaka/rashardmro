@@ -79,9 +79,9 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 > here is a [DosBox](https://sourceforge.net/projects/dosbox/) [example](https://codepen.io/thakarashard/pen/xxeaGjB). Its SuperStreetFighter2Turbo ed.!, I had Flashback going, but the entertainment nazi's my significant other is controlled by broke it, idk if anyone can run it from [abandonware](https://www.myabandonware.com/)
 
 # Super Street Fighter 2 Turbo (dos)
-
+<head>
 <title>js-dos api</title>
-    <style type="text/css">
+<style type="text/css">
       .dosbox-container { width: 100%; height: 400px; }
       .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
     </style>
