@@ -54,15 +54,6 @@ There is such an abstraction when running the manufacure bundeld android. But it
 </div>
 </div>
 
-## What is F-Droid?
->`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
-
-![Nintendo64](https://dn721101.ca.archive.org/0/items/nintendo-64-romset-usa/N64.png)
-
-<iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-
 
 # gaming
 
@@ -75,45 +66,31 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 
 
 <div class="featured-pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/F5iifb5bMAA8lzJ?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GAUhpiEbMAAdmdV?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/GAUhpsDbYAAV4oY?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/GBrgSgTbsAAlehp?format=jpg&name=large" />
+<img src=" https://pbs.twimg.com/media/GCNRhhYbMAAnDbq?format=jpg&name=large" >
+<img src=" https://pbs.twimg.com/media/GBt_DwXbUAA9IWI?format=jpg&name=large" >
+<img src="https://pbs.twimg.com/media/GBaBiMrbMAA2qOV?format=jpg&name=large" />    
+<img src=" https://pbs.twimg.com/media/F8xAfwxbwAAhxs3?format=jpg&name=medium" >
+<img src=" https://pbs.twimg.com/media/F3xyxPeaIAASPP4?format=jpg&name=medium" >
+</div>
 
-  <img src="https://pbs.twimg.com/media/F7ZU0YKbkAAWcH7?format=png&name=medium" />
+<div class="featured-pinupImage expandingGallery">
+<img src="https://pbs.twimg.com/media/F-Th0xObEAAkKql?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GBm27WPaIAArwJL?format=png&name=large" />
+<img src="https://pbs.twimg.com/media/GEU5hUSaAAAFthd?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F15blhLXsAEGf97?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GBaBiezbwAANHWL?format=jpg&name=large" />
+<img src="https://pbs.twimg.com/media/F8xAgGQbgAAg_4M?format=png&name=medium" />
+<img src="https://pbs.twimg.com/media/F8LGgJMbUAE_juR?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/F3xyxXdbEAA2Lce?format=jpg&name=medium" />
+<img src=" https://pbs.twimg.com/media/GBaBh5aaEAAZjGn?format=png&name=large" >
+<img src="https://pbs.twimg.com/media/GAn5U1casAAwbNU?format=jpg&name=medium" />
+</div>
 
-  <img src="https://pbs.twimg.com/media/F5iifb5bMAA8lzJ?format=jpg&name=medium" />
-
-  <img src="https://pbs.twimg.com/media/GAUhpiEbMAAdmdV?format=png&name=medium" />
-  <img src="https://pbs.twimg.com/media/GAUhpsDbYAAV4oY?format=png&name=medium" />
-      <img src="https://pbs.twimg.com/media/GBrgSgTbsAAlehp?format=jpg&name=large" />
-      <img src=" https://pbs.twimg.com/media/GCNRhhYbMAAnDbq?format=jpg&name=large" >
-      <img src=" https://pbs.twimg.com/media/GBt_DwXbUAA9IWI?format=jpg&name=large" >
-           <img src="https://pbs.twimg.com/media/GBaBiMrbMAA2qOV?format=jpg&name=large" />
-        
-  <img src=" https://pbs.twimg.com/media/F8xAfwxbwAAhxs3?format=jpg&name=medium" >
-  <img src=" https://pbs.twimg.com/media/F3xyxPeaIAASPP4?format=jpg&name=medium" >
-  
-
-
-  </div>
-
-  <div class="featured-pinupImage expandingGallery">
-
-
-
-  <img src="https://pbs.twimg.com/media/F-Th0xObEAAkKql?format=jpg&name=medium" />
-      <img src="https://pbs.twimg.com/media/GBm27WPaIAArwJL?format=png&name=large" />
-  <img src="https://pbs.twimg.com/media/GEU5hUSaAAAFthd?format=jpg&name=large" />
-  <img src="https://pbs.twimg.com/media/F15blhLXsAEGf97?format=jpg&name=medium" />
-
-  <img src="https://pbs.twimg.com/media/GBaBiezbwAANHWL?format=jpg&name=large" />
-      <img src="https://pbs.twimg.com/media/F8xAgGQbgAAg_4M?format=png&name=medium" />
-      <img src="https://pbs.twimg.com/media/F8LGgJMbUAE_juR?format=jpg&name=medium" />
-  <img src="https://pbs.twimg.com/media/F3xyxXdbEAA2Lce?format=jpg&name=medium" />
-      <img src=" https://pbs.twimg.com/media/GBaBh5aaEAAZjGn?format=png&name=large" >
-      <img src="https://pbs.twimg.com/media/GAn5U1casAAwbNU?format=jpg&name=medium" />
-
-
-
-  </div>
-  </div>
 
 ![DroidAmendSartuVanessa](https://gifdb.com/images/high/android-robot-update-maintenance-46bdzwbktck5vp31.gif)
 
@@ -147,7 +124,7 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 </div>
 
 
- <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+<div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
@@ -156,8 +133,6 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 <img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
 <img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
-
-
 </div>
 
 
