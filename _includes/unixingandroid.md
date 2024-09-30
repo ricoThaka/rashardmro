@@ -75,8 +75,8 @@ DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/X
 You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
 
 DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.com/information.php?page=0)
-
-> here is an example. Its StreetFighter!, I had Flashback going, but the entertainment nazi's my significant other is controlled by broke it, idk if anyone can run it from [abandonware](https://www.myabandonware.com/)
+[DOWNLOAD](https://sourceforge.net/projects/dosbox/) [Classic Dos Games](https://www.classicdosgames.com/)
+> here is a [DosBox](https://sourceforge.net/projects/dosbox/) [example](https://codepen.io/thakarashard/pen/xxeaGjB). Its SuperStreetFighter2Turbo ed.!, I had Flashback going, but the entertainment nazi's my significant other is controlled by broke it, idk if anyone can run it from [abandonware](https://www.myabandonware.com/)
 
 # Super Street Fighter 2 Turbo (dos)
 
@@ -104,7 +104,7 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
       });
     </script>
 
-![DosBox](https://commons.wikimedia.org/wiki/File:Dosbox_background_icon.svg)
+![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
 
 ![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
 ![RetroArch](https://www.retroarch.com/images/bgbuttons.png)
@@ -182,7 +182,11 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 
 </div>
 
+### The Oregon Trail
+by [Minnesota Educational Computing Consortium](https://www.mecc.co/) most commonly known as MECC, was an organization founded in 1973 best known for developing the edutainment video game series The Oregon Trail and its spinoffs.
+<iframe src="https://archive.org/embed/OregonTrailMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![mecc](https://upload.wikimedia.org/wikipedia/commons/b/bf/MECC_logo.svg)
 [Marvel Super Heroes (Euro 951024) _ Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
 
 <div class="mermaid">
