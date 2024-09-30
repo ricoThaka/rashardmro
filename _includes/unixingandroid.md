@@ -52,6 +52,7 @@ There is such an abstraction when running the manufacure bundeld android. But it
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
+</div>
 
 ## What is F-Droid?
 >`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
