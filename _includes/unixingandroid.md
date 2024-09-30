@@ -103,7 +103,7 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
         }
       });
     </script>
-
+</body>
 ![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
 
 ![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
