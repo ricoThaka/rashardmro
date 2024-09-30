@@ -56,7 +56,7 @@ There is such an abstraction when running the manufacure bundeld android. But it
 ## What is F-Droid?
 >`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
-![snes](https://upload.wikimedia.org/wikipedia/commons/0/0c/SNES-USA.png)
+![n64](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/N64-Console-Set.png/1024px-N64-Console-Set.png)
 
 <iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -104,8 +104,8 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
       });
     </script> 
   </body>
-  
-   
+
+
 ![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
 
 ![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
