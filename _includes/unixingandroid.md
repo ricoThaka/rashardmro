@@ -1,5 +1,4 @@
 
-<div markdown="1">
 
 # UnixinG_Android 
 Hi MRO, want you to have an update on what my computing situation has been since Jose took my laptop back. Im in the library system but they wont let me have free access to a computer. Its connected to my spouse's prostitution and porno. In [Santa Monica Porn is filmed at the library at times](https://www.couriermail.com.au/lifestyle/pornhub-movie-filmed-at-public-library-angers-neighbours/news-story/8f4387f7d47490bba31bd28ac27994d8). The security gaurds told me I need an ID to come in! This is the [Santa Monica Public Library](https://smpl.org/)! and the resulting gossip among security gaurds about me having #Normani_aka_SartuAdem nudes on my cellphone! It was a gift! Im grown and i did not do it on library wifi! There is a law on it i found online. Its filtered now, but i want to know where i stand bc I was attending a dance studio with girls my age and i have been in datacenters most of my life, porn is the channel most ppl in my demographic communicate via to talk to people in the physical world. It causes a lot of hormonal problems and i am a really healthy male. Coral is strong even after the NiCU. Anyway the computers i had accquired got stolen in various ways so there is a big chunck of time i am not building on a Desktop. I promised I would grow as a Sun Admin and while i was without a computer i got turned on to [TErmux](https://termux.dev/en/) and leared a lot of cool configurations to do common programming tasks and it even effected my webdesign, i started building on github and what is now my homepage was a fullpage scrolling design like i was seeing life differently. Check out the screenshots below the Termux demo and see my #PocketPC thats what i call [Android](https://www.android.com/) now...
@@ -52,16 +51,22 @@ There is such an abstraction when running the manufacure bundeld android. But it
 <img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/44b7de97-cb09-4a3b-998b-518663da64c44553900051054072276.jpg" />
 <img src="https://pbs.twimg.com/media/GGerVUZaQAAqAr2?format=jpg&name=small" />
 </div>
-</div>
+
+## What is F-Droid?
+>`A Software Repo!` <~ `ME` ~> `Them` F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+
+![Nintendo64](https://dn721101.ca.archive.org/0/items/nintendo-64-romset-usa/N64.png)
+
+<iframe src="https://archive.org/embed/tumblr_rtylmxBjam1zhx4f1" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-# gaming
+
+
+# GaminG
 
 The concept of what a Handheld is is greatly challenged with the virtualization options on the platform! The games played really well under [Lemuroid](https://github.com/Swordfish90/Lemuroid) and [RetroArch](https://www.retroarch.com/) there are a lot of what they refer to as CORES which is simply a [vmdk](https://forensics.wiki/vmware_virtual_disk_format_(vmdk)/) in corporate talk a container and it will run [8-bit programs](https://docs.libretro.com/library/vice/)! The potential is limitless for us not being tied to an office. The Municipal Law Enforcement Guys appear advanced at this outside of Fare Enforcement! 
-![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
-
 ![vmdk](https://upload.wikimedia.org/wikipedia/commons/b/b7/VMDK_File_Format_icon.png)
-
+![VMDk](https://www.techtarget.com/rms/editorial/032119_SVM_delta-vmdk-file_Fig5_mobile.png)
 ![RetroArch](https://www.retroarch.com/images/bgbuttons.png)
 
 
@@ -73,7 +78,7 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 <img src="https://pbs.twimg.com/media/GBrgSgTbsAAlehp?format=jpg&name=large" />
 <img src=" https://pbs.twimg.com/media/GCNRhhYbMAAnDbq?format=jpg&name=large" >
 <img src=" https://pbs.twimg.com/media/GBt_DwXbUAA9IWI?format=jpg&name=large" >
-<img src="https://pbs.twimg.com/media/GBaBiMrbMAA2qOV?format=jpg&name=large" />    
+<img src="https://pbs.twimg.com/media/GBaBiMrbMAA2qOV?format=jpg&name=large" />
 <img src=" https://pbs.twimg.com/media/F8xAfwxbwAAhxs3?format=jpg&name=medium" >
 <img src=" https://pbs.twimg.com/media/F3xyxPeaIAASPP4?format=jpg&name=medium" >
 </div>
@@ -124,7 +129,7 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 </div>
 
 
-<div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
+ <div class="pinupImage expandingGallery"><img src="https://pbs.twimg.com/media/GHhryv7aUAEygHp?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GHhxw6lbkAEvTnI?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GFr9Rsea0AA6D8R?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/GJyKxTIbEAAVuT9?format=jpg&name=large" />
@@ -133,6 +138,8 @@ The concept of what a Handheld is is greatly challenged with the virtualization 
 <img src="https://i1.sndcdn.com/artworks-000327590304-xr9ecf-t500x500.jpg" />
 <img src="https://pbs.twimg.com/media/F_zwoXjasAA5Vun?format=jpg&name=large" />
 <img src="https://pbs.twimg.com/media/F_zw9nuaoAAtmI1?format=jpg&name=small" />
+
+
 </div>
 
 
@@ -244,5 +251,3 @@ I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl
 <embed height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/899207614&amp;color=%2379f281&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" />
 
 # Ella Mai::Not Another Love Song
-
-</div>
