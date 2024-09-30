@@ -25,7 +25,7 @@ Hi MRO, want you to have an update on what my computing situation has been since
 ### Its just a Personal Computer
 There is such an abstraction when running the manufacure bundeld android. But its normal PC architechture in a small ass package! The Following video is a screenshare of me using [Android](https://www.android.com/) for abt a half hour on a severley disabled cellphone. No root just [termux](https://termux.dev/en/) + [fdroid](https://github.com/termux/termux-app#f-droid)
 
-[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://github.com/termux/termux-app#f-droid "Redirect to homepage")
+[![Fdroid](https://termux.dev/assets/globals/hosts/get-it-on-fdroid.png)](https://f-droid.org/)
 
 
 
