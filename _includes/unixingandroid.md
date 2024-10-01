@@ -80,7 +80,7 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 
 # Super Street Fighter 2 Turbo (dos)
 
-
+<head>
     <title>js-dos api</title>
     <style type="text/css">
       .dosbox-container { width: 100%; height: 400px; }
