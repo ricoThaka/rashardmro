@@ -39,7 +39,7 @@ body {
 }
 
 p {
-  margin-top:10px;
+margin-top:10px;
 margin-bottom:10px;
 display: block;
 text-align: left;
@@ -56,6 +56,7 @@ column-count: auto;
 column-fill: balance-all;
 word-break: break-all;
 hyphens: auto;
+margin: 20px;
 display:block;}
 
 p:first-of-type {
@@ -318,7 +319,7 @@ section {
     border-radius: 31px 31px 31px 31px;
     margin-top: -25px;
   width: 85vh; 
-  padding: 20px;
+  padding: 0px;
     margin-bottom: 40px;
     margin-right: auto;
     margin-left: auto;
