@@ -10,8 +10,24 @@ layout: default
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
 
+# Dear Mro
+
+Jamie Mantel/SenBillNelSon,
+
+I dont know if you are still alive(jamie). I went to the Team Meeting for the Ecostress Instrument and got removed by Hotel Faculty! I went ontime and everythign! The people did not defend me. IDK what is p with the country bc im scared. I lost Coral! and Erika is  [Prosituted in Los Angeles](https://www.youtube.com/watch?v=VAOwmcdLvek) well sold for, she was always sensitive intimately so i know she wanted to go someplace where she felt stable psychologically. I was supposed to go to Arcadia for a court date. During Covid Lockdown. After Erika dumped me, i made friends with a girl after [Muna Ahmed died](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/obituary). [Normani](https://www.teenvogue.com/story/normani-kordei-cyber-bullied-twitter) she was of age we went on a [date](https://honeybubbletea.kwickmenu.com/). I was on Instagram as ClarkGabl3 but changed the screename to DeeLoveBomr bc i was wrioting graffiti an the word `LOVER` and did not think Clark Gable real life should be mixed up with mine at all! So I asked Dr_Pirrat if she wrote graffiti. Bc all the young ppl at JPL have this life online, its strange, I got excluded from my demographic bc i had a child. Now i cant mingle and hanging out with you old people dont seem to be doing much but getting me hurt like them strippers. U cant be close to every one, i work with you, and i put my hannds on that girl [Normani](https://www.tiktok.com/@normani?lang=en) and there is a huge population in Atlanta that will freak the fuck out! If I leave her alone inLos Angeles! I want to work and be acknowledged! im about to miss my meal.. I will write mre later. I want to hear the discourses on EcoStress so bad. But its just [BadTiming](https://www.youtube.com/watch?v=i77qbwimO1w)
 
 
+# Our Pandemic Year—A COVID-19 Timeline
+On March 11, 2020, the World Health Organization (WHO) declared COVID-19, the disease caused by the SARS-CoV-2, a pandemic [ReadMore](https://www.yalemedicine.org/news/covid-timeline)
+![CovidLockDown](https://ysm-res.cloudinary.com/image/upload/v1/yms/prod/f5170d73-6754-4c11-92c7-1ed2eedf1d3e)
+![Rashard Iman Kelly NasaJPL MRO](https://pbs.twimg.com/media/GYxDeJ-bQAEfpJ_?format=jpg&name=medium)
+![SickBuldingSickness](https://pbs.twimg.com/media/GYxDSRpbQAMqOug?format=jpg&name=medium)
+
+[The sick building syndrome (SBS)](https://www.epa.gov/sites/default/files/2014-08/documents/sick_building_factsheet.pdf) is used to describe a situation in which the occupants of a building experience acute health- or comfort-related effects that seem to be linked directly to the time spent in the building. - [Sumedha M. Joshi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796751/)
+
+
+## Sol 4319: Chemistry & Camera (ChemCam)
+![MarsRock](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04319/soas/rdr/ccam/CR0_780904391PRC_F1090540CCAM03318L1.PNG)
 # Planetary Data Sciences Update : : : M_R_O
 ### September 23, 2024. New data have been added to the RELAB spectral library bundle. [See relab_data_release_notes.txt for details.](https://pds-geosciences.wustl.edu/speclib/urn-nasa-pds-relab/document/relab_data_release_notes.txt)
 
