@@ -80,13 +80,14 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 
 # Super Street Fighter 2 Turbo (dos)
 
-   <title>js-dos api</title>
+
+    <title>js-dos api</title>
     <style type="text/css">
       .dosbox-container { width: 100%; height: 400px; }
       .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
     </style>
+  </head>
 
-  <body>
     <div id="dosbox"></div>
     <br/>
     <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
@@ -102,8 +103,9 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
           console.log("App '" + app + "' is runned");
         }
       });
-    </script> 
-  </body>
+    </script>
+
+
 
 
 ![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
