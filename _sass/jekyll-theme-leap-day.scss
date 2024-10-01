@@ -343,6 +343,8 @@ section {
   overflow-y: auto;
   }
 
+  
+
 small {
   font-size:12px;
 }
@@ -671,14 +673,13 @@ iframe {
 
 
 .twoPanelSpread {
-  /*wrapper*/
+  margin: 0px;
   padding: 0px;
   background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp)
     center repeat;
 }
 
 .row {
-  /*stackablerows*/
   border-radius: 0px;
   display: flex;
   flex-direction: row;
@@ -691,18 +692,18 @@ iframe {
   flex-direction: column;
   flex-basis: 100%;
   flex: 1;
-  }
+  overflow: hidden;
+}
 
 .leftColumn {
-   background-color: #2470FF; 
-  width:100%;
-  overflow: auto;
+  /* background-color: #2470FF; */
+  width: 100%;
 }
 
 .leftColumn img {
   flex-shrink: 0;
-  max-width: 100%;
-  max-height: 100%;
+  min-width: 100%;
+  min-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -714,13 +715,14 @@ iframe {
 }
 .rightColumn img {
   flex-shrink: 0;
-  max-width: 100%;
-  max-height: 100%;
+  min-width: 100%;
+  min-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
 }
+
 
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
