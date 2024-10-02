@@ -82,30 +82,31 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 
 
 
-    <style type="text/css">
-      .dosbox-container { width: 100%; height: 401px; }
-      .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
-    </style>
 
-
-    <div id="dosbox">
-    <br/>
-    <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
+ <title>js-dos api</title>
+        <style type="text/css">
+          .dosbox-container { width: 100%; height: 400px; }
+          .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
+        </style>
     
-    <script type="text/javascript" src="https://js-dos.com/cdn/js-dos-api.js"></script>
-    <script type="text/javascript">
-      var dosbox = new Dosbox({
-        id: "dosbox",
-        onload: function (dosbox) {
-          dosbox.run("https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/DOSBOX_SSF2T.ZIP", "./SF2TURBO.EXE");
-        },
-        onrun: function (dosbox, app) {
-          console.log("App '" + app + "' is runned");
-        }
-      });
-    </script>
-      
-      </div>
+<body>
+        <div id="dosbox"></div>
+        <br/>
+        <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
+        
+ <script type="text/javascript" src="https://js-dos.com/cdn/js-dos-api.js"></script>
+        <script type="text/javascript">
+          var dosbox = new Dosbox({
+            id: "dosbox",
+            onload: function (dosbox) {
+              dosbox.run("https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/DOSBOX_SSF2T.ZIP", "./SF2TURBO.EXE");
+            },
+            onrun: function (dosbox, app) {
+              console.log("App '" + app + "' is runned");
+            }
+          });
+        </script>  
+</body>
 
 ![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
 
