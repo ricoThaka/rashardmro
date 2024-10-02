@@ -81,32 +81,11 @@ DOSBox is totally free of charge and Open Source. [ReadMore](https://www.dosbox.
 # Super Street Fighter 2 Turbo (dos)
 
 
-
-
- <title>js-dos api</title>
-        <style type="text/css">
-          .dosbox-container { width: 100%; height: 400px; }
-          .dosbox-container > .dosbox-overlay { background: url(https://i.ebayimg.com/images/g/OTgAAOSwYINj50PW/s-l1200.webp); }
-        </style>
-    
-<body>
-        <div id="dosbox"></div>
-        <br/>
-        <button onclick="dosbox.requestFullScreen();">Make fullscreen</button>
-        
- <script type="text/javascript" src="https://js-dos.com/cdn/js-dos-api.js"></script>
-        <script type="text/javascript">
-          var dosbox = new Dosbox({
-            id: "dosbox",
-            onload: function (dosbox) {
-              dosbox.run("https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/DOSBOX_SSF2T.ZIP", "./SF2TURBO.EXE");
-            },
-            onrun: function (dosbox, app) {
-              console.log("App '" + app + "' is runned");
-            }
-          });
-        </script>  
-</body>
+<iframe height="300" style="width: 100%;" scrolling="no" title="SuperStreetFighter2Turbo_PC" src="https://codepen.io/ricoThaka/embed/oNKjKoP?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/ricoThaka/pen/oNKjKoP">
+  SuperStreetFighter2Turbo_PC</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ![DosBox](https://upload.wikimedia.org/wikipedia/commons/3/32/Dosbox_background_icon.svg)
 
