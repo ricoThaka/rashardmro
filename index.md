@@ -9,6 +9,126 @@ layout: default
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+
+[My Favorite Martian Season 1 Episode 1 (1963) My Favorite Martin](https://www.youtube.com/watch?v=9bg9AGmYv84)
+[My Favorite Martian Full Episodes Season 1 E20 - My Nephew The Artist](https://www.dailymotion.com/video/x822j08)
+[My Favorite Martian Full Episodes Season 3 E23 - When A Martian Makes His Violin Cry](https://www.dailymotion.com/video/x81hpd9)
+[Full text of "The book of Mars"](https://archive.org/stream/bookofmars00glas/bookofmars00glas_djvu.txt)
+
+{% include unixingandroid.md %}
+
+[Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/) [Relative links for GitHub pages](https://github.blog/2016-12-05-relative-links-for-github-pages/)
+
+
+[Markdownify includes #1303](https://github.com/jekyll/jekyll/issues/1303)
+- What we usually do is a capture block - [ParkeR Moore](https://github.com/parkr) [@parkr]
+### WorkingRemote - Jun 22, 2024 worklog
+Im not stable in LongBeach right now so im working out of every library on the Subway and LightRail Metrolosangeles lines, Im working on my personal web infrastructure. I lost me Momentum on my M_R_O and Cassini work i was compiling. I keep my favorites in Google Chrome but if i cannot get to a place that will let me use my ChromeProfile im super disabled. Please bear with me! I have Typography work thats not life or death but it got me a logical chance to send a tweet to vogue. I know magazines get taken over so im not a threat to talk to them. But there was friction between me and the girls bodygaurds. They were stalking me. I can swear I saw muna in an issue when i Arrived. I cant talk to Cardi_B! She know everything! I am learning how to turn content into like Magnatiles with [Flexbox](https://www.w3schools.com/css/css3_flexbox_items.asp). I feel so much anger from the public! Im miserable! PPL were poisoning me at the base,m well everyone, a lady talked to me in the supermarket by Mori(Jose pi Place) and said she had Abestos poison from working in #MissionControl Covid all that shits a scam! She had the same symptoms I wake up with at After dealing with Childrens Hospital and Cancer only to find my late wife is with an athlete that has a bigger dick than me...
+
+
+
+### Basic concepts of flexbox
+The flexible box layout module (usually referred to as flexbox) is a one-dimensional layout model for distributing space between items and includes numerous alignment capabilities. This article gives an outline of the main features of flexbox, which we will explore in more detail in the rest of these guides. [readmore](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[CSS Flex Items](https://www.w3schools.com/css/css3_flexbox_items.asp)
+
+### LATEFORWORK - Jun 22, 2024 worklog
+![CodeFiltering](https://pbs.twimg.com/media/GQTdwj7bkAAdTD9?format=jpg&name=large)
+```
+@TheView
+ @NASAJPL
+ @ananavarro
+ the things I'm finding censored at the library r a direct effort to control #TheWorldOfBlogging https://codepen.io/thakarashard/pen/QWRaeWo does not work on 
+@CodePen but it works @w3_schools ! so that's @USDOL violation! @Normani u have to learn some laws to protect us
+```
+`https://x.com/RicoThaka/status/1802810142649614358`
+---
+
+![xmMuva](https://pbs.twimg.com/media/GQS-2zJaIAAqqp0?format=jpg&name=large)
+ok she is dead in Atlanta #fraud #wirefraud 
+@essence @nasajpl I'm innocent 
+[AlliedUniversdal](@al_15176468018) threatened me on @metrolosangeles with the #PlasticKnuckleGloves and guns I'm sick of them stalking me those women are sex slaves and keep bugging me to tweet to them I'm not a fucking retard
+![Husla](https://pbs.twimg.com/media/GQTB6Ksb0AAgqJ7?format=jpg&name=large) when #Erika was n #Atlanta she did the #AtlantaHousewife thing so @MalaikaJabali !! YEAH I said it these profiles r illegal is @kashdoll !! an she said she wanted to have my baby an @LinkedIn banned me she started calling her self #Mrs_Kelly [DVshowgirlsHV](https://dejavu.com/showgirls-hollywood/)
+
+## M_R_O CheckiN - Jun 22, 2024 worklog
+### Dear_Robin_Obrien
+You told me to study the weather on mars ... [The Last Report](https://www.msss.com/science-images/mars-valentine-2024.php) has no weather updates, whas that your baby ? Im concenred bc it was a really big deal at the time... Maybe it moved? idk but listen Erika is at Harolds Chicken sometimes. She won a grammy for a [nasty song](https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png) you can play it here [Latto - Big Energy (Official Lyric Video)](https://www.youtube.com/watch?v=IpHPBIdrak4) but youtube dont like me so my [lightbox](https://jekyllcodex.org/without-plugin/lightbox/) might not work <a href="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png"> <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Latto_-_Big_Energy.png" style="width:250px;height:250px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" /> </a>
+
+[MRO MARCI WEATHER REPORT FOR THE WEEK OF 10 JANUARY 2022 – 16 JANUARY 2022](https://www.msss.com/msss_images/2022/01/19/)
+
+
+
+## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
+<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+
+<source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
+<source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
+
+[Jekyll’s site.url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
+
+{{ '/images/dog.jpeg' | relative_url }}
+
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+[All Mars Resources](https://science.nasa.gov/mars/resources/?pageno=9&search=perseverance&types=videos&content_list=true)
+
+# 6/4/2020 checking in 
+
+<p>
+IM LOOKING FOR THE OPTIMIST VIDEO im on twitter well x.com for me #DnsRedirect i hope mytweets are coming through, homeland security was in doqwntown losangeles yesterday morning those allied universal gaurds are still bullying me, so i told them to come to the gate with the armed gaurd so yall can run the weapons #Serials i think #BurBankDirTy  
+
+https://www.article19.org/ , im on they twitter an i think they know shit we really need to investigate! I was brought on to get the mission out, jamie an this older white lady that loves the landing could not spell it out! But i was a superDub pioneer in JEhovahs witnesses an this side of my mission role is coming into view 
+
+from their site 
+```
+ARTICLE 19 works for a world where all people everywhere can freely express themselves and actively engage in public life without fear of discrimination.
+```
+
+if we get them to #Mayor_Karen with the california constitution who knows whats possible to free us from the censorship torture!</p>
+<h1>Mars Lithograph</h1>
+<img src="https://science.nasa.gov/wp-content/uploads/2024/03/22078_Mars_20130814-web.jpg?w=2048&format=webp" />
+<a href="https://science.nasa.gov/wp-content/uploads/2024/03/42141_Mars_20130814.pdf?emrc=665e50cc1c76c">Mars Lithograph</a>
+<h1>Rover Components</h1>
+<p>The Mars 2020 rover, Perseverance, is based on the Mars Science Laboratory's Curiosity rover configuration, with an added science and technology toolbox. An important difference is that Perseverance can sample and cache minerals.</p>
+
+<img src="https://science.nasa.gov/wp-content/uploads/2024/03/24223_PIA23316-web.jpg" />
+    
+<p>This image, taken in the Spacecraft Assembly Facility's High Bay 1 at the Jet Propulsion Laboratory in Pasadena, California, on July 23, 2019, shows a close-up of the head of Mars 2020's remote sensing mast. The mast head contains the SuperCam instrument (its lens is in the large circular opening). In the gray boxes beneath mast head are the two Mastcam-Z imagers. On the exterior sides of those imagers are the rover's two navigation cameras.
+NASA/JPL-Caltech</p>
+
+      
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+              <img src="https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+              <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg" alt="Girl in a jacket" >
+      
+   </div>
+  </div>    
+ </div>
+</div>
 
 # Dear Mro
 
@@ -50,7 +170,7 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 [RicoThaka/MarsBlog1 its a diff look](https://ricothaka.github.io/twitters/marsblog.html)
 
 
-{% include unixingandroid.md %}
+
 
 
 <iframe src="https://archive.org/embed/win95_in_dosbox" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
