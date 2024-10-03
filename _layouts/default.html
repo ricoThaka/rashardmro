@@ -2714,7 +2714,10 @@
   </body>
 
   {% if page.mermaid %}
-  <script src="/js/mermaid.min.js"></script>
-  <script>mermaid.initialize({startOnLoad:true});</script>
+  <script type="module">
+    import mermaid from '/js/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+
   {% endif %}
 </html>

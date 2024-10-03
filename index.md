@@ -1168,9 +1168,11 @@ The final element.
     </pre>
     
 <div style="padding:20px;" align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+
+
+![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)  
+
   <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    import mermaid from '/js/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
   </script>
-
-![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)    
