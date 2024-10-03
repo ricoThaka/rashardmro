@@ -12,7 +12,7 @@ layout: default
 # Mermaid.js
 [What is a flowchart?](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. - [LuciDChart.cOm](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) [WHAT IS A FLOWCHART?](https://asq.org/quality-resources/flowchart) Also called: process flowchart, process flow diagram Variations: macro flowchart, top-down flowchart, detailed flowchart (also called process map, micro map, service map, or symbolic flowchart), deployment flowchart (also called down-across or cross-functional flowchart), several-leveled flowchart ~ A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes, and can be used to describe various processes, such as a manufacturing process, an administrative or service process, or a project plan. It's a common [process analysis tool](https://asq.org/quality-resources/process-analysis-tools) and one of the [seven basic quality tools](https://asq.org/quality-resources/seven-basic-quality-tools). [ReadmorE - asq.Org](https://asq.org/quality-resources/spaghetti-diagram) [Flowchart 101: Symbols, types, and how to create them](https://asana.com/resources/what-is-a-flowchart)
 
-
+```mermaid
 gitGraph:
     commit "Ashish"
     branch newbranch
@@ -26,27 +26,27 @@ gitGraph:
     commit
     branch b2
     commit
-
-
+```
+```mermaid
 graph LR
     A[Square Rect] -- Link text --> B((Circle))
     A --> C(Round Rect)
     B --> D{Rhombus}
     C --> D
-
-
+```
+```mermaid
 pie title NETFLIX
          "Time spent looking for movie" : 90
          "Time spent watching it" : 10
-
-
+```
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-
+```
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
