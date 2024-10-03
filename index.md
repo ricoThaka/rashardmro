@@ -3,16 +3,7 @@ layout: default
 ---
 
 
-![rocknest_curiosity](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg)
-![landscape](https://photojournal.jpl.nasa.gov/jpegMod/PIA26369_modest.jpg)
-![L list my family](https://pbs.twimg.com/media/GYxDcRSbQAIwnil?format=jpg&name=large)
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
-
-# Mermaid.js
-[What is a flowchart?](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. - [LuciDChart.cOm](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) [WHAT IS A FLOWCHART?](https://asq.org/quality-resources/flowchart) Also called: process flowchart, process flow diagram Variations: macro flowchart, top-down flowchart, detailed flowchart (also called process map, micro map, service map, or symbolic flowchart), deployment flowchart (also called down-across or cross-functional flowchart), several-leveled flowchart ~ A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes, and can be used to describe various processes, such as a manufacturing process, an administrative or service process, or a project plan. It's a common [process analysis tool](https://asq.org/quality-resources/process-analysis-tools) and one of the [seven basic quality tools](https://asq.org/quality-resources/seven-basic-quality-tools). [ReadmorE - asq.Org](https://asq.org/quality-resources/spaghetti-diagram) [Flowchart 101: Symbols, types, and how to create them](https://asana.com/resources/what-is-a-flowchart)
-
-
+```mermaid-example
 ---
 config:
   layout: elk
@@ -23,6 +14,46 @@ flowchart TB
   A[Start] --> B{Decision}
   B -->|Yes| C[Continue]
   B -->|No| D[Stop]
+```
+<pre class="mermaid-example">
+---
+config:
+  layout: elk
+  look: handDrawn
+  theme: dark
+---
+flowchart TB
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Continue]
+  B -->|No| D[Stop]
+</pre>
+
+<pre class="mermaid">
+            graph TD
+            A[Client] -->|tcp_123| B
+            B(Load Balancer)
+            B -->|tcp_456| C[Server1]
+            B -->|tcp_456| D[Server2]
+</pre>
+
+```mermaid-example
+            graph TD
+            A[Client] -->|tcp_123| B
+            B(Load Balancer)
+            B -->|tcp_456| C[Server1]
+            B -->|tcp_456| D[Server2]
+```
+
+
+![rocknest_curiosity](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg)
+![landscape](https://photojournal.jpl.nasa.gov/jpegMod/PIA26369_modest.jpg)
+![L list my family](https://pbs.twimg.com/media/GYxDcRSbQAIwnil?format=jpg&name=large)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+# Mermaid.js
+[What is a flowchart?](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. - [LuciDChart.cOm](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) [WHAT IS A FLOWCHART?](https://asq.org/quality-resources/flowchart) Also called: process flowchart, process flow diagram Variations: macro flowchart, top-down flowchart, detailed flowchart (also called process map, micro map, service map, or symbolic flowchart), deployment flowchart (also called down-across or cross-functional flowchart), several-leveled flowchart ~ A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes, and can be used to describe various processes, such as a manufacturing process, an administrative or service process, or a project plan. It's a common [process analysis tool](https://asq.org/quality-resources/process-analysis-tools) and one of the [seven basic quality tools](https://asq.org/quality-resources/seven-basic-quality-tools). [ReadmorE - asq.Org](https://asq.org/quality-resources/spaghetti-diagram) [Flowchart 101: Symbols, types, and how to create them](https://asana.com/resources/what-is-a-flowchart)
+
 
 ```mermaid-example
 gitGraph:
@@ -48,11 +79,6 @@ graph LR
     C --> D
 ```
 
-```mermaid-example
-pie title NETFLIX
-         "Time spent looking for movie" : 90
-         "Time spent watching it" : 10
-```
 
 ```mermaid-example
 flowchart LR
@@ -62,11 +88,6 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
 
 
 ![CEQA_Process_Flow_Chart.gif](https://upload.wikimedia.org/wikipedia/commons/e/ec/CEQA_Process_Flow_Chart.gif)
@@ -1147,5 +1168,9 @@ The final element.
     </pre>
     
 <div style="padding:20px;" align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
 
 ![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)    
