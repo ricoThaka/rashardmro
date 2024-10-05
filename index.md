@@ -6,6 +6,40 @@ mermaid: true
 
 
 ```mermaid-example
+gitGraph:
+    commit "Ashish"
+    branch newbranch
+    checkout newbranch
+    commit id:"1111"
+    commit tag:"test"
+    checkout main
+    commit type: HIGHLIGHT
+    commit
+    merge newbranch
+    commit
+    branch b2
+    commit
+```
+
+```mermaid-example
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
+
+
+```mermaid-example
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
+```mermaid-example
 ---
 config:
   layout: elk
@@ -56,40 +90,8 @@ flowchart TB
 # Mermaid.js
 [What is a flowchart?](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. - [LuciDChart.cOm](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial#:~:text=A%20flowchart%20is%20a%20diagram,easy%2Dto%2Dunderstand%20diagrams.) [WHAT IS A FLOWCHART?](https://asq.org/quality-resources/flowchart) Also called: process flowchart, process flow diagram Variations: macro flowchart, top-down flowchart, detailed flowchart (also called process map, micro map, service map, or symbolic flowchart), deployment flowchart (also called down-across or cross-functional flowchart), several-leveled flowchart ~ A flowchart is a picture of the separate steps of a process in sequential order. It is a generic tool that can be adapted for a wide variety of purposes, and can be used to describe various processes, such as a manufacturing process, an administrative or service process, or a project plan. It's a common [process analysis tool](https://asq.org/quality-resources/process-analysis-tools) and one of the [seven basic quality tools](https://asq.org/quality-resources/seven-basic-quality-tools). [ReadmorE - asq.Org](https://asq.org/quality-resources/spaghetti-diagram) [Flowchart 101: Symbols, types, and how to create them](https://asana.com/resources/what-is-a-flowchart)
 
+[Intro to JekyLL Layouts - Cloud Canon](https://cloudcannon.com/tutorials/jekyll-tutorial/introduction-to-jekyll-layouts/)
 
-```mermaid-example
-gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
-```
-
-```mermaid-example
-graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
-```
-
-
-```mermaid-example
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
 
 
 ![CEQA_Process_Flow_Chart.gif](https://upload.wikimedia.org/wikipedia/commons/e/ec/CEQA_Process_Flow_Chart.gif)
