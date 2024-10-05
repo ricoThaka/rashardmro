@@ -98,7 +98,7 @@ flowchart TB
 
 ### The Red Planet Mars
 An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls 
+<video controls preload="none" 
   src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
   poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
 
@@ -156,7 +156,7 @@ You told me to study the weather on mars ... [The Last Report](https://www.msss.
 
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -377,7 +377,7 @@ img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 </div>
 
 
-<video controls autoplay width="100%" height="auto" >
+<video controls preload="none" autoplay width="100%" height="auto" >
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
 
@@ -443,7 +443,7 @@ I was at [Griffith](https://griffithobservatory.org/about/observatory-history/) 
 
 [Tesla coil is an electrical](https://en.wikipedia.org/wiki/Tesla_coil) resonant transformer circuit designed by inventor Nikola Tesla in 1891.[1] It is used to produce high-voltage, low-current, high-frequency alternating-current electricity.[2][3] Tesla experimented with a number of different configurations consisting of two, or sometimes three, coupled resonant electric circuits.
 
-<video controls 
+<video controls preload="none" 
   src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/teslacoilsnormaniismissing.mp4"
   poster="https://griffithobservatory.org/wp-content/uploads/2021/11/griffithobservatory_20200623_013-scaled-1600x800-1638850104.jpg"
   >
@@ -466,7 +466,7 @@ HiView is a data explorer and image viewing application supporting the [JPEG2000
   
   
   <center> 
-      <video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
+      <video controls preload="none" width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
     
         <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/TOKIMONSTA_StealMyAttention_ StrangeloopVisualization.mp4" type="video/mp4" />
       
@@ -509,7 +509,7 @@ Hi hun, i dont want u to feel like rentpath wherever we make it to the lab. Help
       of Mars</a>
       <a href="https://astrogeology-usgs.hub.arcgis.com/pages/interactive-maps-mars">USGS-NASA Planetary Geologic Mapping Program ::Interactive Maps: Mars</a>
       
-<video controls width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
+<video controls preload="none" width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/stealmyattention.JPG">
     
  <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/TOKIMONSTA_StealMyAttention_ StrangeloopVisualization.mp4" type="video/mp4" />
     
@@ -608,7 +608,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
 ### Odyssey’s THEMIS Views the Horizon of Mars
 [![Horizon of Mars](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png)](https://science.nasa.gov/wp-content/uploads/2024/03/48660_PIA26203-Odysseys_THEMIS_Views_the_Horizon_of_Mars.png "Redirect to homepage")
 
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1739.gif?w=768&format=webp">
     
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6190_PIA26203_FigA.m4v" type="video/mp4" />
          Download the
@@ -628,7 +628,7 @@ Two 2001 images from the Mars Orbiter Camera on NASA's Mars Global Surveyor orbi
  The data in the video show the telescopic view of Mars from Earth, the planet's albedo (brightness), its color, its topography, its ancient magnetism, its abundance of elemental potassium, its thermal inertia, and its global mineralogy. Then the scene zooms in, eventually stopping at Syrtis Major, a large, low volcano. [https://www.youtube.com/@ASUMarsSpaceFlight](https://www.youtube.com/@ASUMarsSpaceFlight/videos)
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -739,7 +739,7 @@ Los angeles is a [Euridite civiliZation](https://en.wiktionary.org/wiki/erudite)
 - Rashard...
 
 Perseverance Rover Watches Ingenuity Mars Helicopter’s 54th Flight
-<video controls  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
+<video controls preload="none"  height="auto" poster="https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25968.width-1320.jpg">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />    
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6172_PIA25970.mp4" type="video/mp4" />
@@ -871,7 +871,7 @@ NASA/JPL-Caltech</p>
   </div>    
  </div>
 </div>
- <video controls width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
+ <video controls preload="none" width="100%" height="auto" poster="https://i.discogs.com/SJqj4bzMUsGALvmzeVDf3WL0lDXS2pWWICXywvmEgFc/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTEy/My0xMTU5MTI3NTEx/LmpwZWc.jpeg">
     
 <source src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/Audio/QueenLatifah_WrathofMyMadnessSoulshockRemix.mp4" type="video/mp4" />
          Download the
@@ -885,7 +885,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />   
 
 ## [Front_Left_Hazcam:Two_Year_Movie](https://science.nasa.gov/resource/front-left-hazcam-two-year-movie/)
-<video controls width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
+<video controls preload="none" width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/48025_FRHTwoYearMovie.gif">
 
 <source src="https://science.nasa.gov/wp-content/uploads/2024/03/20230217FrontLeftHazcamTwoYearMovie-1280.mp4" type="video/mp4" />    
 <source src="https://github.com/ricoThaka/ricothaka.github.io/raw/master/assets/PerseveranceTwoYearMovie.mp4" type="video/mp4" />
@@ -899,7 +899,7 @@ NASA/JPL-Caltech</p>
 <img src="https://mars.nasa.gov/system/resources/detail_files/27283_PIA25737-web.jpg" />    
       
 
-<video controls >
+<video controls preload="none" >
 
   <source src="https://science.nasa.gov/wp-content/uploads/2024/03/6085_sol_200_autonav.mp4" type="video/mp4" />
 
@@ -973,7 +973,7 @@ Play WarZard
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
 
-<video controls width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+<video controls preload="none" width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
 
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
@@ -988,7 +988,7 @@ Play WarZard
 
 ![vALLEYtv](https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_001136.jpg)
 
-<video controls width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
+<video controls preload="none" width="100%" height="auto" poster="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am.thumbs/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D_007142.jpg">
 
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />    
 <source src="https://archive.org/download/valley.-of.-the.-dolls.-1967.1080p.-blu-ray.x-264-yts.-am/Valley.Of.The.Dolls.1967.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" type="video/mp4" />
