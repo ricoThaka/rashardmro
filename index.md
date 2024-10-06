@@ -5,80 +5,11 @@ mermaid: true
 ---
 
 
-```mermaid-example
-gitGraph:
-    commit "Ashish"
-    branch newbranch
-    checkout newbranch
-    commit id:"1111"
-    commit tag:"test"
-    checkout main
-    commit type: HIGHLIGHT
-    commit
-    merge newbranch
-    commit
-    branch b2
-    commit
-```
+# Four Views of Mars in Northern Summer
+Four faces of Mars as seen on March 30, 1997 are presented in this montage of NASA Hubble Space Telescope images. Proceeding in the order upper-left, upper-right, lower-left, lower-right, Mars has rotated about ninety degrees between each successive time step. For example the Tharsis volcanoes, which are seen (between 7:30 and 9 o'clock positions) in mid-morning in the UPPER-RIGHT view, are seen near the late afternoon edge of the planet (about 3 o'clock position) in the lower-left image. All of these color images are composed of individual red (673 nanometers), green (502 nm), and blue (410 nm) Planetary Camera exposures.[ReadMore at NAsa PhotoJournal (NasaJPL)](https://photojournal.jpl.nasa.gov/catalog/PIA01248)
 
-```mermaid-example
-graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
-```
+![Four Views of Mars in Northern Summer](https://photojournal.jpl.nasa.gov/jpeg/PIA01248.jpg)
 
-
-```mermaid-example
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid-example
----
-config:
-  layout: elk
-  look: handDrawn
-  theme: dark
----
-flowchart TB
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
-```
-<pre class="mermaid-example">
----
-config:
-  layout: elk
-  look: handDrawn
-  theme: dark
----
-flowchart TB
-  A[Start] --> B{Decision}
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
-</pre>
-
-<pre class="mermaid">
-            graph TD
-            A[Client] -->|tcp_123| B
-            B(Load Balancer)
-            B -->|tcp_456| C[Server1]
-            B -->|tcp_456| D[Server2]
-</pre>
-
-```mermaid-example
-            graph TD
-            A[Client] -->|tcp_123| B
-            B(Load Balancer)
-            B -->|tcp_456| C[Server1]
-            B -->|tcp_456| D[Server2]
-```
 
 
 ![rocknest_curiosity](https://apod.nasa.gov/apod/image/1212/rocknest_curiosity_960.jpg)
