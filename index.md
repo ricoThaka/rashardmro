@@ -9,6 +9,34 @@ mermaid: true
 ![perserverance](https://upload.wikimedia.org/wikipedia/commons/6/6f/Perseverance_rover_design.png)
 ![MartianSunrise](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01291/ids/edr/browse/ncam/NLF_1291_0781553409_680ECM_N0602250NCAM00501_01_295J01_1200.jpg)
 
+
+
+![![SOL1089](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01089/opgs/edr/ncam/NLB_494176793EDR_F0491876NCAM15000M_.JPG)](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01089/opgs/edr/ncam/NLB_494176793EDR_F0491876NCAM15000M_.JPG "Redirect to homepage")
+
+<div class='twoPanelSpread'>
+        <div class='row'>
+          <div class='panelColumn'>
+            <div class='leftColumn'>
+            <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg">
+              <img src="https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
+            </div>
+          </div>
+          <div class='panelColumn'>
+            <div class='rightColumn'>
+            <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg">  <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg" alt="Girl in a jacket" > </a>
+      
+   </div>
+  </div>    
+ </div>
+</div>
+
+
+# Upcoming Changes 
+[It's time to lazy-load offscreen iframes!](https://web.dev/articles/iframe-lazy-loading) [LAzyLoadDEmo](https://web.dev/static/articles/iframe-lazy-loading/video/web-dev-assets/iframe-lazy-loading/lazyload-iframes-compressed.webm) I hope it work for us [A Comprehensive Guide to Lazy Loading HTML Videos for Your Website](https://imagekit.io/blog/lazy-loading-html-videos/) [Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) Lazy loading is a strategy to identify resources as non-blocking (non-critical) and load these only when needed. It's a way to shorten the length of the critical rendering path, which translates into reduced page load times. 
+`loading` Indicates when the browser should load the iframe:
+> `eager` Load the iframe immediately on page load (this is the default value).
+> `lazy` Defer loading of the iframe until it reaches a calculated distance from the visual viewport, as defined by the browser. The intent is to avoid using the network and storage bandwidth required to fetch the frame until the browser is reasonably certain that it will be needed. This improves the performance and cost in most typical use cases, in particular by reducing initial page load times. - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) [Why shouldn't lazy-loaded iframes preload? #2352](https://github.com/hakimel/reveal.js/issues/2352) [HTML - Living Standard](https://html.spec.whatwg.org/multipage/iframe-embed-object.html)
+![It's time to lazy-load offscreen iframes!](https://pbs.twimg.com/media/GZVRE38bcAAPVdg?format=jpg&name=large)
 [WHAT IS OSI MODEL IN COMPUTER NETWORK | 7 LAYERS EXPLAINED](https://coderepublics.com/blog/internet/what-is-osi-model-7-layers-explained/) [Day 51: Understanding the OSI Model](https://int0x33.medium.com/day-51-understanding-the-osi-model-f22d5f3df756)
 ![OSIModel.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/OSIModel.jpg)
 ![OSi](https://coderepublics.com/blog/wp-content/uploads/2023/09/WHAT-IS-OSI-MODEL-7-LAYERS-EXPLAINED-1024x602.jpg)
@@ -801,12 +829,13 @@ NASA/JPL-Caltech</p>
         <div class='row'>
           <div class='panelColumn'>
             <div class='leftColumn'>
-              <img src="https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+            <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg">
+              <img src="https://mars.nasa.gov/system/resources/detail_files/26036_E2-PIA19074-web.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
             </div>
           </div>
           <div class='panelColumn'>
             <div class='rightColumn'>
-              <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg" alt="Girl in a jacket" >
+            <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg">  <img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01089/ids/edr/browse/fcam/FLF_1089_0763628535_258ECM_N0510000FHAZ00219_01_295J01_800.jpg" alt="Girl in a jacket" > </a>
       
    </div>
   </div>    

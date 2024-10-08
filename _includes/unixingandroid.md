@@ -174,40 +174,6 @@ by [Minnesota Educational Computing Consortium](https://www.mecc.co/) most commo
 ![mecc](https://upload.wikimedia.org/wikipedia/commons/b/bf/MECC_logo.svg)
 [Marvel Super Heroes (Euro 951024) _ Capcom](https://games.capcomusa.com/)  [Play At The internet Arcade](https://archive.org/details/arcade_msh) <(''<)  <( ' ' )>  (> '')>
 
-<div class="mermaid">
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-</div> 
-
-```mermaid
-
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
 {{ site.time | date_to_rfc822 }}
 {{ site.time | date_to_long_string: "ordinal" }}
 
@@ -254,7 +220,8 @@ C --> D
 <div></div>
 <div></div>
 </div>
-<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23446ff2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />SZA - Sos Full Album</a></div>
+
+<embed width="100%" height="300" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1413792211&color=%23446ff2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />SZA - Sos Full Album
 
 I listened to [Ctrl](https://www.essence.com/entertainment/only-essence/sza-ctrl-essay/) and understand a lot more about black adolescent emotions, i saw u in [Hollywood](https://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodHistory), after looking past the grey i realize im not that old! I dont know what i told you in Atlanta, but im not a person to leave loose strings, i may not even be important enough to you to be mentioned. Either way, i asked you for girlfriend advice and your album delivered again, thanks. im more at peace being single(ish) I dont want to talk about Normani bc im still scared thats you, i had a bedroom bandit that was going to the studio, she bonded like a step mother and coral would continue sleeping whenever she came over, or she put yquil in her lunch at Parkside. I was not given foodstamps back then so me an coral got skinny, so i may have all these relationships in my head with the pretty girls from up the street. At the very least im your fan... 
 
