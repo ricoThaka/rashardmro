@@ -3,6 +3,43 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+
+# Dear M_R_O
+## Jill Scott on 4hero MiXTApe
+[JILL SCOTT || Gotta Get Up (Another Day) (feat. 4Hero)](https://www.youtube.com/watch?v=w43kCpTk3zM)
+I know since i have these sound issues at the library, people had to gossip! I remember i went through that phase wearing my headphones all the time. And giggling in The NASA_JUNO Commander face while 2Pac was playing bc of how he act! But i had to be disciplined after that day. He did not say anything. I just realized i did ![Walkman Era](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walkman_logo_%282000%29.svg/1024px-Walkman_logo_%282000%29.svg.png) Society SHutout and was falling behind socially in some areas at work. I needed the music at the time at that magnitude bc the pop music catalog. Like the shit u buy from packaged retailers, even underground spots like [FatBeats](https://www.sandboxautomatic.com/) is a catalog of a history thats in your area. Like 2pac life choices impact me and Tick_A_LOT act like him in Hollywood an he act like Erika Daddy Kevin, so i have to hear all the records. But there is a setting and pacing so you dont fall behind and miss important meeting notes. I would have understood how JunoCam could have protected my family if i could understand his urgency! I feel so late on so many projects
+
+<a href="https://www.youtube.com/watch?v=VelLUPF5YEI"> <img src="https://i.discogs.com/Y1TpnlHXKXp5TSebPhNpAFcsT6DUbcUPRL2YXt6e98k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjcz/Ni0xNjExOTE4Mjg1/LTExNTMuanBlZw.jpeg"> Jill Scott ft. 4_HERO :: ANOTHER_DAY </a>
+
+```ruby
+Gotta Get Up (Another Day) Lyrics
+I don't want to go to work today
+I 'd rather stay home and play
+Video games- home, chill
+
+But I gotta get up
+I gotta gotta gotta gotta gotta gotta gotta gotta gotta get up
+Get up
+```
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 [2ndChildHood](https://www.youtube.com/watch?v=A5nM66F903I) im still working tho💯 ! 
 # ConnecTivity OSi
 ## Mars Perseverance Sol 1291
