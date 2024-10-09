@@ -3,8 +3,13 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+![Bedrock in the Nili Fossae Region](https://static.uahirise.org/hipod/ESP_054512_2015.jpg)
+Nili Fossae is a perennial choice for potential landing sites, as it was for the Mars Science Laboratory and the Mars 2020 mission. Located in the Syrtis Major region, a large exposure of olivine has been detected here. [ReadmorE](https://www.uahirise.org/hipod/ESP_054512_2015)
 
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
 # Dear M_R_O
 ## Jill Scott on 4hero MiXTApe
 [JILL SCOTT || Gotta Get Up (Another Day) (feat. 4Hero)](https://www.youtube.com/watch?v=w43kCpTk3zM)
@@ -79,8 +84,7 @@ Get up
 ![OSIModel.jpg](https://upload.wikimedia.org/wikipedia/commons/1/1b/OSIModel.jpg)
 ![OSi](https://coderepublics.com/blog/wp-content/uploads/2023/09/WHAT-IS-OSI-MODEL-7-LAYERS-EXPLAINED-1024x602.jpg)
 ![OSi](https://miro.medium.com/v2/resize:fit:1024/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg)
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
 
 
 # Four Views of Mars in Northern Summer
