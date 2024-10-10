@@ -3,6 +3,24 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+
+# Coral is Missing JPL
+here is a spread of stories that will catch you up. If [Normani](https://www.bet.com/article/duvcev/normani-felt-hidden-being-the-only-black-girl-fifth-harmony) is not [MAnessa Warner](https://www.linkedin.com/in/manasseh-warner-ncc-764259143) she can get in touch with her, bc they #PlayBoyBunnySisters but thats who took coral, but check out these stories! Imma let Ossoff an Kemp know how serious it is from this perspective being a Husband/Boyfriend stuck in LosAngeles. I was born here but raised [there](https://georgia.gov/)
+- [Ossoff: New Georgia missing children data ‘deeply troubling’ - Alaska News Source](https://www.alaskasnewssource.com/video/2023/10/27/ossoff-new-georgia-missing-children-data-deeply-troubling/) - - [Sen. Ossoff’s bipartisan probe into the human rights of foster children has uncovered 1,790 children in Georgia DFCS’ care were reported](https://www.facebook.com/SenOssoff/videos/watch-sen-ossoffs-bipartisan-probe-into-the-human-rights-of-foster-children-has-/650584060479221/)
+- [Thousands of children in the care of Ga. DFCS have been reported missing, according to inquiry](https://www.youtube.com/watch?v=wbnCuZxgBxQ) Oct 29, 2023 It’s a number Senator Jon Ossoff says is alarming. Friday his office reported the latest findings from a bi-partisan inquiry, into the Georgia Division of Family and Children Services. “1,790 children in the care of Georgia DCFS were reported missing … these numbers are deeply troubling,” Senator Jon Ossoff said. - [WSB-TV]( https://2wsb.tv/3tZKjjV)
+- [I-Team: Report from Sen. Ossoff blasts DFCS over child deaths, sex trafficking - FOX5Atlanta](https://www.youtube.com/watch?v=LG5lNgLgJTo) ATLANTA - U.S. Senator Jon Ossoff has released a scathing report on Georgia's child welfare agency, saying systemic failures have allowed kids to die and that hundreds of children have been sex trafficked while under state care. The report also takes aim at Gov. Brian Kemp's appointed director of the Division of Family and Children Services, accusing her of trying to hide the extent of problems.
+- [Georgia's missing foster children tied to human trafficking | Testimony - 11Alive](https://www.youtube.com/watch?v=AC0y20e2uvo) - [![Twitter Follow](https://img.shields.io/badge/Social-@11AliveNews__-blue?style=social&logo=X)](https://twitter.com/@11AliveNews)
+
+[Changeling is a 2008 American period thriller directed by Clint Eastwood and written by J. Michael Straczynski - The ClintEastWood ARchivE](https://theclinteastwoodarchive.blogspot.com/2009/02/changeling-2008.html)
+The film begins in 1928 Los Angeles and tells the true story of a woman who recognizes that the boy returned after her son's disappearance is an impostor. After confronting the city authorities, she is vilified as an unfit mother and branded delusional. The events were related to the Wineville Chicken Coop Murders, a kidnapping and murder case that was uncovered in 1928
+
+<a href="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p181814_p_v8_am.jpg">
+<img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p181814_p_v8_am.jpg" alt="Changeling 2008 ClintEastwood Angilina Jolie" > </a>
+
+<iframe src="https://archive.org/embed/changeling-2008-tv-spot" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![ZetA Bang and Olfson](https://images.ctfassets.net/8cd2csgvqd3m/5yU43vtAUWlXwDFvHYwOh9/5f0fa9ee1f3c4689461b3fc3c6044027/zeta_1.png)
+[BEOSOUND SHAPE](https://www.bang-olufsen.com/en/us/speakers/beosound-shape) 4 [Yo GAGGA GABBA SCroll Down](https://archive.org/download/videos_20210324)
 ![Bedrock in the Nili Fossae Region](https://static.uahirise.org/hipod/ESP_054512_2015.jpg)
 Nili Fossae is a perennial choice for potential landing sites, as it was for the Mars Science Laboratory and the Mars 2020 mission. Located in the Syrtis Major region, a large exposure of olivine has been detected here. [ReadmorE](https://www.uahirise.org/hipod/ESP_054512_2015)
 
@@ -1188,7 +1206,7 @@ The final element.
 
 ![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)  
 
-  <script type="module">
+<script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
-  </script>
+</script>
