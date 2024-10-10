@@ -9,12 +9,18 @@ This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosi
 
 # Coral is Missing JPL
 here is a spread of stories that will catch you up. If [Normani](https://www.bet.com/article/duvcev/normani-felt-hidden-being-the-only-black-girl-fifth-harmony) is not [MAnessa Warner](https://www.linkedin.com/in/manasseh-warner-ncc-764259143) she can get in touch with her, bc they #PlayBoyBunnySisters but thats who took coral, but check out these stories! Imma let Ossoff an Kemp know how serious it is from this perspective being a Husband/Boyfriend stuck in LosAngeles. I was born here but raised [there](https://georgia.gov/)
+
 - [Ossoff: New Georgia missing children data ‘deeply troubling’ - Alaska News Source](https://www.alaskasnewssource.com/video/2023/10/27/ossoff-new-georgia-missing-children-data-deeply-troubling/) - - [Sen. Ossoff’s bipartisan probe into the human rights of foster children has uncovered 1,790 children in Georgia DFCS’ care were reported](https://www.facebook.com/SenOssoff/videos/watch-sen-ossoffs-bipartisan-probe-into-the-human-rights-of-foster-children-has-/650584060479221/)
+  
 - [Thousands of children in the care of Ga. DFCS have been reported missing, according to inquiry](https://www.youtube.com/watch?v=wbnCuZxgBxQ) Oct 29, 2023 It’s a number Senator Jon Ossoff says is alarming. Friday his office reported the latest findings from a bi-partisan inquiry, into the Georgia Division of Family and Children Services. “1,790 children in the care of Georgia DCFS were reported missing … these numbers are deeply troubling,” Senator Jon Ossoff said. - [WSB-TV]( https://2wsb.tv/3tZKjjV)
+  
 - [I-Team: Report from Sen. Ossoff blasts DFCS over child deaths, sex trafficking - FOX5Atlanta](https://www.youtube.com/watch?v=LG5lNgLgJTo) ATLANTA - U.S. Senator Jon Ossoff has released a scathing report on Georgia's child welfare agency, saying systemic failures have allowed kids to die and that hundreds of children have been sex trafficked while under state care. The report also takes aim at Gov. Brian Kemp's appointed director of the Division of Family and Children Services, accusing her of trying to hide the extent of problems.
+  
 - [Georgia's missing foster children tied to human trafficking | Testimony - 11Alive](https://www.youtube.com/watch?v=AC0y20e2uvo) - [![Twitter Follow](https://img.shields.io/badge/Social-@11AliveNews__-blue?style=social&logo=X)](https://twitter.com/@11AliveNews)
+  
 - [Jon Ossoff blasts Georgia's child welfare agency](https://www.fox5atlanta.com/video/1438703) -  [![Twitter Follow](https://img.shields.io/badge/Social-@GoodDayAtlanta__-blue?style=social&logo=X)](https://twitter.com/@GoodDayAtlanta)
-- [Georgia's missing foster children tied to human trafficking](https://www.11alive.com/video/news/state/georgias-missing-foster-children-tied-to-human-trafficking-testimony/85-ab3cc8ca-15bb-430d-8d3a-43c403ca533a) - [![Twitter Follow](https://img.shields.io/badge/Social-@11AliveNews__-blue?style=social&logo=X)](https://twitter.com/@11AliveNews)
+  
+- [Georgia's missing foster children tied to human trafficking](https://www.11alive.com/video/news/state/georgias-missing-foster-children-tied-to-human-trafficking-testimony/85-ab3cc8ca-15bb-430d-8d3a-43c403ca533a) 
 
 
 ## Dear Senator Ossoff
