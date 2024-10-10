@@ -3,7 +3,11 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+
+![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
+
 [Bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://www.youtube.com/watch?v=jwHnLHwypuk)
+
 # Dear_M_R_O+JUNO+iSS
 Hi you guiys know i was once one of [JehovahsWitnesses](https://jwfacts.com/watchtower/changed-watchtower-teachings.php) [Civilian Service - PDF PLEASE READ JAMiE MANTEL KAREN BASS BiLL NELSON ROBiN OBRiEN JASON BRYaNT](https://cfp2.jw-cdn.org/a/64c791/1/o/1013180_E_cnt_1.pdf) i need you guys to read it carefully. Its a [big religion](https://en.wikipedia.org/wiki/Talk:Demographics_of_Jehovah%27s_Witnesses) in this country! I am still uncomfortable with my loyalty to The United States of America. Im In Los Angeles atm and The Mexican Government look so good in thier uniforms i took it to myself to purify my heart to learn and care for my fellow humans! I got a lot of skills with people in there. i WAS A PART OF THe [Regional Building Committee](https://wol.jw.org/en/wol/s/r1/lp-e?q=rbc) shorted [R. B. C.](https://avoidjw.org/donations/usa/rbc/)
 
