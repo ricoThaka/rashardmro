@@ -3,6 +3,33 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+[Bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://www.youtube.com/watch?v=jwHnLHwypuk)
+# Dear_M_R_O+JUNO+iSS
+Hi you guiys know i was once one of [JehovahsWitnesses](https://jwfacts.com/watchtower/changed-watchtower-teachings.php) [Civilian Service - PDF PLEASE READ JAMiE MANTEL KAREN BASS BiLL NELSON ROBiN OBRiEN JASON BRYaNT](https://cfp2.jw-cdn.org/a/64c791/1/o/1013180_E_cnt_1.pdf) i need you guys to read it carefully. Its a [big religion](https://en.wikipedia.org/wiki/Talk:Demographics_of_Jehovah%27s_Witnesses) in this country! I am still uncomfortable with my loyalty to The United States of America. Im In Los Angeles atm and The Mexican Government look so good in thier uniforms i took it to myself to purify my heart to learn and care for my fellow humans! I got a lot of skills with people in there. i WAS A PART OF THe [Regional Building Committee](https://wol.jw.org/en/wol/s/r1/lp-e?q=rbc) shorted [R. B. C.](https://avoidjw.org/donations/usa/rbc/)
+
+>International law has long recognized the fundamental right to conscientious objection to military service. Jehovah’s Witnesses are grateful when governments follow international standards and provide for a genuine alternative civilian service that is of a nonpunitive nature and that benefits the community. [ReadOnline](https://www.jw.org/en/gov-resources/global-information-brochures/brochure-jehovahs-witnesses-and-alternative-civilian-service/)
+
+
+
+
+[Why Don’t Jehovah’s Witnesses Go to War](https://www.jw.org/en/jehovahs-witnesses/faq/why-dont-jw-go-to-war/) [Are there Jehovah's Witnesses in the military? - Quora](https://www.jw.org/en/jehovahs-witnesses/faq/why-dont-jw-go-to-war/) [Jehovah's Witnesses and governments - WikiPedia](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_and_governments) [Can believers of Jehovah work for the navy? - Ask JosE M Pee(pi)](https://christianity.stackexchange.com/questions/96849/can-believers-of-jehovah-work-for-the-navy) [Jehovah’s Witnesses and Alternative Civilian Service](https://www.jw.org/en/gov-resources/global-information-brochures/brochure-jehovahs-witnesses-and-alternative-civilian-service/)
+
+
+## About the United States Space Force
+
+[The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
+
 # Sol 4328: Left Navigation Camera
 This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4328 (2024-10-09 02:45:05 UTC).
 ![Sol4328](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04328/opgs/edr/ncam/NLB_781710156EDR_F1091692NCAM00293M_.JPG)
@@ -14,9 +41,9 @@ here is a spread of stories that will catch you up. If [Normani](https://www.bet
   
 - [Thousands of children in the care of Ga. DFCS have been reported missing, according to inquiry](https://www.youtube.com/watch?v=wbnCuZxgBxQ) Oct 29, 2023 It’s a number Senator Jon Ossoff says is alarming. Friday his office reported the latest findings from a bi-partisan inquiry, into the Georgia Division of Family and Children Services. “1,790 children in the care of Georgia DCFS were reported missing … these numbers are deeply troubling,” Senator Jon Ossoff said. - [WSB-TV]( https://2wsb.tv/3tZKjjV)
   
-- [I-Team: Report from Sen. Ossoff blasts DFCS over child deaths, sex trafficking - FOX5Atlanta](https://www.youtube.com/watch?v=LG5lNgLgJTo) ATLANTA - U.S. Senator Jon Ossoff has released a scathing report on Georgia's child welfare agency, saying systemic failures have allowed kids to die and that hundreds of children have been sex trafficked while under state care. The report also takes aim at Gov. Brian Kemp's appointed director of the Division of Family and Children Services, accusing her of trying to hide the extent of problems.
+- [I-Team Report from Sen Ossoff blasts DFCS over child deaths, sex trafficking - FOX5Atlanta](https://www.youtube.com/watch?v=LG5lNgLgJTo) ATLANTA - U.S. Senator Jon Ossoff has released a scathing report on Georgia's child welfare agency, saying systemic failures have allowed kids to die and that hundreds of children have been sex trafficked while under state care. The report also takes aim at Gov. Brian Kemp's appointed director of the Division of Family and Children Services, accusing her of trying to hide the extent of problems.
   
-- [Georgia's missing foster children tied to human trafficking | Testimony - 11Alive](https://www.youtube.com/watch?v=AC0y20e2uvo) - [![Twitter Follow](https://img.shields.io/badge/Social-@11AliveNews__-blue?style=social&logo=X)](https://twitter.com/@11AliveNews)
+- [Georgia's missing foster children tied to human trafficking Testimony - 11Alive](https://www.youtube.com/watch?v=AC0y20e2uvo) - [![Twitter Follow](https://img.shields.io/badge/Social-@11AliveNews__-blue?style=social&logo=X)](https://twitter.com/@11AliveNews)
   
 - [Jon Ossoff blasts Georgia's child welfare agency](https://www.fox5atlanta.com/video/1438703) -  [![Twitter Follow](https://img.shields.io/badge/Social-@GoodDayAtlanta__-blue?style=social&logo=X)](https://twitter.com/@GoodDayAtlanta)
   

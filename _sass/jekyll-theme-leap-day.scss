@@ -155,6 +155,7 @@ a:hover,
 a:visited a:hover {
   color: #c9ff23;
   padding: 10px;
+  
 }
 
 
@@ -191,6 +192,8 @@ blockquote {
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
+  color: white;
+  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
 }
 
 code {
