@@ -5,7 +5,7 @@ mermaid: true
 ---
 
 
-<video loop autoplay>
+<video autoplay loop >
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
   
