@@ -4,6 +4,20 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+
+[Photek - Form & Function (1998) HQ FULL ALBUM. DRUM N BASS. JUNGLE](https://www.youtube.com/watch?v=rfCUXJWY5_o) [https://www.photek.com/](https://www.photek.com/) Form and Function is amazing, I had to slow it down when i was a kid -8 on the turntable pitch dial./Ilikeitfullspeednow
+
+[Neutron Imaging](https://www.iaea.org/topics/neutron-imaging#:~:text=Neutron%20imaging%20is%20a%20non,composition%20or%20its%20geometrical%20form.) is a non-destructive technique for analysing the structure of a sample. based on the same principles as X ray imaging but neutrons interact with the atoms' nuclei rather than with their electrons. Contrary to X rays, however, neutrons are also attenuated by some light materials, such as hydrogen, carbon, boron and lithium, and penetrate many heavy materials, such as titanium and lead. This characteristic gives neutron imaging an advantage over X ray imaging when it comes to 2D and 3D visualizations. [Neutron Scattering with Low and Medium Flux Neutron Sources -PDF](https://www.iaea.org/publications/14884/neutron-scattering-with-low-and-medium-flux-neutron-sources) [What is Neutron Imaging ?](https://www.psi.ch/en/niag/what-is-neutron-imaging) [Neutron Imaging - WikiPedia](https://en.wikipedia.org/wiki/Neutron_imaging)
+
+
+
+![HOLGA NEUTRON](https://www.psi.ch/sites/default/files/styles/primer_full_xl/public/import/niag/WhatIsNIEN/Figure2v.jpg.webp?itok=r9HrjfE7)
+
+By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/37916456@N02">ENERGY.GOV - Image produced by the Oak Ridge National Laboratory's neutron radiography facility </a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/departmentofenergy/12366098744/">HD.6D.717</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=35933544">Link</a>
+![Neutron imaging](https://upload.wikimedia.org/wikipedia/commons/7/77/HD.6D.717_%2812366098744%29.jpg) 
+
+
+
 ![Perservere](https://science.nasa.gov/wp-content/uploads/2024/03/1065.gif)
 
 [Bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://www.youtube.com/watch?v=jwHnLHwypuk)
