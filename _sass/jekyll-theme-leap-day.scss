@@ -66,6 +66,12 @@ p:first-of-type {
    color:limegreen; 
   }
 
+
+  svg {
+    filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
+  }
+
+
 h1 {
   font: bolder 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
   
