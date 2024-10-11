@@ -5,11 +5,13 @@ mermaid: true
 ---
 
 
-<video controls loop >
+<video controls loop autoplay>
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
   
 </video>
+
+<iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216097638&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy" title="Brandan E. aka DJ E-Feezy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandan E. aka DJ E-Feezy</a> · <a href="https://soundcloud.com/brandan-e-aka-dj-e-feezy/dj-total-eclipse-confrontation-1999" title="DJ Total Eclipse- Confrontation (1999)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Total Eclipse- Confrontation (1999)</a></div>
 
 ![Mars Perseverance Sol 1290: Left Navigation Camera (Navcam)](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg)
 
