@@ -14,6 +14,7 @@ mermaid: true
 </video>
 
 ![Mars Perseverance Sol 1290: Left Navigation Camera (Navcam)](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg)
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Normani is dominating the prank phone call game. From convincing Ciara she&#39;s going to be the next ‘Bachelorette’ to asking Gunna to get matching “1:59” tattoos, Normani keeps her inner circle on their toes. <a href="https://t.co/YNEmucGcqz">pic.twitter.com/YNEmucGcqz</a></p>&mdash; ELLE Magazine (US) (@ELLEmagazine) <a href="https://twitter.com/ELLEmagazine/status/1799894234306081262?ref_src=twsrc%5Etfw">June 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Dear_MRO
