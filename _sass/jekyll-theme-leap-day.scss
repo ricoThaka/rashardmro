@@ -320,7 +320,7 @@ section {
     display : flex;
     flex-wrap: wrap;
     border-radius: 31px 31px 31px 31px;
-    margin-top: -25px;
+    margin-top: -5px;
   width: 85vh; 
   padding: 0px;
     margin-bottom: 40px;
@@ -727,6 +727,22 @@ iframe {
 }
 
 
+
+
+.top-container {
+
+  padding: 0px;
+  align-content: center;
+  border-radius: 31px 0px 31px 0px;
+	max-width: 900px; 
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	/* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+	text-align:left; 
+}
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
