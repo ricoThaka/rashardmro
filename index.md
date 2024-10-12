@@ -4,6 +4,16 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+
+# 26 November 2018
+InSight successfully landed on Mars on 26 November 2018. Due to excessive dust on its solar panels preventing it from recharging, NASA put InSight in low-power mode for detecting seismic events in July 2022 and continued monitoring the lander through the operational period ending in December 2022.
+
+![inSight](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/InSight_spacecraft_model.png/1280px-InSight_spacecraft_model.png)
+![iNSiGHT](https://science.nasa.gov/wp-content/uploads/2024/03/pia22876.png?w=1024&format=webp)
+![iNsignt](https://live.staticflickr.com/4830/46064378111_2c522e5285_h.jpg)
+
+![insight](https://upload.wikimedia.org/wikipedia/commons/3/3d/PIA19664-MarsInSightLander-Assembly-20150430.jpg)
+
 ### *inprogress add viking swatches*
 [Guilty Simpson - Man's World](https://www.youtube.com/watch?v=VEDBFzDnIRM)
 
