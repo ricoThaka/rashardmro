@@ -4,7 +4,12 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
-![![NASAJPL DEER](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)
+
+{% comment %} 
+ ![![](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)
+{% endcomment %}
+
+[<img src="https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large" alt="NASAJPL DEER" />](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)
 
 <video autoplay loop >
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
@@ -17,7 +22,14 @@ mermaid: true
 
 
 
+
+{% comment %} 
 ![![Mars Perseverance Sol 1290: Left Navigation Camera (Navcam)](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg)](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg ' redirect to lightbox.js')
+
+{% endcomment %}
+
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg" alt="NASAJPL DEER" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01290/ids/edr/browse/ncam/NLG_1290_0781471671_007ECM_N0602250NCAM00525_00_2I4J01_1200.jpg)
+
 
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Normani is dominating the prank phone call game. From convincing Ciara she&#39;s going to be the next ‘Bachelorette’ to asking Gunna to get matching “1:59” tattoos, Normani keeps her inner circle on their toes. <a href="https://t.co/YNEmucGcqz">pic.twitter.com/YNEmucGcqz</a></p>&mdash; ELLE Magazine (US) (@ELLEmagazine) <a href="https://twitter.com/ELLEmagazine/status/1799894234306081262?ref_src=twsrc%5Etfw">June 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -30,11 +42,24 @@ I was doing a lot of work with NAsaEarth Dataproducts. I learned that the fire d
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">?<a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@NASAJPL</a> <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> <a href="https://twitter.com/EarthAndrew?ref_src=twsrc%5Etfw">@EarthAndrew</a> <a href="https://twitter.com/Zoeapie?ref_src=twsrc%5Etfw">@zoeapie</a>... how y&#39;all doing tonight? <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/LAFDChief?ref_src=twsrc%5Etfw">@LAFDChief</a> if my team <a href="https://twitter.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> say my <a href="https://twitter.com/hashtag/TwitterPromo?src=hash&amp;ref_src=twsrc%5Etfw">#TwitterPromo</a> works for <a href="https://twitter.com/hashtag/NASA_FiRMS?src=hash&amp;ref_src=twsrc%5Etfw">#NASA_FiRMS</a>~&gt; <a href="https://twitter.com/hashtag/TODAY?src=hash&amp;ref_src=twsrc%5Etfw">#TODAY</a> <a href="https://t.co/enkZlkDvC3">https://t.co/enkZlkDvC3</a><a href="https://twitter.com/hashtag/LastWeek?src=hash&amp;ref_src=twsrc%5Etfw">#LastWeek</a>(ish)<a href="https://t.co/DRpU3FWhBN">https://t.co/DRpU3FWhBN</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/hashtag/BUBBLEGUMPOP?src=hash&amp;ref_src=twsrc%5Etfw">#BUBBLEGUMPOP</a> <a href="https://t.co/Uz4OTXVD9z">https://t.co/Uz4OTXVD9z</a>??? <a href="https://t.co/yY9bLagThl">pic.twitter.com/yY9bLagThl</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1844553277389799863?ref_src=twsrc%5Etfw">October 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+{% comment %}
 ![![NASA FiRMS](https://pbs.twimg.com/media/GZkr8W2aAAIXGnn?format=jpg&name=large)](https://pbs.twimg.com/media/GZkr8W2aAAIXGnn?format=jpg&name=large ' redirect to lightbox.js')
+{% endcomment %}
+
+[<img src="https://pbs.twimg.com/media/GZkr8W2aAAIXGnn?format=jpg&name=large" alt="NASAJPL DEER" />](https://pbs.twimg.com/media/GZkr8W2aAAIXGnn?format=jpg&name=large)
+
+
+
+
+
 
 [Photek - Form & Function (1998) HQ FULL ALBUM. DRUM N BASS. JUNGLE](https://www.youtube.com/watch?v=rfCUXJWY5_o) [https://www.photek.com/](https://www.photek.com/) Form and Function is amazing, I had to slow it down when i was a kid -8 on the turntable pitch dial./Ilikeitfullspeednow
 
-![PHOTEK. FORM & FUNCTION](https://possecut.com/cdn/shop/files/20240402_001.jpg)
+
+
+[<img src="https://possecut.com/cdn/shop/files/20240402_001.jpg" alt="NASAJPL DEER" />](https://possecut.com/cdn/shop/files/20240402_001.jpg)
+
 
 [Neutron Imaging](https://www.iaea.org/topics/neutron-imaging#:~:text=Neutron%20imaging%20is%20a%20non,composition%20or%20its%20geometrical%20form.) is a non-destructive technique for analysing the structure of a sample. based on the same principles as X ray imaging but neutrons interact with the atoms' nuclei rather than with their electrons. Contrary to X rays, however, neutrons are also attenuated by some light materials, such as hydrogen, carbon, boron and lithium, and penetrate many heavy materials, such as titanium and lead. This characteristic gives neutron imaging an advantage over X ray imaging when it comes to 2D and 3D visualizations. [Neutron Scattering with Low and Medium Flux Neutron Sources -PDF](https://www.iaea.org/publications/14884/neutron-scattering-with-low-and-medium-flux-neutron-sources) [What is Neutron Imaging ?](https://www.psi.ch/en/niag/what-is-neutron-imaging) [Neutron Imaging - WikiPedia](https://en.wikipedia.org/wiki/Neutron_imaging)
 
