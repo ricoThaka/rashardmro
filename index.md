@@ -4,7 +4,8 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
-
+### *inprogress add viking swatches*
+[Guilty Simpson - Man's World](https://www.youtube.com/watch?v=VEDBFzDnIRM)
 
 [<img src="https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg" alt="MARiNER STATUS BULLiTEN" />](https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg)
 Dr. Carl Sagan, best known for his acclaimed public television series "Cosmos," poses with a model of the Viking lander in Death Valley, Calif. Image credit: NASA [READMORE at NASA.GOV](https://www.nasa.gov/image-article/sagan-viking/)
