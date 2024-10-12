@@ -7,11 +7,6 @@ mermaid: true
 
 
 
-[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg" alt="MARiNER STATUS BULLiTEN" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg)
-
-[<img src="https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large" alt="MARiNER STATUS BULLiTEN" />](https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large)
-
-
 
   <div class="gullies">
       <div></div>
@@ -25,44 +20,7 @@ mermaid: true
 ![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
 
 
- <div class="viking">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
 
-
-<div class="vikingbright">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-
-
-
-<div class="oncall">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-
-  <div class="normani">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23bb4607&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
-
-Normani, whatever u are, u said this was u or your imposter, i am but not oncall an i need some equipment to see [EuropaCLipper](https://www.jpl.nasa.gov/missions/europa-clipper/) if i miss it , follow it no matter what, thats my [on_call](https://www.atlassian.com/incident-management/on-call/improving-on-call) request, you said u sang this song an this is your voice! [A manager’s guide to improving on-call](https://www.atlassian.com/incident-management/on-call/on-call-schedules) [iTL](https://en.wikipedia.org/wiki/ITIL) The Information Technology Infrastructure Library (ITIL) is a set of practices and a framework for IT activities such as IT service management (ITSM) and IT asset management (ITAM) that focus on aligning IT services with the needs of the business.[1] [What is the IT Infrastructure Library (ITIL)?](https://www.ibm.com/topics/it-infrastructure-library) ITIL stands for Information Technology Infrastructure Library. The acronym was first used in the late 1980s by the British government's Central Computer and Telecommunications Agency (CCTA) when it documented and distributed dozens of best practices in IT service management. However, ITIL no longer refers to "Information Technology Infrastructure Library" and became a stand-alone term in 2013.[iBM](https://www.ibm.com/topics/it-infrastructure-library)
 
 
 [Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
@@ -72,10 +30,6 @@ Normani, whatever u are, u said this was u or your imposter, i am but not oncall
 
 I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump) in this speech said SpaceForce is the 6th branch of the US_GOVERNMENT [![Twitter Follow](https://img.shields.io/badge/Social-@KamalaHarris__-blue?style=social&logo=X)](https://twitter.com/@KamalaHarris) So i found this flickr stream with [The insight Landing](https://www.flickr.com/photos/nasahqphoto/with/45152099075) an [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump)  talking about money, an [![Twitter Follow](https://img.shields.io/badge/Social-@SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/@SenBillNelson) is jumping for exotic levels of JOY on NASDAQ an i wanna know if we a scary company like [SKYNET](https://terminator.fandom.com/wiki/Skynet)... And not the defense dept... ill keep reaserching bc in the old days we reported to [![Twitter Follow](https://img.shields.io/badge/Social-@Secdef__-blue?style=social&logo=X)](https://twitter.com/@Secdef). President Trump signed [S.1215 - National Defense Authorization Act for Fiscal Year 2020 ](https://www.congress.gov/bill/116th-congress/senate-bill/1215/text) in 2019. That was the year [Muna Died](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed/obituary). So I am a Widower. but her sister was at this church in Hollywood, im scared man , i got set up for some shit and all them girls from the dance classes started vanishing around the [landing of insight](https://www.jpl.nasa.gov/missions/insight/), [i need to play a game to cool off](https://www.smbgames.be/mario-world-2-yoshis-island.php) 
 
-# Mario World 2 Yoshis Island
-Super Mario World 2 Yoshis Island plays differently than any other Mario game. You play as Yoshi and are basically invincible (lava and pits will still kill you but enemies will not) but you must protect Baby Mario at all costs. [sbe](https://www.smbgames.be/)
-![SMW2Yi](https://cdn2.steamgriddb.com/logo_thumb/e8de67aac98d923eb372575f30568a89.png)
-![MARiOWorLD2](https://theexchange.com/cdn/shop/products/SuperMarioWorld2-Yoshi_sIsland_USA.png)
 
 <video controls preload="none" width="100%" height="auto" poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG">
 
@@ -99,7 +53,18 @@ InSight successfully landed on Mars on 26 November 2018. Due to excessive dust o
 ![insight](https://upload.wikimedia.org/wikipedia/commons/3/3d/PIA19664-MarsInSightLander-Assembly-20150430.jpg)
 
 ### *inprogress add viking swatches*
-[Guilty Simpson - Man's World](https://www.youtube.com/watch?v=VEDBFzDnIRM)
+
+
+ <div class="viking">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+
+
 
 [<img src="https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg" alt="MARiNER STATUS BULLiTEN" />](https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg)
 Dr. Carl Sagan, best known for his acclaimed public television series "Cosmos," poses with a model of the Viking lander in Death Valley, Calif. Image credit: NASA [READMORE at NASA.GOV](https://www.nasa.gov/image-article/sagan-viking/)
@@ -108,6 +73,15 @@ Dr. Carl Sagan, best known for his acclaimed public television series "Cosmos," 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp" alt="MARiNER STATUS BULLiTEN" />](https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp)
 
 >This is the first panoramic view ever returned from the surface of Mars. This view from Camera 2 on Viking 1 shows Chryse Planitia on 20 July 1976, shortly after Viking landed.
+
+<div class="vikingbright">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
 
 [<img src="https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg" alt="MARiNER STATUS BULLiTEN" />](https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg)
 
@@ -129,6 +103,47 @@ Between 1962 and 1973, NASA's Jet Propulsion Laboratory designed and built 10 sp
 {% endcomment %}
 
 [<img src="https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large" alt="NASAJPL DEER" />](https://pbs.twimg.com/media/GZpP0qcaAAIwlU2?format=jpg&name=large)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23bb4607&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
+
+Normani, whatever u are, u said this was u or your imposter, i am but not oncall an i need some equipment to see [EuropaCLipper](https://www.jpl.nasa.gov/missions/europa-clipper/) if i miss it , follow it no matter what, thats my [on_call](https://www.atlassian.com/incident-management/on-call/improving-on-call) request, you said u sang this song an this is your voice! [A manager’s guide to improving on-call](https://www.atlassian.com/incident-management/on-call/on-call-schedules) [iTL](https://en.wikipedia.org/wiki/ITIL) The Information Technology Infrastructure Library (ITIL) is a set of practices and a framework for IT activities such as IT service management (ITSM) and IT asset management (ITAM) that focus on aligning IT services with the needs of the business.[1] [What is the IT Infrastructure Library (ITIL)?](https://www.ibm.com/topics/it-infrastructure-library) ITIL stands for Information Technology Infrastructure Library. The acronym was first used in the late 1980s by the British government's Central Computer and Telecommunications Agency (CCTA) when it documented and distributed dozens of best practices in IT service management. However, ITIL no longer refers to "Information Technology Infrastructure Library" and became a stand-alone term in 2013.[iBM](https://www.ibm.com/topics/it-infrastructure-library)
+
+<div class="oncall">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+  <div class="normani">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+
+
+
+
+[<img src="https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large" alt="MARiNER STATUS BULLiTEN" />](https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large)
+
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg" alt="MARiNER STATUS BULLiTEN" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg)
+
+[Guilty Simpson - Man's World](https://www.youtube.com/watch?v=VEDBFzDnIRM)
+
+
+
+# Mario World 2 Yoshis Island
+Super Mario World 2 Yoshis Island plays differently than any other Mario game. You play as Yoshi and are basically invincible (lava and pits will still kill you but enemies will not) but you must protect Baby Mario at all costs. [sbe](https://www.smbgames.be/)
+![SMW2Yi](https://cdn2.steamgriddb.com/logo_thumb/e8de67aac98d923eb372575f30568a89.png)
+![MARiOWorLD2](https://theexchange.com/cdn/shop/products/SuperMarioWorld2-Yoshi_sIsland_USA.png)
+
+
+
 
 <video autoplay loop >
   <source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153394/savannah_bmhd_20240928.mp4" type="video/mp4">
