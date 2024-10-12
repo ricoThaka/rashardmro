@@ -612,7 +612,6 @@ footer {
   height: 100%;
   background-position: center;
   background-size: cover;
-  background-repeat: none;
   transition: flex 0.8s ease;
   
   &:hover{
@@ -836,6 +835,77 @@ img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 
 
 
+
+@keyframes slideInFromRight {
+  0% {
+      transform: translateX(100%);
+  }
+  100% {
+      transform: translateX(0);
+  }
+}
+@keyframes slideInFromLeft {
+  0% {
+      transform: translateX(-100%);
+  }
+  100% {
+      transform: translateX(0);
+  }
+}
+
+@keyframes blur {
+  0% {
+      filter: blur(1.5rem);
+  }
+  100% {
+      filter: blur(0rem);
+  }
+}
+
+@keyframes flip {
+  0% {
+      filter: blur(1.5rem);
+    transform: rotateZ(90deg);
+  }
+  100% {
+      filter: blur(0rem);
+    transform: rotateZ(0deg);
+  }
+}
+@keyframes saturate {
+  0% {
+
+    filter: saturate(7);
+  }
+  100% {
+
+    filter: saturate(3);
+  }
+}
+
+@keyframes scale {
+  0% {
+
+    transform: scale( 2, 2);
+  }
+  100% {
+
+    transform: scale(4, 1);
+    
+  }
+}
+
+@keyframes rotate {
+  0% {
+
+    transform: rotate(300.142rad);
+  }
+  100% {
+
+    transform: rotate(0rad);
+    
+  }
+}
 
 
 
