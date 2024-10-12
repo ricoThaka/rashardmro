@@ -4,14 +4,30 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+[Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
+
+
+# Dear_M_R_O,
+
+I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump) in this speech said SpaceForce is the 6th branch of the US_GOVERNMENT [![Twitter Follow](https://img.shields.io/badge/Social-@KamalaHarris__-blue?style=social&logo=X)](https://twitter.com/@KamalaHarris) So i found this flickr stream with [The insight Landing](https://www.flickr.com/photos/nasahqphoto/with/45152099075) an [![Twitter Follow](https://img.shields.io/badge/Social-@realDonaldTrump__-blue?style=social&logo=X)](https://twitter.com/@realDonaldTrump)  talking about money, an [![Twitter Follow](https://img.shields.io/badge/Social-@SenBillNelson__-blue?style=social&logo=X)](https://twitter.com/@SenBillNelson) is jumping for exotic levels of JOY on NASDAQ an i wanna know if we a scary company like [SKYNET](https://terminator.fandom.com/wiki/Skynet)... And not the defense dept... ill keep reaserching bc in the old days we reported to [![Twitter Follow](https://img.shields.io/badge/Social-@Secdef__-blue?style=social&logo=X)](https://twitter.com/@Secdef)
+<video controls preload="none" width="100%" height="auto" poster="https://media.defense.gov/2019/Dec/26/2002229051/1920/1080/0/191220-F-AP370-9819.JPG">
+
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />    
+<source src="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4" />
+      
+        Download the
+        or
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
+        video.
+</video>
 
 # 26 November 2018
 InSight successfully landed on Mars on 26 November 2018. Due to excessive dust on its solar panels preventing it from recharging, NASA put InSight in low-power mode for detecting seismic events in July 2022 and continued monitoring the lander through the operational period ending in December 2022.
-
+![InSignt](https://live.staticflickr.com/4819/45323543784_49fd644651_h.jpg)
 ![inSight](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/InSight_spacecraft_model.png/1280px-InSight_spacecraft_model.png)
 ![iNSiGHT](https://science.nasa.gov/wp-content/uploads/2024/03/pia22876.png?w=1024&format=webp)
 ![iNsignt](https://live.staticflickr.com/4830/46064378111_2c522e5285_h.jpg)
-
+![Insignt Shovel](https://photojournal.jpl.nasa.gov/archive/PIA24664b.gif)
 ![insight](https://upload.wikimedia.org/wikipedia/commons/3/3d/PIA19664-MarsInSightLander-Assembly-20150430.jpg)
 
 ### *inprogress add viking swatches*
