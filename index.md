@@ -6,6 +6,16 @@ mermaid: true
 
 
 
+[<img src="https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg" alt="MARiNER STATUS BULLiTEN" />](https://www.nasa.gov/wp-content/uploads/2023/03/151106main_image_feature_599_ys_full.jpg)
+Dr. Carl Sagan, best known for his acclaimed public television series "Cosmos," poses with a model of the Viking lander in Death Valley, Calif. Image credit: NASA [READMORE at NASA.GOV](https://www.nasa.gov/image-article/sagan-viking/)
+
+
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp" alt="MARiNER STATUS BULLiTEN" />](https://science.nasa.gov/wp-content/uploads/2024/03/chryse-planitia-panorama.jpg?w=768&format=webp)
+
+>This is the first panoramic view ever returned from the surface of Mars. This view from Camera 2 on Viking 1 shows Chryse Planitia on 20 July 1976, shortly after Viking landed.
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg" alt="MARiNER STATUS BULLiTEN" />](https://tile.loc.gov/image-services/iiif/service:mss:mss85590:103:001/full/pct:50/0/default.jpg)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Mars_Pathfinder_Lander_preparations.jpg" alt="MARiNER STATUS BULLiTEN" />](https://upload.wikimedia.org/wikipedia/commons/7/7f/Mars_Pathfinder_Lander_preparations.jpg)
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/03/vom-nj05s070.gif?w=768&format=webp" alt="MARiNER STATUS BULLiTEN" />](https://science.nasa.gov/wp-content/uploads/2024/03/vom-nj05s070.gif?w=768&format=webp)
