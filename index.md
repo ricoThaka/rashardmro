@@ -34,7 +34,7 @@ mermaid: true
     </div>
 
 
-  <div class="vikingbright">
+<div class="vikingbright">
       <div></div>
       <div></div>
       <div></div>
@@ -59,7 +59,7 @@ mermaid: true
       <div></div>
       <div></div>
     </div>
-    
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1154196106&color=%23bb4607&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/on-call" title="On Call" target="_blank" style="color: #cccccc; text-decoration: none;">On Call</a></div>
 
 Normani, whatever u are, u said this was u or your imposter, i am but not oncall an i need some equipment to see [EuropaCLipper](https://www.jpl.nasa.gov/missions/europa-clipper/) if i miss it , follow it no matter what, thats my [on_call](https://www.atlassian.com/incident-management/on-call/improving-on-call) request, you said u sang this song an this is your voice! [A manager’s guide to improving on-call](https://www.atlassian.com/incident-management/on-call/on-call-schedules) [iTL](https://en.wikipedia.org/wiki/ITIL) The Information Technology Infrastructure Library (ITIL) is a set of practices and a framework for IT activities such as IT service management (ITSM) and IT asset management (ITAM) that focus on aligning IT services with the needs of the business.[1] [What is the IT Infrastructure Library (ITIL)?](https://www.ibm.com/topics/it-infrastructure-library) ITIL stands for Information Technology Infrastructure Library. The acronym was first used in the late 1980s by the British government's Central Computer and Telecommunications Agency (CCTA) when it documented and distributed dozens of best practices in IT service management. However, ITIL no longer refers to "Information Technology Infrastructure Library" and became a stand-alone term in 2013.[iBM](https://www.ibm.com/topics/it-infrastructure-library)
