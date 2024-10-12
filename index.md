@@ -5,6 +5,10 @@ mermaid: true
 ---
 
 
+
+
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg" alt="MARiNER STATUS BULLiTEN" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01073/ids/edr/browse/ncam/NLF_1073_0762203930_824ECM_N0501618NCAM02073_10_195J01_1200.jpg)
+
 [<img src="https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large" alt="MARiNER STATUS BULLiTEN" />](https://pbs.twimg.com/media/GIQuNH7bsAAkCrr?format=jpg&name=large)
 
 
