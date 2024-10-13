@@ -19,6 +19,10 @@ mermaid: true
 [Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
 ![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
 
+
+[a track from Guilty Simpson & J Dilla's unfinished album - MAnsWorld](https://www.youtube.com/watch?v=VEDBFzDnIRM)
+![BERKELEY ERiKA CorMiEr Akire Akeevah Konnie Esther Kevin Leonard](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
 # Sunday Oct. 13 2024
 ## Dear_Normani,
 I forgot what other lil girl at Dance411 was helpinmg me with this. But I have to track how im computing the news. A lot of ppl that Left [Cults](https://youtu.be/eAM9diyVRiM) get mislead politically and sometimes endup in crime. NASAJPL human man, and this new SpaceforcE awareness makes me apt to share my views openly an that can help keep shit stable when them ppl lying. I wanted to test in_browser ruby programming that put standard out on the screen but i was too distracted with the #HollyWoodSessionJackiNGs [The National Aeronautics and Space Administration (NASA /ˈnæsə/) ](https://en.wikipedia.org/wiki/NASA)
