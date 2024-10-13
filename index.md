@@ -1459,7 +1459,15 @@ The final element.
     </pre>
     
 <div style="padding:20px;" align="right"><p><a href="css/01_centered_box.css">[full css]</a></p></div>
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:60px;height:auto"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
+![HTML5CSS3](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
 
 ![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)  
 
