@@ -19,6 +19,10 @@ mermaid: true
   <div></div>
 </div>
 
+[<img src="https://nssdc.gsfc.nasa.gov/imgcat/higher_res/apollo/as11_40_5886.jpg" alt="moon" />](https://nssdc.gsfc.nasa.gov/imgcat/higher_res/apollo/as11_40_5886.jpg)
+# 
+![mars](https://svs.gsfc.nasa.gov/vis/a000000/a002200/a002292/marsNPoleTrue.jpg)
+[mars](https://svs.gsfc.nasa.gov/2292/)
 
 # Color mosaic of Mars' south polar cap - Viking 2 Orbiter
 Mosaic of Viking 2 Orbiter images of the south pole of Mars. The images used to make this picture were obtained during orbit 407 on 28 September 1977. The south pole is just below the center of the frame, at the lower right edge of the polar cap. The zero degree line of longitude is up. The cap is about 400 km across in this image, taken during southern winter. (Viking 2 Orbiter MG90S000-407B)
