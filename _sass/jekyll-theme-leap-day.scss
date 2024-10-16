@@ -52,7 +52,6 @@ center repeat;
 /* background: black; */
 /* background: linear-gradient(90deg, black 0%, rgba(38,38,38,0.7049194677871149) 35%, rgba(89,89,89,0.5900735294117647) 100%); */
 border-left: 1px solid #26a7de ;
-border-right: 1px solid #BFBFBF;
 column-count: auto;
 column-fill: balance-all;
 word-break: break-all;
@@ -522,7 +521,7 @@ footer {
   }
 
   section {
-    margin-top: 130px;
+    margin-top: 10px;
     margin-bottom: 0px;
     width: auto;
   }
@@ -741,7 +740,7 @@ iframe {
   padding: 0px;
   align-content: center;
  	max-width: 900px; 
-	padding: 15px;
+	padding: 0px;
 	margin-right: auto;
 	margin-left: auto; 	
 	/* opera does not like 'margin:20px auto' */
