@@ -4,6 +4,13 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+<div class="gullies">
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
 
 [<video src="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4" alt=" Deployment of SWOT's Solar Arrays" />](https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
@@ -12,13 +19,7 @@ mermaid: true
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
 [<img src="https://static.uahirise.org/hipod/ESP_050033_1920.jpg" alt="MRO BULLiTEN" />](https://static.uahirise.org/hipod/ESP_050033_1920.jpg)
 
-  <div class="gullies">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
+
 
 [Gullies on Mars](https://www.nasa.gov/image-article/gullies-mars/)
 ![Gullies on Mars](https://www.nasa.gov/wp-content/uploads/2023/03/pia23675.jpg?resize=1024,640)
