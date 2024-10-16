@@ -12,6 +12,11 @@ mermaid: true
   <div></div>
 </div>
 
+
+
+
+[NASA's Mars Perseverance Rover Finds Intriguing Organic Matter in Rock - CNET - Amanada KooseR](https://www.cnet.com/science/space/nasa-mars-perseverance-rover-finds-organic-matter-in-rock/) [Bullet With Butterfly Wings (Remastered 2012) · The Smashing Pumpkins](https://www.youtube.com/watch?v=xCmA1uC0r9A)
+
 [<video src="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4" alt=" Deployment of SWOT's Solar Arrays" />](https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
