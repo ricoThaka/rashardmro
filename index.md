@@ -35,7 +35,7 @@ mermaid: true
 
 # Color mosaic of Mars' south polar cap - Viking 2 Orbiter
 Mosaic of Viking 2 Orbiter images of the south pole of Mars. The images used to make this picture were obtained during orbit 407 on 28 September 1977. The south pole is just below the center of the frame, at the lower right edge of the polar cap. The zero degree line of longitude is up. The cap is about 400 km across in this image, taken during southern winter. (Viking 2 Orbiter MG90S000-407B)
-[<img src="https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif" alt=""](https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif)
+[<img src="https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif" alt="" />](https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif)
 
 
 [Mars Reconnaissance Orbiter-Imaging Mars From Above - SPACEOPEDiA](http://www.spaceopedia.com/space-exploration/space-probes/planets/mars-orbiter/) The MRO is a relatively large spacecraft that dwarfs the other Mars probes as it measures 6.5 m (21 feet) high with a width of 13.6 m (45 feet) and includes a large 3 m (10 feet) wide radio antenna dish! At launch, MRO weighed 2,180 kilograms (4,806 lb) (50% being onboard propellant) and was launched aboard the [Atlas V rocket](http://www.spaceopedia.com/space-exploration/rockets/atlas-v/).
