@@ -15,7 +15,16 @@ mermaid: true
   <div></div>
   <div></div>
   <div></div>
-  <div></div>
+  <div>     <form name="form1">
+              <select name="related" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
+                <option selected="">Related</option>
+                <option value="https://ricothaka.github.io/compiling/">compiling:MyBlog</option>
+                <option value="https://ricothaka.github.io/">homepage</option>
+                <option value="https://ricothaka.github.io/twitters/">TwitterStore</option>
+  
+  </select>
+              <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('Related',0)" class="jumpmenu">
+            </form></div>
   <div></div>
 </div>
 
