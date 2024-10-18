@@ -27,6 +27,38 @@ mermaid: true
             </form></div>
   <div></div>
 </div>
+
+
+[How’s the Weather on Mars? (NASA Mars Report)](https://youtu.be/ONDIWFbcLa4?list=PLTiv_XWHnOZpDDRIMGNxDTAORJVK2RS7I)
+
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png
+)
+
+<div class='twoPanelSpread' markdown=`1`>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg
+) 
+   </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg
+)
+   </div>
+    </div>
+  </div>
+</div>
+
+
+
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png
+)
+
+[<img src="https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg" alt="waymo" />](https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg
+)
+
 [Street Fighter Alpha 2 (960430 USA)](https://www.retrogames.cc/arcade-games/street-fighter-alpha-2-960430-usa.html)
 # [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/)
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png)
@@ -501,11 +533,11 @@ Get up
         
       </div>
     </div>
-    <div class='panelColumn'>
+ <div class='panelColumn'>
       <div class='rightColumn'>
            <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45370e1ebb64f08283bb8/vsco5fc453719deaa.jpg?w=463&dpr=1" alt=""> </a>
         
-      </div>
+   </div>
     </div>
   </div>
 </div>
