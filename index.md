@@ -36,6 +36,7 @@ mermaid: true
 )
 
 Im not riding with or in [Waymo](https://waymo.com/waymo-one-los-angeles/) thats suicide. But i am looking at EuropaClipper up close bc she pass by mars. And im excited to look at earth an we get a flyby there too.. idk where it will orbit yet, but the name CLipper suggest sailing. its going to pass Europa which [Galileo discovered b4 it was crashed](https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4)
+![WAYMO](https://images.ctfassets.net/e6t5diu0txbw/5FkoO8sRwPJCoITZPB50fw/cbdcebe36ff585086908240dd00c47b2/LA_Service-Areas_Map_WAYMO_3840x2055_July2024-OUTLINED.svg)
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp" alt="Europa" />](https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp)
 
