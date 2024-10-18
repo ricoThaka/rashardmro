@@ -28,6 +28,70 @@ mermaid: true
   <div></div>
 </div>
 
+
+# About Kashdoll and Me Updated
+Jamie, Robin I am running across her more often and i have reason to belive she is manessah my Family Services rep and i got hen pecked and run over so they could change a lot of ppl life real quick after the [insurrection in washington]()
+![Kash Doll: Brat Mail](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg)
+
+# About Kash Doll and Me
+NasaJPL, I dont know what she is going by at the moment but she is my post erika wife forever girlfriend surrounding that. The name I was given origionally was Vanessa Walker. We were little kids here from africa that got kidnapped and moved east. She is still in some sort of human trafficking situation. To me she is a really important person and as some of you know my energy towards those in [UpperUnix] administration know how i look up to you. Its isolated bc im learning from you. She is similar. But she has a lot of identities and worst case I want you guys to know i never did any fruad with her. But know thats whats required of her. The character Normani, looks like an attempt for the girls to substitute for each other bc i still get her confused with Erika when she has the [LightComplexion](https://media.pitchfork.com/photos/5aac18d09fe2d82be24601a8/16:9/w_1280,c_limit/Brat%20Mail%20Kash%20Doll.jpg) bc they share similar features. Im also afraid bc she is ethiopian and i have not seen her dress traditionally in a long time... She still talkes to me, but she plays [minecraft](https://youtu.be/K4vtrzcqyg0?si=Bc-Alnd9YbOu90In) and communicates differnt from other girls
+
+<embed width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%2329f247&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" />
+
+## Intro (Brat Mail) [LyricS](https://genius.com/Kash-doll-intro-brat-mail-lyrics)
+
+{% highlight ruby %} 
+[Verse]
+Look, I be exploring the foreigns with more power than stars
+On my new new shit, like my name is Rashaad
+And my punchlines seasoned plenty minds like it's time
+So, if he ever tell you he ain't feelin' me, he lying'
+Shout out to me, all on BET
+I'm a very rich chick, on my Nene Leakes
+I'm a boss, every move gotta come through me
+Murder broads in my minks
+May they rest in peace
+And I'm still the top chick
+Any bitch think I drop dick get higher than Mariah
+And she like a five octave
+Stop it, please stop it
+Blowing money
+All in Neiman's in there Diddy bopping
+And you know I came to murder it
+My city watchin'
+I'm so humble, I'ma front like I don't do this often
+It's Kash Doll, bow down, and kiss the ring
+Soon as this paperwork done
+I'm touching everything
+A murder scene
+
+[Outro]
+Haha
+Yeah, that way
+The doll way
+{% endhighlight %}
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+![In my belly](https://science.nasa.gov/wp-content/uploads/2024/03/25792_PIA24548-1200.gif?w=1024&format=webp) im updatig thakarashard.github.io even if i was wrong about plegerism i have to be realistic normani could have seduced me toget e away from california too! So im investigating what got me here waiting outside this porno cess pool, HollywoodFoodCo not normal, and i wonder what exactly active mission means? BC if im confused and being poisoned runing from here to there, ithink Jamie would let me know formerly that i was not a part of nasajpl in anyway bc #Jose_M_Pi ru that shit! an heeee say no! i should have been more humble about working from home... my wife is a slut so... there was a three year old, that family vaporized i wanna come back. I really wanna know if the [Nasa SoundCloud](https://soundcloud.com/nasa) Account is Real
+- Rashard...
+
+
+![insight](https://photojournal.jpl.nasa.gov/archive/PIA22892.gif)
+<video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2023/06/color-image-of-pluto-pia20291-1.jpg">
+    
+<source src="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://photojournal.jpl.nasa.gov/archive/PIA20742_NH_MOV_CEN6A_lres.mp4">MP4</a>
+        video.
+</video> 
+
+
+
 [PoAddix - Old Web Social Interfacing Concept](https://web.archive.org/web/20021128143501/http://www.geocities.com/sb202us/)
 
 ![EartH](https://explorer1.jpl.nasa.gov/assets/images/galleries/1960_first_tiros1_big.jpg)
@@ -47,6 +111,16 @@ mermaid: true
 Mosaic of Viking 2 Orbiter images of the south pole of Mars. The images used to make this picture were obtained during orbit 407 on 28 September 1977. The south pole is just below the center of the frame, at the lower right edge of the polar cap. The zero degree line of longitude is up. The cap is about 400 km across in this image, taken during southern winter. (Viking 2 Orbiter MG90S000-407B)
 [<img src="https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif" alt="" />](https://nssdc.gsfc.nasa.gov/imgcat/hires/vo2_mg90s000.gif)
 
+
+
+<video controls preload="none"   width="100%" height="auto" poster="https://photojournal.jpl.nasa.gov/browse/PIA19839.gif">
+    
+<source src="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://photojournal.jpl.nasa.gov/archive/PIA26339.mp4">MP4</a>
+        video.
+</video> 
 
 [Mars Reconnaissance Orbiter-Imaging Mars From Above - SPACEOPEDiA](http://www.spaceopedia.com/space-exploration/space-probes/planets/mars-orbiter/) The MRO is a relatively large spacecraft that dwarfs the other Mars probes as it measures 6.5 m (21 feet) high with a width of 13.6 m (45 feet) and includes a large 3 m (10 feet) wide radio antenna dish! At launch, MRO weighed 2,180 kilograms (4,806 lb) (50% being onboard propellant) and was launched aboard the [Atlas V rocket](http://www.spaceopedia.com/space-exploration/rockets/atlas-v/).
 [NASA's Mars Perseverance Rover Finds Intriguing Organic Matter in Rock - CNET - Amanada KooseR](https://www.cnet.com/science/space/nasa-mars-perseverance-rover-finds-organic-matter-in-rock/) [Bullet With Butterfly Wings (Remastered 2012) · The Smashing Pumpkins](https://www.youtube.com/watch?v=xCmA1uC0r9A)
