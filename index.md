@@ -31,10 +31,14 @@ mermaid: true
 # [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/)
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png)
 
-Im not riding with [Waymo]() thats suicide. But i am looking at EuropaClipper up close bc she pass by mars. And im excited to look at earth an we get a flyby there too.. idk where it will orbit yet, but the name CLipper suggest sailing. its going to pass Europa which [Galileo discovered b4 it was crashed](https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4)
-[<img src="https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp" alt="Europa" />](https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp)
+
 [<img src="https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365" alt="waymo" />](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365
 )
+
+Im not riding with or in [Waymo](https://waymo.com/waymo-one-los-angeles/) thats suicide. But i am looking at EuropaClipper up close bc she pass by mars. And im excited to look at earth an we get a flyby there too.. idk where it will orbit yet, but the name CLipper suggest sailing. its going to pass Europa which [Galileo discovered b4 it was crashed](https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4)
+
+[<img src="https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp" alt="Europa" />](https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp)
+
 
 [Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
 
