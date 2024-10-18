@@ -27,7 +27,14 @@ mermaid: true
             </form></div>
   <div></div>
 </div>
-[Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ)
+
+
+Im not riding with [Waymo]() thats suicide. But i am looking at EuropaClipper up close bc she pass by mars. And im excited to look at earth an we get a flyby there too.. idk where it will orbit yet, but the name CLipper suggest sailing. its going to pass Europa which [Galileo discovered b4 it was crashed](https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4)
+[<img src="https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp" alt="Europa" />](https://science.nasa.gov/wp-content/uploads/2023/07/The_icy__scarred_surface_of_Jupiters_ocean_moon_Europa-1.jpeg?w=768&format=webp)
+[<img src="https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365" alt="waymo" />](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365
+)
+
+[Muddy Waters , Mannish Boy , 1977 Hard Again version](https://www.youtube.com/watch?v=LY_inPuMU7c) [Muddy Waters - Mannish Boy (Audio)](https://www.youtube.com/watch?v=bSfqNEvykv0) [Aquaboogie (A Psychoalphadiscobetabioaquadoloop)](https://www.youtube.com/watch?v=pqEDxjLC-gQ) [Testing Example Code In Your Jekyll Posts](https://www.rubypigeon.com/posts/testing-example-code-in-your-jekyll-posts/)
 
 # About Kashdoll and Me Updated
 Jamie, Robin I am running across her more often and i have reason to belive she is manessah my Family Services rep and i got hen pecked and run over so they could change a lot of ppl life real quick after the [insurrection in washington](https://www.nationalguard.mil/News/Article/2466077/dod-details-national-guard-response-to-capitol-attack/). That sounds like a crazy theory to me, but i think she got picked up by playboy in highschool, [she in this video](https://www.youtube.com/watch?v=MuNx-_dqM90). She always quick visits and this tape [Trapped in The Dollhouse](https://audiomack.com/kashbratz/album/trapped-in-the-dollhouse-1) i got an update after she was twerking inviting me to be more friendly in the studio. Mind you all this political turmoil is amuck! And once the Riot happened its like atlanta fell apart, but in this message i get that she is brotheled in some way! In BratMail she let me know she was looking at me `On my new new shit, like my name is Rashaad` that was my update.  
