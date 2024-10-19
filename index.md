@@ -47,16 +47,19 @@ mermaid: true
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png
 )
 
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png
+)
+
 <div class='twoPanelSpread' markdown="1">
   <div class='row'>
     <div class='panelColumn'>
-      <div class='leftColumn'>
+      <div class='leftColumn' markdown="1">
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg
 ) 
    </div>
     </div>
  <div class='panelColumn'>
-      <div class='rightColumn'>
+      <div class='rightColumn' markdown="1">
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg
 )
    </div>
@@ -65,9 +68,6 @@ mermaid: true
 </div>
 
 
-
-[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png
-)
 
 [<img src="https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg" alt="waymo" />](https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg
 )
