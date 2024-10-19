@@ -28,6 +28,8 @@ mermaid: true
   <div></div>
 </div>
 
+[Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
+
 # Phobos Eclipse 
 <video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
 
@@ -45,7 +47,7 @@ mermaid: true
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png
 )
 
-<div class='twoPanelSpread' markdown=`1`>
+<div class='twoPanelSpread' markdown="1">
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
