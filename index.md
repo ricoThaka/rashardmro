@@ -64,7 +64,9 @@ This visualization compares the full-disk solar view of SOHO/EIT (green, on the 
   video.
 </video>
 
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png)
 
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png)
 
 ![3d Glasses](https://upload.wikimedia.org/wikipedia/commons/a/a0/3d_glasses_red_cyan.svg) 
 
@@ -80,9 +82,7 @@ This visualization compares the full-disk solar view of SOHO/EIT (green, on the 
 [<img src="https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660" alt="Spirit Lands on Mars" />](https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660)
 
 
-[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png)
 
-[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png)
 
 <div class='twoPanelSpread' markdown='1' >
   <div class='row'>
