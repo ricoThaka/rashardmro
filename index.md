@@ -84,7 +84,7 @@ This visualization compares the full-disk solar view of SOHO/EIT (green, on the 
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png)
 
-<div class='twoPanelSpread' >
+<div class='twoPanelSpread' markdown='1' >
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn' >
