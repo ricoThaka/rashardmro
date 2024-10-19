@@ -28,19 +28,28 @@ mermaid: true
   <div></div>
 </div>
 
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
+
 [Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
 
+# Halloween Storms 2003: SOHO/EIT and TRACE at 195 Angstroms
+This visualization compares the full-disk solar view of SOHO/EIT (green, on the left) with the small field of view of the TRACE ultraviolet telescope (gold, on the right). The yellow border of the TRACE imagery is projected on the appropriate location on the green EIT imagery. [ReadMorE](https://svs.gsfc.nasa.gov/3535/)
 
-![3d Glasses](https://upload.wikimedia.org/wikipedia/commons/a/a0/3d_glasses_red_cyan.svg) 
+<video controls preload="none"   width="100%" height="auto" poster="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_stand.HD1080i.05000.jpg">
 
-[Anaglyph 3D is the stereoscopic 3D effect achieved](https://en.wikipedia.org/wiki/Anaglyph_3D) by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan.
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4" type="video/mp4" />
 
+  <source src="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4" type="video/mp4" />
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png" alt="Evidence of water found on Mars" />](https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png)
-
-[<img src="https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" alt="Evidence of water found on Mars" />](https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif)
-
-[<img src="https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660" alt="Spirit Lands on Mars" />](https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660)
+  Download the
+  or
+  <a href="https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003535/EITTRACEside_720.mp4">MP4</a>
+  video.
+</video>
+<cite>NASA/Goddard Space Flight Center Scientific Visualization Studio</cite>
 
 # Phobos  Eclipse 
 <video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
@@ -54,6 +63,21 @@ mermaid: true
   <a href="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4">MP4</a>
   video.
 </video>
+
+
+
+![3d Glasses](https://upload.wikimedia.org/wikipedia/commons/a/a0/3d_glasses_red_cyan.svg) 
+
+[Anaglyph 3D is the stereoscopic 3D effect achieved](https://en.wikipedia.org/wiki/Anaglyph_3D) by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan.
+# [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/)
+[<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_010800_010899/PSP_010836_1885_ESP_081663_1885/PSP_010836_1885_ESP_081663_1885_RED.browse.png)
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png" alt="Evidence of water found on Mars" />](https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png)
+
+[<img src="https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" alt="Evidence of water found on Mars" />](https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif)
+
+[<img src="https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660" alt="Spirit Lands on Mars" />](https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660)
 
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png)
@@ -524,10 +548,6 @@ The film begins in 1928 Los Angeles and tells the true story of a woman who reco
 ![Bedrock in the Nili Fossae Region](https://static.uahirise.org/hipod/ESP_054512_2015.jpg)
 Nili Fossae is a perennial choice for potential landing sites, as it was for the Mars Science Laboratory and the Mars 2020 mission. Located in the Syrtis Major region, a large exposure of olivine has been detected here. [ReadmorE](https://www.uahirise.org/hipod/ESP_054512_2015)
 
-![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
-[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
-![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
 # Dear M_R_O
 ## Jill Scott on 4hero MiXTApe
 [JILL SCOTT || Gotta Get Up (Another Day) (feat. 4Hero)](https://www.youtube.com/watch?v=w43kCpTk3zM)
