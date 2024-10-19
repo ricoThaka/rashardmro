@@ -30,7 +30,7 @@ mermaid: true
 
 [Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
 
-# Phobos Eclipse 
+# Phobos  Eclipse 
 <video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
 
   <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
@@ -44,13 +44,11 @@ mermaid: true
 </video>
 
 
-[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png
-)
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png)
 
-[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png
-)
+[<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png)
 
-<div class='twoPanelSpread' >
+<div class='twoPanelSpread' markdown="1">
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn' >
@@ -67,9 +65,7 @@ mermaid: true
 
 
 
-[<img src="https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg" alt="waymo" />](https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg
-)
-
+[<img src="https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg" alt="waymo" />](https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg)
 [Street Fighter Alpha 2 (960430 USA)](https://www.retrogames.cc/arcade-games/street-fighter-alpha-2-960430-usa.html) 
 [How’s the Weather on Mars? (NASA Mars Report)](https://youtu.be/ONDIWFbcLa4?list=PLTiv_XWHnOZpDDRIMGNxDTAORJVK2RS7I)
 
@@ -77,8 +73,7 @@ mermaid: true
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png)
 
 
-[<img src="https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365" alt="waymo" />](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365
-)
+[<img src="https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365" alt="waymo" />](https://lh3.googleusercontent.com/v-nEn2qP2bc7jpXSbAG2YRQdi8JCo8vax4HPO9qxkjxuITxPAKinVAXd5lIIu0BagL_PGQQ6jyz-4WL01DctVvEX9EhlQpXajrxwW3Y=s0-e365)
 
 Im not riding with or in [Waymo](https://waymo.com/waymo-one-los-angeles/) thats suicide. But i am looking at EuropaClipper up close bc she pass by mars. And im excited to look at earth an we get a flyby there too.. idk where it will orbit yet, but the name CLipper suggest sailing. its going to pass Europa which [Galileo discovered b4 it was crashed](https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4)
 ![WAYMO](https://images.ctfassets.net/e6t5diu0txbw/5FkoO8sRwPJCoITZPB50fw/cbdcebe36ff585086908240dd00c47b2/LA_Service-Areas_Map_WAYMO_3840x2055_July2024-OUTLINED.svg)
