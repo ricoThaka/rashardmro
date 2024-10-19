@@ -30,6 +30,18 @@ mermaid: true
 
 [Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
 
+
+![3d Glasses](https://upload.wikimedia.org/wikipedia/commons/a/a0/3d_glasses_red_cyan.svg) 
+
+[Anaglyph 3D is the stereoscopic 3D effect achieved](https://en.wikipedia.org/wiki/Anaglyph_3D) by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan.
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png" alt="Evidence of water found on Mars" />](https://upload.wikimedia.org/wikipedia/commons/8/82/Dolby_3D.png)
+
+[<img src="https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" alt="Evidence of water found on Mars" />](https://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif)
+
+[<img src="https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660" alt="Spirit Lands on Mars" />](https://lh3.googleusercontent.com/S8oxA3KnFnGsQnc7ZFyJ1wNdgWSPuYKuh3R2o9fZmuz-Sl4aXj_leDMz2eIhvqAex3ubjU4QcjifcCHu9fO9d_6EZMF5GHmJtMo28MUE=s660)
+
 # Phobos  Eclipse 
 <video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
 
@@ -48,11 +60,13 @@ mermaid: true
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/perseverance-parachute-puzzle.png)
 
-<div class='twoPanelSpread' markdown="1">
+<div class='twoPanelSpread' >
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn' >
+
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg) 
+
    </div>
     </div>
  <div class='panelColumn'>
