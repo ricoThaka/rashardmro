@@ -28,9 +28,19 @@ mermaid: true
   <div></div>
 </div>
 
-[<video src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" alt="Phobos" />](https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4)
+# Phobos Eclipse 
+<video controls preload="none"   width="100%" height="auto" poster="https://science.nasa.gov/wp-content/uploads/2024/03/1308.gif?w=768&format=webp">
 
-[How’s the Weather on Mars? (NASA Mars Report)](https://youtu.be/ONDIWFbcLa4?list=PLTiv_XWHnOZpDDRIMGNxDTAORJVK2RS7I)
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  <source src="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4" type="video/mp4" />
+
+  Download the
+  or
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26248.mp4">MP4</a>
+  video.
+</video>
+
 
 [<img src="https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png" alt="waymo" />](https://science.nasa.gov/wp-content/uploads/2024/02/mars-perseverance-si1-0045-0670932474-015ecm-n0031416srlc07021-000085j-e1720460405906.png
 )
@@ -60,7 +70,9 @@ mermaid: true
 [<img src="https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg" alt="waymo" />](https://photojournal.jpl.nasa.gov/figures/PIA21837_fig1.jpg
 )
 
-[Street Fighter Alpha 2 (960430 USA)](https://www.retrogames.cc/arcade-games/street-fighter-alpha-2-960430-usa.html)
+[Street Fighter Alpha 2 (960430 USA)](https://www.retrogames.cc/arcade-games/street-fighter-alpha-2-960430-usa.html) 
+[How’s the Weather on Mars? (NASA Mars Report)](https://youtu.be/ONDIWFbcLa4?list=PLTiv_XWHnOZpDDRIMGNxDTAORJVK2RS7I)
+
 # [Index of /PDS/EXTRAS/ANAGLYPH/ESP/ORB](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/)
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png" alt="mars surface" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012200_012299/ESP_012293_1800_ESP_012016_1800/ESP_012293_1800_ESP_012016_1800_RED.browse.png)
 
