@@ -35,6 +35,12 @@ mermaid: true
 
 [Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
 
+
+![U.S. Air Force](https://upload.wikimedia.org/wikipedia/commons/6/69/USAF_logo.png)
+
+[<img src="https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png" alt="DefenseInformationSystemsAgency" />](https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png)
+
+
 # Halloween Storms 2003: SOHO/EIT and TRACE at 195 Angstroms
 This visualization compares the full-disk solar view of SOHO/EIT (green, on the left) with the small field of view of the TRACE ultraviolet telescope (gold, on the right). The yellow border of the TRACE imagery is projected on the appropriate location on the green EIT imagery. [ReadMorE](https://svs.gsfc.nasa.gov/3535/)
 
