@@ -1,16 +1,9 @@
 ---
 layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
-mermaid: true
 ---
 
-<div class="gullies">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
+
 <div class="gullies">
   <div></div>
   <div></div>
@@ -27,7 +20,9 @@ mermaid: true
             </form></div>
   <div></div>
 </div>
+
 ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+![mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01302/ids/edr/browse/ncam/NLG_1302_0782529673_005ECM_N0610376NCAM00500_00_2I4J01_1200.jpg)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 [MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
@@ -1651,13 +1646,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Rashard(Thaka) Iman Kelly</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1980</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>North America</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>BruisedOrange</dd>
 </dl>
 
 ```
