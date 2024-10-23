@@ -397,9 +397,17 @@ nav {
       &.tag-h1 {
         font-size: 1.2em;
 
+        a:hover {
+          font-size: 120%; 
+          color: #63c0f5;
+          text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+          
+                 
+        }
         a {
           font-weight: bold;
           color: white;
+          transition: all .2s ease-in;
         }
 
         + .tag-h2 {
@@ -415,11 +423,23 @@ nav {
       }
     }
 
+    a:hover,
+    a:visited a:hover {
+      /*font-size: 130%; */
+      color: #63c0f5;
+      text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+      
+      
+    
+    }
+    
     a {
-      color: #ffffff;
-      transition: 0.3s;
-
-      &:hover { color: #37ff00; }
+      padding: 0px;
+      color:#29F247 ;
+      text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
+      transition: all .4s ease-out;
+    
+    
     }
 
     // .active {
