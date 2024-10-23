@@ -31,22 +31,19 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 
 [//]: # (i donnt knwo the origin of this style of comments.https://gist.github.com/rowe-morehouse https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152 thanks id like to know the logic someday @rowe-morehouse)
 
-```markdown
-[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
-```
+
 ## Deimos Eclipse
 Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 by 12 by 11 kilometers). Deimos orbits Mars every 30 hours.Deimos was discovered on Aug. 11, 1877 by Asaph Hall. Hall named Mars' moons for the mythological sons of Ares, the Greek counterpart of the Roman god, Mars. Deimos, whose name means dread, is the brother of Phobos. 
 [<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
-
+```markdown
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
+```
 ![RED_EARTH](https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg)
 [Red Earth / War-Zard (Euro 961121)](https://www.retrogames.cc/arcade-games/red-earth-war-zard-euro-961121.html)
 Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo) [Martian Mythology?](https://en.wikipedia.org/wiki/Mars_in_fiction) [UTOPiAs](https://en.wikipedia.org/wiki/Mars_in_fiction#Utopias) Because early versions of the nebular hypothesis of Solar System formation held that the planets were formed sequentially starting at the outermost planets, some authors envisioned Mars as an older and more mature world than the Earth, and it became the setting for many utopian works of fiction. This genre made up the majority of stories about Mars in the late 1800s and continued to be represented through the early 1900s [WikiPedia](https://en.wikipedia.org/wiki/Mars_in_fiction)
 [Open Source Stories - Hello World Episode I (Featured on GitHub Twitter)](https://www.youtube.com/watch?v=3KoAHUrUHkI) [Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)](https://www.retrogames.cc/arcade-games/super-street-fighter-ii-turbo-super-street-fighter-2-x-940223-etc.html)
 
 
-![U.S. Air Force](https://upload.wikimedia.org/wikipedia/commons/6/69/USAF_logo.png)
-
-[<img src="https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png" alt="DefenseInformationSystemsAgency" />](https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png)
 
 
 # Halloween Storms 2003: SOHO/EIT and TRACE at 195 Angstroms
@@ -1465,6 +1462,11 @@ NASA/JPL-Caltech</p>
 [Mars Reconnaissance Orbiter (MRO) Launches](https://www.jpl.nasa.gov/images/pia04141-mars-reconnaissance-orbiter-mro-launches/) 
 NASA's Mars Reconnaissance Orbiter (MRO) launches at 7:43 a.m. EDT atop a Lockheed Martin Atlas V rocket from Launch Complex 41 at Cape Canaveral Air Force Station in Florida on Aug. 12. All systems performed nominally for NASA's first Atlas V launch. The spacecraft will arrive at Mars in March 2006. Once in orbit around Mars, various instruments on the MRO will convey detailed observations of the Martian surface, subsurface and atmosphere. Researchers will use the data to study the history and distribution of Martian water. [FinishArticlE](https://www.jpl.nasa.gov/images/pia04141-mars-reconnaissance-orbiter-mro-launches/) [ReadMissionObjective](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 ![Mars Reconnaissance Orbiter (MRO) Launches](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA04141.jpg)
+
+![U.S. Air Force](https://upload.wikimedia.org/wikipedia/commons/6/69/USAF_logo.png)
+
+[<img src="https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png" alt="DefenseInformationSystemsAgency" />](https://www.disa.mil/-/media/Images/DISA/DITCO/DISA_Seal_lo-res.png)
+
 
 ![normani](https://pbs.twimg.com/profile_banners/209003577/1718338162/1500x500)
 [Normani](https://www.tiktok.com/@normani?lang=en) [Bobbly Ray is from Decatur](https://en.wikipedia.org/wiki/B.o.B) No one belived i worked for nasa when i came back east after being poisoned out of [Monrovia's Extended Stay](https://www.yelp.com/biz/extended-stay-america-los-angeles-monrovia-monrovia) with [Erika](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/). When I was babysitting coral, the song [5Th Dimension](https://www.youtube.com/watch?v=NHfPx7EZ_0U) was a fun tune. iDk if you assisted with production but it had that [Party Vibe we catch with the kids](https://www.abcearlylearning.com/child-care-atlanta-ga.htm). So im running around [Palmdale Mall(Antelope Valley)](https://www.av-mall.com/) Playing that hppy pop shit from atlanta to keep her entertained. She was born in [Northside](https://www.northside.com/locations/northside-hospital-atlanta) and has a true Native Georgia energy! I bring it up bc a few ppl talk to me in strange ways like you, but i really dont know who he is. But I know i went to the same [barbershop](https://www.yelp.com/biz/platinum-cut-decatur) for some time. I had some ppl taunting me in songs about you, erika and muna. It really breaks my heart bc im not from there. A lot of ppl got chewed up with jealosy and im terrified he is fighting me too. He is a [Flat Earther](https://en.wikipedia.org/wiki/B.o.B_discography)... i think im wrong [irt](https://www.suvoda.com/insights/blog/what-is-interactive-response-technology-irt) *inrealtime* Anyway im trying to weed out real people. Since you from Magic, like yo i really need you to help me sort out my male relationships so i dont hurt you ... [peer pressure](https://soundcloud.com/housevibez/de-la-soul-peer-pressure-feat-b-real-jaydee?in=joshua-calhoun-299698480/sets/de-la-soul-aoi-bionix-1&si=4cc9e042b14345248a46399e7ab6f147&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) im scared i dont really know what to say but there is a layer of men i can hang out with and have fun but they destroy my life  bc they have a different view of the law and [graffiti](https://archive.org/details/artofgettingover0000powe)... Back to Bobby ray. Since he using a [Nasa Logo](https://www.cnn.com/style/article/nasa-worm-logo-scn/index.html) i dont know man since the [The traditional NASA blue circular logo](https://www.nasa.gov/history/symbols-of-nasa/) is common in the media i think ppl see the [WormLogo](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf) as [Deprecated](https://www.techtarget.com/whatis/definition/deprecated) i use it to identify myself in [California](https://www.ca.gov/)
