@@ -25,7 +25,7 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 ![mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01302/ids/edr/browse/ncam/NLG_1302_0782529673_005ECM_N0610376NCAM00500_00_2I4J01_1200.jpg)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 [MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 ![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
 
 
@@ -1236,7 +1236,7 @@ The National Science Foundation (U.S.) sponsors meteorite-collecting expeditions
 *Allan H. Treiman, Lunar and Planetary Institute.*
 [Read_Document_Here](https://www.lpi.usra.edu/lpi/meteorites/life.html)
 
-[REDDiT Linux users, what's your favourite bash prompt?](https://www.reddit.com/r/linux/comments/1z33lj/linux_users_whats_your_favourite_bash_prompt/)
+[REDDiT Linux users, what's your favourite bash prompt?](https://www.reddit.com/r/linux/comments/1z33lj/linux_users_whats_your_favourite_bash_prompt/) [Mermaid.js](https://mermaid.js.org/intro/)
 
 # Family Status
 ![FamilyLife](https://pbs.twimg.com/media/GO7qRggbEAMhCEp?format=jpg&name=large)
