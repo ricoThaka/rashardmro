@@ -870,16 +870,13 @@ img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 */
 
 img:nth-child(odd) {
-  float: right;
+float: right;
 }
 img:nth-child(even) {
 float: left;
 }
 
-img {
-  
-  max-width: 100%;
-}
+
 
 img[alt*="USGS"] {width: 100%;
   border-bottom:solid 10px  #BF785E;}
