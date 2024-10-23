@@ -88,22 +88,11 @@ This visualization compares the full-disk solar view of SOHO/EIT (green, on the 
 
 
 
-<div class='twoPanelSpread' markdown='1' >
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn' >
-
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg) 
 
-   </div>
-    </div>
- <div class='panelColumn'>
-      <div class='rightColumn' >
+
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg)
-   </div>
-    </div>
-  </div>
-</div>
+  
 
 
 
