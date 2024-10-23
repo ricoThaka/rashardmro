@@ -869,17 +869,24 @@ img[alt="whiteslavery"] { max-width: 30%; float:left;}
 img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 */
 
-
-img[src*="usgs.gov"] {
-  width: 100%;
-  border-bottom:solid 5px #c9ff23;
-  
-  }
-img[src*="nasa.gov"] {
-width: 100%;
-border-bottom:solid 5px #c9ff23;
-
+img:nth-child(odd) {
+  float: right;
 }
+img:nth-child(even) {
+float: left;
+}
+
+img {
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+img[alt*="USGS"] {width: 100%;
+  border-bottom:solid 10px  #BF785E;}
+/* matches selection in URL/src */
+img[src*="nasa.gov"] {width: 100%;
+  border-bottom:solid 10px  #c9ff23;}
 img[alt="kk"] {
   width: 100%;
   
