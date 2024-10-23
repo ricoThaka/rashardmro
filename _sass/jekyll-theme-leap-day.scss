@@ -69,6 +69,28 @@ p:first-of-type {
   }
 
 
+  a {
+    font-weight:400;
+    text-decoration:none;
+    color: #63c0f5;
+    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  }
+  a,
+  a:hover,
+  a:visited a:hover {
+    color: #c9ff23;
+    padding: 10px;
+    
+  }
+  
+  
+  
+  a small {
+    font-size:11px;
+    color:#cffe14;
+    margin-top:-0.6em;
+    display:block;
+  }
 
   
 h1 {
@@ -395,7 +417,9 @@ nav {
       // right:-12px;
 
       &.tag-h1 {
-        font-size: 1.2em;
+        font-size: 1em;
+        text-decoration:none;
+        font-weight:600;
 
         a:hover {
           font-size: 120%; 
