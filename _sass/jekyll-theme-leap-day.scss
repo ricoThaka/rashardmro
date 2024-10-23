@@ -174,27 +174,23 @@ h3 {
 }
 
 
-a {
-  font-weight:400;
-  text-decoration:none;
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
-a,
 a:hover,
 a:visited a:hover {
-  color: #c9ff23;
-  padding: 10px;
+  /*font-size: 130%; */
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   
+  
+
 }
 
+a {
+  padding: 0px;
+  color:#29F247 ;
+  text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
+  transition: all .4s ease-out;
 
 
-a small {
-  font-size:11px;
-  color:#cffe14;
-  margin-top:-0.6em;
-  display:block;
 }
 
 ul{
@@ -431,7 +427,7 @@ nav {
         a {
           font-weight: bold;
           color: white;
-          transition: all .2s ease-in;
+          transition: all .2s ease-out;
         }
 
         + .tag-h2 {
@@ -447,24 +443,7 @@ nav {
       }
     }
 
-    a:hover,
-    a:visited a:hover {
-      /*font-size: 130%; */
-      color: #63c0f5;
-      text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-      
-      
-    
-    }
-    
-    a {
-      padding: 0px;
-      color:#29F247 ;
-      text-shadow: 0 0 5px rgba(41, 242, 71, 0.5);
-      transition: all .4s ease-out;
-    
-    
-    }
+
 
     // .active {
     //   border-right:solid 4px #39C;
