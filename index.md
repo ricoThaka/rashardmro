@@ -28,6 +28,16 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf) [Mermaid.js](https://mermaid.js.org/intro/) [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 ![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
 
+
+[//]: # (i donnt knwo the origin of this style of comments.https://gist.github.com/rowe-morehouse https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152 thanks id like to know the logic someday @rowe-morehouse)
+
+```markdown
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4)
+```
+## Deimos Eclipse
+Deimos is the smaller of Mars' two moons. It's 9 by 7 by 6.8 miles in size (15 by 12 by 11 kilometers). Deimos orbits Mars every 30 hours.Deimos was discovered on Aug. 11, 1877 by Asaph Hall. Hall named Mars' moons for the mythological sons of Ares, the Greek counterpart of the Roman god, Mars. Deimos, whose name means dread, is the brother of Phobos. 
+[<video controls poster="https://science.nasa.gov/wp-content/uploads/2024/03/22393_PIA23134-16.gif" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
+
 ![RED_EARTH](https://upload.wikimedia.org/wikipedia/en/1/12/Red_Earth_game_poster.jpg)
 [Red Earth / War-Zard (Euro 961121)](https://www.retrogames.cc/arcade-games/red-earth-war-zard-euro-961121.html)
 Red Earth, released in Japan as Warzard (ウォーザード, Wōzādo) [Martian Mythology?](https://en.wikipedia.org/wiki/Mars_in_fiction) [UTOPiAs](https://en.wikipedia.org/wiki/Mars_in_fiction#Utopias) Because early versions of the nebular hypothesis of Solar System formation held that the planets were formed sequentially starting at the outermost planets, some authors envisioned Mars as an older and more mature world than the Earth, and it became the setting for many utopian works of fiction. This genre made up the majority of stories about Mars in the late 1800s and continued to be represented through the early 1900s [WikiPedia](https://en.wikipedia.org/wiki/Mars_in_fiction)
@@ -247,7 +257,7 @@ Mosaic of Viking 2 Orbiter images of the south pole of Mars. The images used to 
 [Mars Reconnaissance Orbiter-Imaging Mars From Above - SPACEOPEDiA](http://www.spaceopedia.com/space-exploration/space-probes/planets/mars-orbiter/) The MRO is a relatively large spacecraft that dwarfs the other Mars probes as it measures 6.5 m (21 feet) high with a width of 13.6 m (45 feet) and includes a large 3 m (10 feet) wide radio antenna dish! At launch, MRO weighed 2,180 kilograms (4,806 lb) (50% being onboard propellant) and was launched aboard the [Atlas V rocket](http://www.spaceopedia.com/space-exploration/rockets/atlas-v/).
 [NASA's Mars Perseverance Rover Finds Intriguing Organic Matter in Rock - CNET - Amanada KooseR](https://www.cnet.com/science/space/nasa-mars-perseverance-rover-finds-organic-matter-in-rock/) [Bullet With Butterfly Wings (Remastered 2012) · The Smashing Pumpkins](https://www.youtube.com/watch?v=xCmA1uC0r9A)
 
-[<video src="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4" alt=" Deployment of SWOT's Solar Arrays" />](https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4)
+[<video controls src="https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4" alt=" Deployment of SWOT's Solar Arrays" />](https://photojournal.jpl.nasa.gov/archive/PIA25563.mp4)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1662px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62671v.jpg" alt="Dan Goldin, Administrator of N.A.S.A." />](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62671v.jpg)
