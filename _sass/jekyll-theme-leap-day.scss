@@ -205,7 +205,7 @@ blockquote {
 }
 
 code {
-  font-family: 'Lucida Sans', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   font-size:13px;
   color:#efefef;
   text-shadow: 0px 1px 0px #000;
@@ -230,11 +230,20 @@ pre {
 }
 */
 pre {
+  padding:8px 15px;
+    border-radius: 3px;
+  border:1px solid #b5e853;
+  overflow: auto;
+  overflow-y: hidden;
   background: transparent
   url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
   center repeat;
-  font: bold 12px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+  font: bold 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
   color:white;
+  code {
+    margin: 0px;
+    padding: 0px;
+  }
 }
 
 
