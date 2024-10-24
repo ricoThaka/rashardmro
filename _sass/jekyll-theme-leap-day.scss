@@ -174,6 +174,7 @@ h3 {
 }
 
 
+
 a:hover,
 a:visited a:hover {
   /*font-size: 130%; */
@@ -870,7 +871,7 @@ img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 */
 
 img:nth-child(odd) {
-float: right;
+  float: right;
 }
 img:nth-child(even) {
 float: left;
