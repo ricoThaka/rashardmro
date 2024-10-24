@@ -230,7 +230,18 @@ strong {
 }
 
 section img {
+  display: block;
+  max-height: 100%;
   max-width: 100%;
+
+
+  img:nth-child(odd) {
+    float: right;
+  }
+  img:nth-child(even) {
+    float: left;
+  }
+
 }
 
 blockquote {
