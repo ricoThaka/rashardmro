@@ -21,24 +21,42 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
   <div></div>
 </div>
 
-### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
 ![mars](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01302/ids/edr/browse/ncam/NLG_1302_0782529673_005ECM_N0610376NCAM00500_00_2I4J01_1200.jpg)
-![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
-[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 ![planets like earth](https://images-assets.nasa.gov/image/PIA15258/PIA15258~large.jpg?w=1920&h=853&fit=clip&crop=faces%2Cfocalpoint)
 
+## Mars Albedo
+NASA ID: PIA02816
+[<img src="https://images-assets.nasa.gov/image/PIA02816/PIA02816~medium.jpg" alt="waymo" />](https://images-assets.nasa.gov/image/PIA02816/PIA02816~medium.jpg) 
+
+i had a good thing going with [nth-child floats](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child). [@sawmac thanks!] Every other image is either left or right justified. Each timne i upload a photo the layout changes bc images get shifted to the opposite side of the screen. I know im communicating well at times and the variety will help at least in my theroy not be as challenging to revisit for those that need to look at research/interest/ activity record. This is my first try at nested css. i just [started updating my CV](ricothaka.github.io/cv) and the Nested array concept i learned in `ruby` seems to be common thing in programming if u consider any array of items this one is unexpected bc it will always grow the array is whats displayed on screen
+
+{% highlight css %} 
+section img {
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
 
 
-<div class='row'>
+  img:nth-child(odd) {
+    float: right;
+  }
+  img:nth-child(even) {
+    float: left;
+  }
 
- [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/ESP_011403_1905_RED_C_01_ORTHO.br.jpg) 
+}
+{% endhighlight %}
+
 
 
 [<img src="https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg" alt="waymo" />](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_010700_010799/PSP_010770_1905_ESP_011403_1905/DTEEC_010770_1905_011403_1905_A01.ca.jpg)
   
- 
-  </div>
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+[MARiNER SPACECRAFT 1961 DeClassified](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19790076756_1979076756.pdf) [The MAriner Program](https://space.jpl.nasa.gov/msl/Programs/mariner.html) [MARINER 6 AND 7 NEAR ENCOUNTER IMAGES](https://ser.sese.asu.edu/M67/mar67.oldformat.html)
+
 
 [//]: # (i donnt knwo the origin of this style of comments.https://gist.github.com/rowe-morehouse https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152 thanks id like to know the logic someday @rowe-morehouse)
 
