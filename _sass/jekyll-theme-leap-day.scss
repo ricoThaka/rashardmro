@@ -92,6 +92,37 @@ p:first-of-type {
     display:block;
   }
 
+  img:nth-child(odd) {
+    float: right;
+  }
+  img:nth-child(even) {
+    float: left;
+  }
+  
+  img {
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+  }
+  
+  img[alt*="USGS"] {width: 100%;
+    border-bottom:solid 10px  #BF785E;}
+  /* matches selection in URL/src */
+  img[src*="nasa.gov"] {width: 100%;
+    border-bottom:solid 10px  #c9ff23;}
+  img[alt="kk"] {
+    width: 100%;
+    
+  }
+  img[alt="whiteslavery"] {
+    max-width: 15%;
+    float: right;
+  }
+  img[alt="whiteslavery40"] {
+    max-width: 40%;
+    transform: rotate(45deg);
+  }
+  
   
 h1 {
   font: bolder 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
@@ -172,7 +203,6 @@ h3 {
   font-size: 18px;
   line-height: 24px;
 }
-
 
 
 a:hover,
@@ -870,32 +900,6 @@ img[alt="whiteslavery"] { max-width: 30%; float:left;}
 img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 */
 
-img:nth-child(odd) {
-  float: right;
-}
-img:nth-child(even) {
-float: left;
-}
-
-
-
-img[alt*="USGS"] {width: 100%;
-  border-bottom:solid 10px  #BF785E;}
-/* matches selection in URL/src */
-img[src*="nasa.gov"] {width: 100%;
-  border-bottom:solid 10px  #c9ff23;}
-img[alt="kk"] {
-  width: 100%;
-  
-}
-img[alt="whiteslavery"] {
-  max-width: 15%;
-  float: right;
-}
-img[alt="whiteslavery40"] {
-  max-width: 40%;
-  transform: rotate(45deg);
-}
 
 
 
