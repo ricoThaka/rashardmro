@@ -4,6 +4,9 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 ---
 
 
+![sun SOHO](https://soho.nascom.nasa.gov/gallery/images/large/tricomp.jpg)
+[SOHO, the Solar & Heliospheric Observatory](https://soho.nascom.nasa.gov/home.html)  SOHO, the Solar & Heliospheric Observatory, is a project of international collaboration between ESA and NASA to study the Sun from its deep core to the outer corona and the solar wind. SOHO was launched on December 2, 1995. [Further information about SOHO:FactSheet.PDF](https://soho.nascom.nasa.gov/about/docs/SOHO_Fact_Sheet.pdf)
+
 <div class="gullies">
   <div></div>
   <div></div>
