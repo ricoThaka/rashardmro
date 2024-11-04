@@ -7,7 +7,7 @@ mermaid: true
 
 [<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
 
-<div class="mermaid">
+```mermaid
 
 
 gitGraph
@@ -24,7 +24,7 @@ gitGraph
 
 
 </div>
-
+```
 
 [Atlas - Plaetary Data System](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3A%22viking%20orbiter%22&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=72)
 [<img src="https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f122sxx/f122s36.imq.jpeg" alt="Clementine 1" />](https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f122sxx/f122s36.imq.jpeg)
