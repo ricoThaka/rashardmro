@@ -21,10 +21,10 @@ gitGraph
    merge develop
    commit
    commit
-<div class="mermaid">
+
 
 </div>
-
+<div class="mermaid">
 journey
     title My working day
     section Go to work
@@ -35,6 +35,7 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 </div>
+
 [Atlas - Plaetary Data System](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3A%22viking%20orbiter%22&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=72)
 [<img src="https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f122sxx/f122s36.imq.jpeg" alt="Clementine 1" />](https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f122sxx/f122s36.imq.jpeg)
 [<img src="https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f129sxx/f129s03.imq.jpeg" alt="Clementine 1" />](https://planetarydata.jpl.nasa.gov/img/data/viking/viking_orbiter/vo_1001/extras/browse/f129sxx/f129s03.imq.jpeg)
