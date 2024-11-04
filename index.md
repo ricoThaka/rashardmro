@@ -8,6 +8,22 @@ mermaid: true
 [<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
 
 <div class="mermaid">
+
+---
+title: Example Git diagram
+---
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+
 journey
     title My working day
     section Go to work
