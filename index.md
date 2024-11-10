@@ -23,6 +23,28 @@ aerobraking, in preparation for the “science mission” starting in November
 participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+# M_R_O_Update:Veterans Day
+## #re:#Rashard_iMan_Kelly|status
+Dear Team (VeroinCa, Jamie, Robin(@USGS zoeapie andrew_feldman))
+I will likely not be online tomorrow at all. And Im learning more from my scavenger hunt to normalcy. I found some documentation within [Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom/) on Mind control. There are a lot of [RumorVideos](https://www.youtube.com/watch?v=Ic9glqPzgF4) about mind control, that one is just some ppl in atlanta ther need to be brought in in my playboy destitution case. I dont know how to solve my internet access problems [![Twitter Follow](https://img.shields.io/badge/Social-@LACountyLibrary__-blue?style=social&logo=X)](https://twitter.com/@LACountyLibrary)  [![Twitter Follow](https://img.shields.io/badge/Social-@repkarenbass__-blue?style=social&logo=X)](https://twitter.com/@repkarenbass) I have been doing [NOC_WORK](https://eyes.nasa.gov/apps/dsn-now/dsn.html) as asked and its 27/7 and idk marstime ! [Mars Relay Network](https://eyes.nasa.gov/apps/mrn/#/mars) i have not looked at i got swamped learning [FirMS](https://www.youtube.com/watch?v=xfSlkvQb7To) i found a @twitter account for a Mars Relay Network feed but it said its dead from APi Changes... if im not online, can someone let me in since its Veterans day? [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss) [![Twitter Follow](https://img.shields.io/badge/Social-@mrn_status__-blue?style=social&logo=X)](https://twitter.com/@russss)
+
+```
+Mars Relay Network
+@mrn_status
+Automated by @russss
+Killed by Twitter's API changes.
+```
+
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+[Practical Mobile Forensics (2014).pdf](https://github.com/ricoThaka/crate/blob/master/Practical%20Mobile%20Forensics%20(2014).pdf) [ Project MK-ULTRA cia-readingroom](https://www.cia.gov/readingroom/docs/project%20mk-ultra%5B15545700%5D.pdf)
+# Sol 4359: Mars Hand Lens Imager [MAHLI](https://www.msss.com/science-images/mahli-acquires-test-image-en-route-to-mars.php)
+## sunday Nov 10th[Latest From MSL](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl)
+NASA's Mars rover Curiosity acquired this image using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover's robotic arm, on November 10, 2024, Sol 4359 of the Mars Science Laboratory Mission, at 04:14:53 UTC.
+[<img src="https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg" alt="" />](https://mars.nasa.gov/msl-raw-images/msss/04359/mhli/4359MH0008920011600066C00_DXXX.jpg)
+
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/6LOWgH9NaSheAz0U4b7uQL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 [<img src="https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png) 
 
 <div class="mermaid">
