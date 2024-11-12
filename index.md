@@ -23,6 +23,15 @@ aerobraking, in preparation for the “science mission” starting in November
 participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
 # M_R_O_Update:Veterans Day
 ## #re:#Rashard_iMan_Kelly|status
 Dear Team ([![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG)VeroinCa, [![Twitter Follow](https://img.shields.io/badge/Social-@GeorgieC__-blue?style=social&logo=X)](https://twitter.com/@GeorgieC) GeorgieC [![Twitter Follow](https://img.shields.io/badge/Social-@NASAMars__-blue?style=social&logo=X)](https://twitter.com/@NASAMars)Jamie, Robin([![Twitter Follow](https://img.shields.io/badge/Social-@usgs__-blue?style=social&logo=X)](https://twitter.com/@usgs)@USGS [![Twitter Follow](https://img.shields.io/badge/Social-@Zoeapie__-blue?style=social&logo=X)](https://twitter.com/@Zoeapie)zoeapie [![Twitter Follow](https://img.shields.io/badge/Social-@a_feldman24__-blue?style=social&logo=X)](https://twitter.com/@a_feldman24)andrew_feldman))
