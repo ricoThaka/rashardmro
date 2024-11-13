@@ -60,6 +60,8 @@ Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/r
     </div>
   </div>
 </div>
+# Dear_Normani re:WorkDayMoodiness
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UuTnRKGJ2fgo8u07bT4cD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # M_R_O_Update:Veterans Day
 ## #re:#Rashard_iMan_Kelly|status
