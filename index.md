@@ -49,8 +49,9 @@ Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/r
       <div class='leftColumn'>
      <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
         
-      </div>
-    </div>
+  </div>
+  </div>
+  </div>
  <div class='panelColumn'>
       <div class='rightColumn'>
            <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
