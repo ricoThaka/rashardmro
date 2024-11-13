@@ -23,6 +23,27 @@ aerobraking, in preparation for the “science mission” starting in November
 participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
+
+
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg" alt="martian landscape" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+
 # M_R_O_Update:Veterans Day
 ## #re:#Rashard_iMan_Kelly|status
 Dear Team ([![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG)VeroinCa, [![Twitter Follow](https://img.shields.io/badge/Social-@GeorgieC__-blue?style=social&logo=X)](https://twitter.com/@GeorgieC) GeorgieC [![Twitter Follow](https://img.shields.io/badge/Social-@NASAMars__-blue?style=social&logo=X)](https://twitter.com/@NASAMars)Jamie, Robin([![Twitter Follow](https://img.shields.io/badge/Social-@usgs__-blue?style=social&logo=X)](https://twitter.com/@usgs)@USGS [![Twitter Follow](https://img.shields.io/badge/Social-@Zoeapie__-blue?style=social&logo=X)](https://twitter.com/@Zoeapie)zoeapie [![Twitter Follow](https://img.shields.io/badge/Social-@a_feldman24__-blue?style=social&logo=X)](https://twitter.com/@a_feldman24)andrew_feldman))
