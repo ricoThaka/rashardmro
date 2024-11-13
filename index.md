@@ -24,6 +24,15 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
+
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
 # Mars Perseverance Sol 1320: Right Mastcam-Z Camera
 ### PERSEVERANCE RAW IMAGES:Image of the Week
 This photo was selected by public vote and featured as "Image of the Week" for __Week 195 (Nov. 3 - 9, 2024)__ of the Perseverance rover mission on Mars.
@@ -60,8 +69,10 @@ Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/r
     </div>
   </div>
 </div>
+
 # Dear_Normani re:WorkDayMoodiness
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UuTnRKGJ2fgo8u07bT4cD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 # M_R_O_Update:Veterans Day
 ## #re:#Rashard_iMan_Kelly|status
