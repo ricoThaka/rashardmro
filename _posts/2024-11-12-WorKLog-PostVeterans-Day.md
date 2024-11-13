@@ -1,11 +1,8 @@
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
+---
+layout: post
+title:  "HelioPhysics"
+date:   2024-11-13 22:51:06 -0800
+categories: sun heliophysics 
+published: true
+image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
+---
