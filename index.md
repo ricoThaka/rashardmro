@@ -24,6 +24,7 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
+
 <article class="paginator">
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
@@ -31,6 +32,47 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
     </div>
   </a>
 </article>
+
+# Mars Perseverance Sol 1320: Right Mastcam-Z Camera
+### PERSEVERANCE RAW IMAGES:Image of the Week
+This photo was selected by public vote and featured as "Image of the Week" for __Week 195 (Nov. 3 - 9, 2024)__ of the Perseverance rover mission on Mars.
+
+NASA's Mars Perseverance rover acquired this image using its Right Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
+
+This image was acquired on Nov. 5, 2024 (Sol 1320) at the local mean solar time of 10:23:50.
+
+Image Credit: [NASA/JPL-Caltech/ASU](https://mars.nasa.gov/mars2020/multimedia/raw-images/image-of-the-week/week-195)
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg" alt="martian landscape" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01320/ids/edr/browse/zcam/ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg)
+
+
+{% highlight css %} 
+  img[src*="ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg"] {width: 100%;
+    border-bottom:solid 10px  #BF785E50;
+    filter: contrast(300%); 
+  }
+{% endhighlight %}
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
+        
+  </div>
+  </div>
+  </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt="Image Credit: NASA/JPL-Caltech"> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+
+# Dear_Normani re:WorkDayMoodiness
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UuTnRKGJ2fgo8u07bT4cD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 # M_R_O_Update:Veterans Day
 ## #re:#Rashard_iMan_Kelly|status
