@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Worklog"
+title:  Worklog
 date:   2024-11-13 22:51:06 -0800
 published: true
 image: dilbertworklog.webp
