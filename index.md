@@ -29,7 +29,7 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 
 [<img src="https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png" alt="The Apple IIe (styled as Apple //e) is the third model in the Apple II series of personal computers produced by Apple Computer. It was released in January 1983" />](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png) 
 
-  {% for post in site.posts %}
+{% for post in site.posts %}
     
 <article class="paginator">
   <a href="{{ site.github.url }}{{ post.url }}">
@@ -39,7 +39,8 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
   </a>
 </article>
 
-  {% endfor %}
+{% endfor %}
+
 # Mars Perseverance Sol 1320: Right Mastcam-Z Camera
 ### PERSEVERANCE RAW IMAGES:Image of the Week
 This photo was selected by public vote and featured as "Image of the Week" for __Week 195 (Nov. 3 - 9, 2024)__ of the Perseverance rover mission on Mars.
