@@ -129,7 +129,11 @@ p:first-of-type {
     margin: 10px;
   }
   
-  
+  img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="https://badge.fury.io"] {width: 100%;}
+img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+svg { width: max-content;
+display: inline-block; }
 
   img[src*="ZR0_1320_0784114966_193EBY_N0612534ZCAM04024_1100LMJ01_1200.jpg"] {width: 100%;
     border-bottom:solid 10px  #BF785E50;
