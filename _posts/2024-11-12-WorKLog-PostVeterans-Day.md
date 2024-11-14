@@ -5,6 +5,7 @@ published: true
 image: dilbertworklog.webp
 ---
 
+# [<~ BACK!](./)
 
 # Astronomy: Mars LandSurveying @whitehouse
 i found a crater with a strange texture! and wanted to share it
@@ -81,3 +82,11 @@ layout: post
 title:  Worklog
 date:   2024-11-13 22:51:06 -0800
 published: true
+
+# [<~ BACK!](./)
+![ElNino warning signs](https://photojournal.jpl.nasa.gov/jpegMod/PIA25776_modest.jpg)
+![PIA25776: Early El Niño Signs](https://photojournal.jpl.nasa.gov/archive/PIA25776.gif)
+# PIA25776: Early El Niño Signs 2023
+Sea level data from the U.S.-European satellite Sentinel-6 Michael Freilich shows early signs of a developing El Niño along the equatorial Pacific Ocean. The measurements show Kelvin waves, low waves that can be tens of miles (hundreds of kilometers) wide, moving from west to east at the equator towards the west coast of Ecuador. When they form at the equator, Kelvin waves can move warm water – associated with higher sea levels – from the western Pacific to the eastern Pacific.
+### sea-level satellite 
+[5 Things to Know About Sentinel-6 Michael Freilich](https://www.jpl.nasa.gov/news/5-things-to-know-about-sentinel-6-michael-freilich/)
