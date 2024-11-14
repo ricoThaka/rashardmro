@@ -24,17 +24,12 @@ participated in the Mars Science Laboratory touchdown and surface mission
 that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
+{% for post in site.posts %}
 
-  {% endfor %}
+<div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+{{ post.title }}
+</div>
+{% endfor %}
 
 
 # Mars Perseverance Sol 1320: Right Mastcam-Z Camera
