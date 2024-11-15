@@ -28,17 +28,7 @@ mermaid: true
   {% endfor %}
 {% endraw %}
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
 
-  {% endfor %}
 
 # Mars Perseverance Sol 1320: Right Mastcam-Z Camera
 ### PERSEVERANCE RAW IMAGES:Image of the Week
@@ -985,6 +975,17 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
 
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
 ![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
 
 <div class="greenlineflex-container">
