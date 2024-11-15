@@ -3,11 +3,14 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="90%" height=400px ></object>
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="90%" height=400px ></object>
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:90%;" /></object>
 
-
-
-
-
+![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
+>Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
 
 [<img src="https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png" alt="Apple IIe" />](https://static.wikia.nocookie.net/logopedia/images/8/82/Apple_IIe.png)
 
