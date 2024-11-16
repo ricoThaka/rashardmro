@@ -5,11 +5,11 @@ mermaid: true
 ---
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
-## 6.1 Mission Overview
+## 6.1 Mission Overview [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
 The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
 making observations at Mars, and it provides data-relay services for Mars
 landers and rovers. MRO was launched on August 12, 2005. The orbiter
@@ -40,6 +40,22 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 
 ![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
 >Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
+
+## About the United States Space Force
+![United States Space Force](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png)
+[The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
+
+<video controls preload="none" 
+  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
+  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
+
+![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
 
 
 # Library Scare [RelatedTweet](https://x.com/thakasartu/status/1857546216739057809)
@@ -709,20 +725,6 @@ Hi you guiys know i was once one of [JehovahsWitnesses](https://jwfacts.com/watc
 [Why Don’t Jehovah’s Witnesses Go to War](https://www.jw.org/en/jehovahs-witnesses/faq/why-dont-jw-go-to-war/) [Are there Jehovah's Witnesses in the military? - Quora](https://www.jw.org/en/jehovahs-witnesses/faq/why-dont-jw-go-to-war/) [Jehovah's Witnesses and governments - WikiPedia](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_and_governments) [Can believers of Jehovah work for the navy? - Ask JosE M Pee(pi)](https://christianity.stackexchange.com/questions/96849/can-believers-of-jehovah-work-for-the-navy) [Jehovah’s Witnesses and Alternative Civilian Service](https://www.jw.org/en/gov-resources/global-information-brochures/brochure-jehovahs-witnesses-and-alternative-civilian-service/)
 
 
-## About the United States Space Force
-![United States Space Force](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/188px-Logo_of_the_United_States_Space_Force.png)
-[The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
-
-<video controls preload="none" 
-  src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4"
-  poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
-
-![![SPACE FORCE 101](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)](https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101.png)
 
 # Sol 4328: Left Navigation Camera
 This image was taken by Left Navigation Camera onboard NASA's Mars rover Curiosity on Sol 4328 (2024-10-09 02:45:05 UTC).
