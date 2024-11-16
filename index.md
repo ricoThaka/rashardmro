@@ -3,6 +3,25 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
 # Mars Relay Network 
 [Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
 <object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
@@ -2465,22 +2484,6 @@ END_OBJECT             = MISSION
 
 END
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png) 
-
-# Mars Reconnaissance Orbiter 
->Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
-## 6.1 Mission Overview
-The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
-making observations at Mars, and it provides data-relay services for Mars
-landers and rovers. MRO was launched on August 12, 2005. The orbiter
-successfully went into orbit around Mars on March 10, 2006 and began
-reducing its orbit altitude and circularizing the orbit in preparation for the
-science mission. The orbit changing was accomplished through a process called 
-[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
-aerobraking, in preparation for the “science mission” starting in November
-2006, followed by the “relay mission” starting in November 2008. MRO
-participated in the Mars Science Laboratory touchdown and surface mission
-that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 [<img src="https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png" alt="The Apple IIe (styled as Apple //e) is the third model in the Apple II series of personal computers produced by Apple Computer. It was released in January 1983" />](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png) 
 

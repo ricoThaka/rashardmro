@@ -130,6 +130,10 @@ p:first-of-type {
   }
   .ic {
     filter: contrast(200%); }
+
+
+    img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;}
+
   img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
