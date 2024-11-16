@@ -141,7 +141,7 @@ p:first-of-type {
     filter: contrast(200%); }
 
 
-    img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;}
+    img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
 
   img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
