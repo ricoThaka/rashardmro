@@ -65,9 +65,18 @@ margin: 20px;
 display:block;}
 
 p:first-of-type {
-   color:limegreen; 
+   color:#3df28b; 
   }
-
+  .floatright img:nth-child(odd) {
+    float: right;
+  }
+  .floatleft img:nth-child(even) {
+    float: left;
+    border-bottom: solid 10px #ffffff50;
+  }
+   img {  max-height: 100%;
+    max-width: 100%;
+  display:block;}
 
   a {
     font-weight:400;
