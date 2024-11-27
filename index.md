@@ -9,6 +9,30 @@ mermaid: true
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 
+# Martian polar ice caps
+
+<picture>
+  <source srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" media="(orientation: portrait)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Martian_north_polar_cap.jpg/1024px-Martian_north_polar_cap.jpg" alt="" />
+</picture>
+
+@esa [Water at Martian south pole](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Water_at_Martian_south_pole)
+# <picture>: The Picture element
+@blackgirlscode @normani im really enjoying HTML5 there are so many new tags that add more networking support so images dont go down or are rendered correctly [ReadMore `<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) @mozilla how do i know im a healthy web developer @nasa-jpl ? THats as u know our man browser on campus, im working on converting the `<picture>` tag to markdown @kramdown [RashardLEarned - -Mars TODAy](https://ricothaka.github.io/rashardlearned/2024/11/26/RashardMRO-mars-reconnaissance-orbiter.html)
+
+{% highlight html %}
+
+<picture>
+  <source srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)" />
+  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />
+</picture>
+
+
+[<picture srcset="/media/cc0-images/surfer-240-200.jpg" media="(orientation: portrait)"  <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" /> ]( <img src="/media/cc0-images/painted-hand-298-332.jpg" alt="" />)
+
+{% endhighlight %}
+
+
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
