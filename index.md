@@ -9,6 +9,9 @@ mermaid: true
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 
+[![Twitter Follow](https://img.shields.io/badge/Social-Tip__-blue?style=social&logo=X)](https://twitter.com/Tip) [T.I.](https://www.officialti.com/) thanks kid 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78kVkpg0yX3jlTqzreFk0U?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 # Martian polar ice caps
 
 <picture>
