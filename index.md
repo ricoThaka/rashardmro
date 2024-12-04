@@ -27,6 +27,11 @@ mermaid: true
 [![Twitter Follow](https://img.shields.io/badge/Social-Tip__-blue?style=social&logo=X)](https://twitter.com/Tip) [T.I.](https://www.officialti.com/) thanks kid 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78kVkpg0yX3jlTqzreFk0U?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
+
+# PHOBOS
+![phobos](https://avatars.mds.yandex.net/get-mpic/4334579/img_id4537117976329318750.jpeg/orig)
+
 # Martian polar ice caps
 
 <picture>
