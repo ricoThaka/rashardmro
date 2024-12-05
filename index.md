@@ -32,6 +32,20 @@ mermaid: true
 # PHOBOS
 ![phobos](https://avatars.mds.yandex.net/get-mpic/4334579/img_id4537117976329318750.jpeg/orig)
 
+<div class="tupperware">
+  {% for post in site.posts %}
+    
+<article class="paginator">
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+</article>
+
+  {% endfor %}
+</div>
+
 # Martian polar ice caps
 
 <picture>
@@ -1066,17 +1080,7 @@ The PDS Geosciences Node Spectral Library is a database of laboratory spectra su
 
 ![M_R_O pds update](https://pbs.twimg.com/media/GUzSazybUAAaDMh?format=jpg&name=large)
 
-  {% for post in site.posts %}
-    
-<article class="paginator">
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
 
-  {% endfor %}
 ![ECOSTRESS](https://ecostress.jpl.nasa.gov/logo.png)
 
 <div class="greenlineflex-container">
