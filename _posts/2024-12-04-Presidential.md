@@ -16,7 +16,12 @@ img[src*="karen-bass-2012.jpg"] {width: 15%;padding: 4px;}
 I was looking at your 2017 speech on [climate](https://obamawhitehouse.archives.gov/featured-videos/video/2017/01/09/record-president-obama-climate-and-energy). At [34s](https://youtu.be/WkjYfTPTDlg?t=24) You said "We're restoring vulnerable ecosystems like the [Mariposa](https://youtu.be/WkjYfTPTDlg?t=32)" I am living in [Los Angeles County](https://mayor.lacity.gov/about-mayor-karen-bass) under [Rep_Karen_Bass](https://en.wikipedia.org/wiki/Karen_Bass) [Los Angeles County Mayor](https://jobs.lamayor.org/). Im in a bit of a period of feeling swamped. I am still at [NASAJPL](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large) but i have a dispute that may be easy to settle with [Mori](https://moriassociates.com/) [![Twitter Follow](https://img.shields.io/badge/Social-LACoSheriff__-blue?style=social&logo=X)](https://twitter.com/LACoSheriff) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [Related Tweet](https://x.com/RicoThaka/status/1829312406654419079) Long story short i want to know if you have looked at the Documentary [Oceans iN Bloom](https://www.youtube.com/watch?v=GTOgp59FSpI) [![Twitter Follow](https://img.shields.io/badge/Social-NASAGoddard__-blue?style=social&logo=X)](https://twitter.com/NASAGoddard)
 ? I will talk more in a later report but we have a phytoplankton problem in losangeles [i bloged abt it](https://ricothaka.github.io/compiling/page/10/) cant find it at this time.I want you to take a look at our [CLimate Tool - Nasa Worldview](https://worldview.earthdata.nasa.gov/) there are simulations that you can run to see what is actually happeing 
 
+# The Record: President Obama on Climate and Energy
+>113,211 views  Jan 9, 2017
+Learn more about President Obama's record on climate and energy: [The-Record](https://www.whitehouse.gov/the-record) [UN - What Is Climate Change? - aslinked from @youtube](https://www.un.org/en/climatechange/what-is-climate-change)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WkjYfTPTDlg?si=EX4RFd4a6L6L4kDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ihmJ6AKx2BC6vWhx25eaH?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # “An Ocean in Bloom” 
 <video controls preload="none" 
@@ -34,12 +39,7 @@ You can also find ["An Ocean in Bloom" on NASA+.](https://plus.nasa.gov/video/an
 [Ocean Green: Blooming Oceans](https://earthobservatory.nasa.gov/blogs/eokids/ocean-green-blooming-oceans/)
 
 
-# The Record: President Obama on Climate and Energy
->113,211 views  Jan 9, 2017
-Learn more about President Obama's record on climate and energy: [The-Record](https://www.whitehouse.gov/the-record) [UN - What Is Climate Change? - aslinked from @youtube](https://www.un.org/en/climatechange/what-is-climate-change)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WkjYfTPTDlg?si=EX4RFd4a6L6L4kDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ihmJ6AKx2BC6vWhx25eaH?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # DSCOVR: EPIC
 ## [West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries)
