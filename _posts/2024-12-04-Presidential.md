@@ -33,7 +33,7 @@ You can also find ["An Ocean in Bloom" on NASA+.](https://plus.nasa.gov/video/an
 
 [Ocean Green: Blooming Oceans](https://earthobservatory.nasa.gov/blogs/eokids/ocean-green-blooming-oceans/)
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/hCokbBmTK4">https://t.co/hCokbBmTK4</a> <a href="https://twitter.com/hashtag/HurricaneHelene?src=hash&amp;ref_src=twsrc%5Etfw">#HurricaneHelene</a> <a href="https://twitter.com/hashtag/HurricaneHelenevictims?src=hash&amp;ref_src=twsrc%5Etfw">#HurricaneHelenevictims</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> the <a href="https://twitter.com/hashtag/Ocean?src=hash&amp;ref_src=twsrc%5Etfw">#Ocean</a> got stirred up, an ppll poisoning ppl in place u see the <a href="https://twitter.com/hashtag/PhytoPlankton?src=hash&amp;ref_src=twsrc%5Etfw">#PhytoPlankton</a> <a href="https://twitter.com/EastLALibrary?ref_src=twsrc%5Etfw">@EastLALibrary</a> <a href="https://twitter.com/EastLALASD?ref_src=twsrc%5Etfw">@EastLALASD</a> watch this vid from <a href="https://twitter.com/NASAGoddard?ref_src=twsrc%5Etfw">@NASAGoddard</a> then 👀at the lake! <a href="https://t.co/CMQpZ7uoK5">https://t.co/CMQpZ7uoK5</a>. <a href="https://twitter.com/NASAOcean?ref_src=twsrc%5Etfw">@NASAOcean</a> <a href="https://t.co/43bQAvX8bR">pic.twitter.com/43bQAvX8bR</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1842292640928440342?ref_src=twsrc%5Etfw">October 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Mori Associates Emails Real or Not? : r/GetEmployed](https://www.reddit.com/r/GetEmployed/comments/1dsw058/mori_associates_emails_real_or_not/?rdt=35462)
 
