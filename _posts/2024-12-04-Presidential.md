@@ -5,7 +5,7 @@ published: true
 image: pentagon.jpg
 ---
 
-
+[Monthly Board Meeting - Dec 2, 2024](https://youtu.be/Fm4iNtnLR6s?t=3222) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS)
 <style>
 img[src*="obamaclimate2017.png"] {width: 30%;padding: 4px;}
 img[src*="karen-bass-2012.jpg"] {width: 20%;padding: 4px;}
