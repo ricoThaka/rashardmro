@@ -16,7 +16,7 @@ img[src*="karen-bass-2012.jpg"] {width: 15%;padding: 4px;}
 
 # Mr_Obama, 
 I was looking at your 2017 speech on [climate](https://obamawhitehouse.archives.gov/featured-videos/video/2017/01/09/record-president-obama-climate-and-energy). At [34s](https://youtu.be/WkjYfTPTDlg?t=24) You said "We're restoring vulnerable ecosystems like the [Mariposa](https://youtu.be/WkjYfTPTDlg?t=32)" I am living in [Los Angeles County](https://mayor.lacity.gov/about-mayor-karen-bass) under [Rep_Karen_Bass](https://en.wikipedia.org/wiki/Karen_Bass) [Los Angeles County Mayor](https://jobs.lamayor.org/). Im in a bit of a period of feeling swamped. I am still at [NASAJPL](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large) but i have a dispute that may be easy to settle with [Mori](https://moriassociates.com/) [![Twitter Follow](https://img.shields.io/badge/Social-LACoSheriff__-blue?style=social&logo=X)](https://twitter.com/LACoSheriff) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [Related Tweet](https://x.com/RicoThaka/status/1829312406654419079) Long story short i want to know if you have looked at the Documentary [Oceans iN Bloom](https://www.youtube.com/watch?v=GTOgp59FSpI) [![Twitter Follow](https://img.shields.io/badge/Social-NASAGoddard__-blue?style=social&logo=X)](https://twitter.com/NASAGoddard)
-? 
+? I will talk more in a later report but we have a phytoplankton problem in losangeles [i bloged abt it](https://ricothaka.github.io/compiling/page/10/) cant find it at this time tho... 
 
 
 <video controls preload="none" 
