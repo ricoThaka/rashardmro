@@ -236,7 +236,12 @@ img[src*="img.shields.io/badge/Social"] {display: inline-block; float: none;}
     transform: rotate(45deg);
   }
   
- .mermaid svg{ display: block;  margin: 0; padding: 0; width: 100%;} 
+ .mermaid svg { 
+                display: block;  
+                margin: 0; 
+                padding: 0; 
+                width: 100%;
+              } 
 
  
 h1 {
