@@ -24,20 +24,6 @@ a girl i met at dance411 wrte this abt her daughter @blackgirlscode
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1EzniRQ6UM9Y5xGrmfqCgy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<div class="tupperware">
-  {% for post in site.posts %}
-    
-<article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-    </div>
-  </a>
-</article>
-
-  {% endfor %}
-</div>
-
 
 
 # [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [![Twitter Follow](https://img.shields.io/badge/Social-LAHomeless__-blue?style=social&logo=X)](https://twitter.com/LAHomeless)  [![Twitter Follow](https://img.shields.io/badge/Social-@VaLeciaAdams__-blue?style=social&logo=X)](https://twitter.com/@VaLeciaAdams)
