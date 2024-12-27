@@ -15,16 +15,7 @@ mermaid: true
 @blackgirlscode @nasa-jpl this [is](https://youtu.be/e_G8YJtnxRs?si=8PB26BNw-uG36ZXk) real, [a](https://youtu.be/qMB7pGmuO-Y?si=xSpbQNyo0QMOVD3F)nd [i](https://youtu.be/q4rHcQSP_Ic?si=sFxjmXw1l-V3Tqm9) dont [want](https://youtu.be/K_3neT-KRRg?si=tKr6oX8XxPSxcpcD) to [be](https://youtu.be/3VcZAtO-K_Y?si=dFgiMYn--C6wc092) reprimanded [for](https://youtu.be/vY7mHqFi_Kk?si=PdW4EQbWgnqj4lwh) being [nasty](https://youtu.be/0dtGIjbe0r0?si=6UU-OpvZjkot33t0) [Classic](https://youtu.be/Mh3fmFv_Lbg?si=COm2UKpUr7yx2--y)
 [<video controls poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/secdefanime.png" src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" alt="Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)" />](https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4) 
 
-<video controls preload="none" width="100%" height="auto" poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/img/secdefanime.png">
 
-<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />    
-<source src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mp4" type="video/mp4" />
-      
-        Download the
-        or
-        <a href="">MP4</a>
-        video.
-</video>
 
 ![TRON](https://upload.wikimedia.org/wikipedia/commons/f/f9/Tron_%28Disney%29%2C_Logo.svg)
 [imdb](https://www.imdb.com/title/tt0084827/) [TronGame](https://www.classicgamesarcade.com/game/21670/tron-game.html)
