@@ -11,8 +11,13 @@ mermaid: true
 [Giovanni User Guide.docx.html](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
 
 
+# Macross Plus [OVA](https://archive.org/download/macross-plus-english-dub-master)
+@blackgirlscode @nasa-jpl this [is](https://youtu.be/e_G8YJtnxRs?si=8PB26BNw-uG36ZXk) real, [a](https://youtu.be/qMB7pGmuO-Y?si=xSpbQNyo0QMOVD3F)nd [i](https://youtu.be/q4rHcQSP_Ic?si=sFxjmXw1l-V3Tqm9) dont [want](https://youtu.be/K_3neT-KRRg?si=tKr6oX8XxPSxcpcD) to [be](https://youtu.be/3VcZAtO-K_Y?si=dFgiMYn--C6wc092) reprimanded [for](https://youtu.be/vY7mHqFi_Kk?si=PdW4EQbWgnqj4lwh) being [nasty](https://youtu.be/0dtGIjbe0r0?si=6UU-OpvZjkot33t0) [Classic](https://youtu.be/Mh3fmFv_Lbg?si=COm2UKpUr7yx2--y)
+[<video controls poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/img/secdefanime.png" src="https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4" alt="pollution Los Angeles" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
+
+
 # Image PRocessing 
-[While on Twitter](https://x.com/MarsCuriosity/status/1871307859960721588) I became concerned, how do u do lens corrections on another planet? idk where to start, but i wanna alex jones ya. I cant tho! I had to keep reading and i found this great write up on [Nasa PhotoJournal](https://photojournal.jpl.nasa.gov/catalog/PIA26516) id like to know more deetails but i can play with [opencam](https://opencamera.org.uk/) in the mean time - Rashard [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-@MarsCuriosity__-blue?style=social&logo=X)](https://twitter.com/@MarsCuriosity)
+[While on Twitter](https://x.com/MarsCuriosity/status/1871307859960721588) I became concerned, how do u do lens corrections on another planet? idk where to start, but i wanna alex jones ya. I cant tho! I had to keep reading [and](https://youtu.be/V0ANnOIUtO8?si=IGnOjgJ0tElBxqNw) i found this great write up on [Nasa PhotoJournal](https://photojournal.jpl.nasa.gov/catalog/PIA26516) id like to know more deetails but i can play with [opencam](https://opencamera.org.uk/) in the mean time - Rashard [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-@MarsCuriosity__-blue?style=social&logo=X)](https://twitter.com/@MarsCuriosity)
 
 >The first version of the pair of images above was processed onboard the rover into a color image. Once scientists back on Earth receive such images, they perform additional processing to improve contrast and sharpness, and to correct for distortions caused by the camera's fisheye lens (the curved edges of the final image are the result of correcting for those distortions).
 
@@ -20,7 +25,8 @@ mermaid: true
   <source srcset="https://pbs.twimg.com/media/Gfg4iTCa8AAScQ4?format=jpg&name=4096x4096"  />
   <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26516.jpg" alt="PIA26516: MARDI Peeks Under Curiosity" />
 </picture>
-This pair of images shows the Martian surface captured by NASA's Curiosity rover using its Mars Descent Imager (MARDI) camera on Nov. 7, 2024, the 4,357th Martian day, or sol, of the mission. The raw image on the left has not been processed; on the right is the same image after being processed on Earth to reveal additional details in the camera's images, which were taken after sunset, when the lighting is more uniform than the harsh shadows that occur earlier in the day.
+
+This pair of images shows the [Martian](https://youtu.be/v_buptZpbw0?si=KyQlcHMa4Bbfx8-c) surface captured by NASA's Curiosity rover using its Mars Descent Imager (MARDI) camera on Nov. 7, 2024, the 4,357th Martian day, or sol, of the mission. The raw image on the left has not been processed; on the right is the same image after being processed on Earth to reveal additional details in the camera's images, which were taken after sunset, when the lighting is more uniform than the harsh shadows that occur earlier in the [day](https://youtu.be/KOdMvTnckvs?si=OtJD46lH40m_cgxn).
 
 MARDI was designed to capture images from below the rover as Curiosity descended to the surface on Aug. 5, 2012. (Those images were later assembled together to create the first video of a descent to the Martian surface.) After landing, the mission repurposed MARDI as a surface camera. They use it to take a snapshot at the end of every drive to document the changing terrain and textures the mission has come across during its exploration of Gale Crater and the 3-mile-tall (5-kilometer-tall) mountain within it, Mount Sharp.
 
