@@ -2,6 +2,11 @@
 @import "fonts";
 @import "rouge-base16-dark";
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
 
 html {
 
