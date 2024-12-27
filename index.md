@@ -13,7 +13,18 @@ mermaid: true
 
 # Macross Plus [OVA](https://archive.org/download/macross-plus-english-dub-master)
 @blackgirlscode @nasa-jpl this [is](https://youtu.be/e_G8YJtnxRs?si=8PB26BNw-uG36ZXk) real, [a](https://youtu.be/qMB7pGmuO-Y?si=xSpbQNyo0QMOVD3F)nd [i](https://youtu.be/q4rHcQSP_Ic?si=sFxjmXw1l-V3Tqm9) dont [want](https://youtu.be/K_3neT-KRRg?si=tKr6oX8XxPSxcpcD) to [be](https://youtu.be/3VcZAtO-K_Y?si=dFgiMYn--C6wc092) reprimanded [for](https://youtu.be/vY7mHqFi_Kk?si=PdW4EQbWgnqj4lwh) being [nasty](https://youtu.be/0dtGIjbe0r0?si=6UU-OpvZjkot33t0) [Classic](https://youtu.be/Mh3fmFv_Lbg?si=COm2UKpUr7yx2--y)
-[<video controls poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/img/secdefanime.png" src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mpg" alt="Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)" />](https://photojournal.jpl.nasa.gov/archive/PIA26249.mp4) 
+[<video controls poster="https://raw.githubusercontent.com/ricoThaka/rashardmro/465c4b7138987f9dec4458fafaa70b1839da3ae7/assets/img/secdefanime.png" src="https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mpg" alt="Macross Plus [OVA] (English Dub) Home Video Master Transfer (Betacam)" />](https://archive.org/download/macross-plus-english-dub-master/Macross%20Plus%20-%20Episode%202%20%5BEnglish%20Dubbed%5D%20%281997%20Manga%20Entertainment%20Home%20Video%20Master%20Tape%29%20%5BBetacam%20SP%20Transfer%5D.mpg) 
+
+<video controls preload="none" width="100%" height="auto" poster="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamU0czZlaTdnamt0bHZtMDd4MDJqcno4ejhmYTc3YTVlY2JoMWliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornkf3FPmG6zkB1UQ/giphy.webp">
+
+<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />    
+<source src="https://archive.org/download/4f-1046b-6d-9f-4319fc-8e-4ade-5627ed-2d-4-mp-4/4f1046b6d9f4319fc8e4ade5627ed2d4%20mp4.mp4" type="video/mp4" />
+      
+        Download the
+        or
+        <a href="">MP4</a>
+        video.
+</video>
 
 
 # Image PRocessing 
