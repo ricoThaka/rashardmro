@@ -10,6 +10,37 @@ mermaid: true
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 [Giovanni User Guide.docx.html](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
 
+
+# Image PRocessing 
+[While on Twitter](https://x.com/MarsCuriosity/status/1871307859960721588) I became concerned, how do u do lens corrections on another planet? idk where to start, but i wanna alex jones ya. I cant tho! I had to keep reading and i found this great write up on [Nasa PhotoJournal](https://photojournal.jpl.nasa.gov/) id like to know more deetails but i can play with [opencam](https://opencamera.org.uk/) in the mean time - Rashard [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka) [![Twitter Follow](https://img.shields.io/badge/Social-@MarsCuriosity__-blue?style=social&logo=X)](https://twitter.com/@MarsCuriosity)
+
+>The first version of the pair of images above was processed onboard the rover into a color image. Once scientists back on Earth receive such images, they perform additional processing to improve contrast and sharpness, and to correct for distortions caused by the camera's fisheye lens (the curved edges of the final image are the result of correcting for those distortions).
+
+<picture itemscope itemtype="https://schema.org/ResearchProject" itemid="https://photojournal.jpl.nasa.gov/catalog/PIA26516">
+  <source srcset="https://pbs.twimg.com/media/Gfg4iTCa8AAScQ4?format=jpg&name=4096x4096"  />
+  <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA26516.jpg" alt="PIA26516: MARDI Peeks Under Curiosity" />
+</picture>
+This pair of images shows the Martian surface captured by NASA's Curiosity rover using its Mars Descent Imager (MARDI) camera on Nov. 7, 2024, the 4,357th Martian day, or sol, of the mission. The raw image on the left has not been processed; on the right is the same image after being processed on Earth to reveal additional details in the camera's images, which were taken after sunset, when the lighting is more uniform than the harsh shadows that occur earlier in the day.
+
+MARDI was designed to capture images from below the rover as Curiosity descended to the surface on Aug. 5, 2012. (Those images were later assembled together to create the first video of a descent to the Martian surface.) After landing, the mission repurposed MARDI as a surface camera. They use it to take a snapshot at the end of every drive to document the changing terrain and textures the mission has come across during its exploration of Gale Crater and the 3-mile-tall (5-kilometer-tall) mountain within it, Mount Sharp.
+
+MARDI views the surface just behind the rover's left front wheel, which is visible in the images. While it is not in sharp focus on the surface (the camera was designed to capture the long-range imaging during descent) but is able to resolve features as small as a few millimeters (0.1 inch). Likewise, because MARDI wasn't intended to be a surface camera, it lacks a dust cover. As a result, its dusty lens mutes colors and details.
+
+
+
+Because of that additional processing, MARDI has provided a useful way to study rock layering, textures, mineral veins, wheel tracks, and sand ripples – all of which are apparent in the second, processed, image here. Occasionally scientists will take a series of images while Curiosity drives, creating an image strip that documents changes across the surface. When the rover remains stationary (such as when it's collecting and processing a rock sample) a series of images can reveal the movement of windblown sand.
+
+Figure A shows the image before processing on Earth.
+
+Figure B shows the image after processing on Earth.
+
+Curiosity was built by NASA's Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA's Science Mission Directorate in Washington. Malin Space Science Systems in San Diego built and operates MARDI.
+
+Image Credit:
+[NASA/JPL-Caltech/MSSS](https://photojournal.jpl.nasa.gov/catalog/PIA26516)
+
+![mars](https://photojournal.jpl.nasa.gov/figures/PIA26516_figB.png)
+
 # today
 ![mars](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04403/opgs/edr/ncam/NRB_788348539EDR_S1120534NCAM00567M_.JPG)
 
