@@ -503,13 +503,15 @@ header {
     font-size: 18px;
     margin: 0px;
   }
-  svg {
-    filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
-  }
+
   
 }
 
-
+gradient-text {
+  
+  box-shadow: rgba(219,54,45, 0.4) 5px 5px, rgba(219,54,45, 0.3) 10px 10px, rgba(219,54,45, 0.2) 15px 15px, rgba(219,54,45, 0.1) 20px 20px, rgba(219,54,45, 0.05) 25px 25px;
+  
+}
 
 small {
   font-size:12px;
@@ -992,7 +994,11 @@ width:100%;
 img[alt="whiteslavery"] { max-width: 30%; float:left;}
 img[alt="whiteslavery40"] { max-width: 40%; transform: rotate(45deg);}
 */
-
+#headerMargins 
+{
+  margin-bottom:-27px;
+  
+}
 
 
 
