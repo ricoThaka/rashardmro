@@ -498,6 +498,10 @@ header {
     font-size: 18px;
     margin: 0px;
   }
+  svg {
+    filter: drop-shadow(11px 1px 1px rgb(219 54 45 / 0.6));
+  }
+  
 }
 
 
