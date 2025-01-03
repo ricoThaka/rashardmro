@@ -51,3 +51,6 @@
 
   {% endfor %}
 {% endraw %}
+
+
+[[StakOverFLOW width vs max width]](https://stackoverflow.com/questions/68978403/is-there-any-difference-between-width-and-max-width-when-used-with-min-width)
