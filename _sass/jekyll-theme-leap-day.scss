@@ -46,6 +46,27 @@ body {
   width: 100vw;
 }
 
+#header {
+
+  padding: 0px;
+  align-content: center;
+  border-radius: 31px 0px 31px 0px;
+  margin-bottom:-27px;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto; 	
+    /* opera does not like 'margin:20px auto' */
+    /* background: #666; */
+  width: 400px; /* ie5win fudge begins */
+    text-align:left; 
+  }
+  
+  .drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
+  .headerMargins 
+  {
+    
+    
+  }
 section {
      
   display : block;
@@ -83,12 +104,9 @@ overflow-y: auto;
 
 
 section img {
-max-height: auto;
-width: 100%;
-
-
-
-}
+  max-height: auto;
+  max-width: 100%;
+  }
 
 
 svg { width:100%;}
@@ -900,19 +918,6 @@ iframe {
 
 
 
-.top-container {
-
-  padding: 0px;
-  align-content: center;
- 	max-width: 900px; 
-	padding: 0px;
-	margin-right: auto;
-	margin-left: auto; 	
-	/* opera does not like 'margin:20px auto' */
-	/* background: #666; */
-  width: 50%; /* ie5win fudge begins */
-	text-align:left; 
-}
 
 /* 3_TO_6 panel spread ##LAUREN_IS_MY_WIFE_AS_WELL_as_LAURA */
 
