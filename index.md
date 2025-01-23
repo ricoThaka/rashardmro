@@ -30,6 +30,11 @@ Your browser does not support the audio element.
 <a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
         video.
 </video> 
+![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/fcam/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J01_1200.jpg) [Cite](https://mars.nasa.gov/mars2020/multimedia/raw-images/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J)
+
+# Mars Perseverance Sol 1396: Left Navigation Camera (Navcam)
+![NAVCAM mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/fcam/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J01_1200.jpg)
+
 ![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
 
 ## Panoply netCDF, HDF and GRIB Data Viewer
