@@ -4,6 +4,24 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+
+
+
+# Mars Perseverance Sol 1396: Left Mastcam-Z Camera
+![Sol 1396](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/zcam/ZL0_1396_0790875467_206EBY_N0650000ZCAM04065_1100LMJ01_1200.jpg)
+NASA's Mars Perseverance rover acquired this image using its Left Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
+
+This image was acquired on Jan. 23, 2025 (Sol 1396) at the local mean solar time of 14:04:16.
+
+Image Credit: @NASA/JPL-@Caltech/ASU
+
+
+### All Night Long : by [Common](https://www.thinkcommon.com/) Feat [EryKah Badu](https://erykahbadu.com/)
+<audio controls>
+  <source src="https://archive.org/download/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 <video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
     
 <source src="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" type="video/mp4" />
@@ -12,14 +30,8 @@ mermaid: true
 <a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
         video.
 </video> 
+![SPECTROGRAM](https://ia803409.us.archive.org/24/items/common-all-night-long/All%20Night%20Long/01-All%20Night%20Long%20%28Ft.%20Erykah%20Badu%29_spectrogram.png)
 
-# Mars Perseverance Sol 1396: Left Mastcam-Z Camera
-![Sol 1396](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/zcam/ZL0_1396_0790875467_206EBY_N0650000ZCAM04065_1100LMJ01_1200.jpg)
-NASA's Mars Perseverance rover acquired this image using its Left Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
-
-This image was acquired on Jan. 23, 2025 (Sol 1396) at the local mean solar time of 14:04:16.
-
-Image Credit: NASA/JPL-Caltech/ASU
 ## Panoply netCDF, HDF and GRIB Data Viewer
 ![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
 
