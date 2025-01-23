@@ -4,7 +4,54 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+## Panoply netCDF, HDF and GRIB Data Viewer
+![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
 
+
+### panoply \PAN-uh-plee\, noun: 1. A splendid or impressive array. ...
+Panoply plots geo-referenced and other arrays from [netCDF](https://www.unidata.ucar.edu/software/netcdf/), [HDF](https://en.wikipedia.org/wiki/Hierarchical_Data_Format), [GRIB](https://community.wmo.int/en/activity-areas/wis/grib-edition-1), and other datasets.
+
+Panoply is a cross-platform application that runs on Macintosh, Windows, Linux and other desktop computers. Panoply requires that your computer has have had a compatible Java 11 (or later version) JRE or JDK installed. @blackgirlscode this looks cool like  [HiView ](https://www.uahirise.org/hiview/) Hi view is a camera on my primary mission [Mars Reconnaissance Orbiter](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) [HiViEW-INSTRUCTiONS](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) [DOWNLOAD - HiViEW](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView) HiView is the best way to explore HiRISE images of the Martian surface at the full resolution of the imagery. Tracks of boulders that have fallen down crater walls, delicate rays of ejecta from fresh impact craters, and the unearthly formations created by carbon dioxide ice on the Martian south pole are just a few of the things that are waiting to be discovered by anyone using a tool like HiView with HiRISE imagery. 
+
+![HiRiSE-MRO](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mars_Reconnaissance_Orbiter_HiRISE.jpg/1024px-Mars_Reconnaissance_Orbiter_HiRISE.jpg)
+By @NASA - <a rel="nofollow" class="external free" href="https://photojournal.jpl.nasa.gov/catalog/PIA07087">http://photojournal.jpl.nasa.gov/catalog/PIA07087</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=208964">Link</a>
+![MARS](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_083000_083099/ESP_083043_1790_ESP_083188_1790/ESP_083043_1790_ESP_083188_1790_RED.browse.png)
+![MRO](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+[A quick tour of netCDF data - Argis](https://pro.arcgis.com/en/pro-app/latest/help/data/multidimensional/a-quick-tour-of-netcdf-data.htm)
+
+# ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)
+![HDF](https://upload.wikimedia.org/wikipedia/commons/6/65/HDF_logo_%282017%29.svg)
+
+[https://github.com/ricoThaka/legacy-mars-global-climate-model]
+# [gfortran — the GNU Fortran compiler, part of GCC](https://gcc.gnu.org/wiki/GFortran) Gfortran is the name of the GNU Fortran project, developing a free Fortran 95/2003/2008/2018 compiler for GCC
+
+```fortran
+! 
+! Welcome to GDB Online.
+! GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+! C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+! Code, Compile, Run and Debug online from anywhere in world.
+! 
+! 
+
+Program Hello
+!Print *, "Hello World
+
+!End Program Hello
+
+!program hello
+  ! This is a comment line; it is ignored by the compiler
+  print *, 'Hello, World!'
+end program Hello
+```
+
+# LoS Angeles Fires 2025
+
+![Los Angeles Fires 2025](https://pbs.twimg.com/media/Gh3euE3a4AAt2ob?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1881905119887048732) [Nasa EarthObservatory](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) 
+![PALiSADESFOOTPRiNT](https://pbs.twimg.com/media/Gh3V8lHa0AA1pEl?format=jpg&name=medium)
+[NASA_EARTHOBSERVATORY - The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint) [RelatedTweet](https://x.com/RicoThaka/status/1881895494986895736) 
 ### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
