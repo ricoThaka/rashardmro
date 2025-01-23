@@ -4,6 +4,15 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+
+
+# Mars Perseverance Sol 1396: Left Mastcam-Z Camera
+![Sol 1396](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/zcam/ZL0_1396_0790875467_206EBY_N0650000ZCAM04065_1100LMJ01_1200.jpg)
+NASA's Mars Perseverance rover acquired this image using its Left Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover's mast.
+
+This image was acquired on Jan. 23, 2025 (Sol 1396) at the local mean solar time of 14:04:16.
+
+Image Credit: NASA/JPL-Caltech/ASU
 ## Panoply netCDF, HDF and GRIB Data Viewer
 ![NETCDFViEWER](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
 
@@ -150,8 +159,7 @@ Its Rashard Iman Kelly - [NASAJPL](https://www.jpl.nasa.gov/virtual-tour/) [Mars
 ![map](https://ago-item-storage.s3.amazonaws.com/9fa59749b3ff42aba5eb8d26ee995de9/image_%2824%29.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQC00Rdj9BL67ATQ1wE%2FyosQrfwkGOaVtXgk7pDlD3MHpAIhAJRFNvch4jlwwIyblTqJyT6M7yyqfxi9xnNN4%2B4fhGUQKrsFCIH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjA0NzU4MTAyNjY1IgypGJYGwUrOtITApWkqjwUXLYa1I5Aamg1OYAMkl9VpJir%2F65szJe0q97BOBM5UEKJhrHEFpiQy7Sluxe9rid4zYl%2BfjaSB3FEHg%2FPbOjPKnSpLAeY8xdlLibIdjCwVBG0kbT%2BC50UuSlAPlQrc05S5Dqp7neIhRn6hyHIWHHLAw8yPI%2FcxBF7d1T2A3B%2BrTOCd5qWKM%2BiNh8UpQeAjfQNFyblndNfpSPw2V2WPsZ3Pxa3eUWYWahXgDhRNR3cvWT87N%2FgYfBVvvzFUN3ogJ9xTJgQ40IeqMVrFaErVT36d%2BlxlCrDTk%2B8iVHGkBRZA3z6KmgSmDW%2FqXNC58SerVh33jMtHiqftG2Kq%2Btcz7NinlCGvcElTKckLOCr477%2BS3PJ5pA7p0jFe5n2r7aVIrRxg6LNtitXm9S6ToSFj0gI%2FpaC0k%2FuoNPg1SYO8MVYOYyAFY%2Fp6aq4A81tCSSW7sjA49O8xy3ewN9jXjBvfo32b%2BwvG6EhIeuXeOu8%2BpGEIemd4qKsAe7DN9rfMKgv6KmQHi6gLzClSebRO%2FCFfgp8qb3nBvE%2FpjkQPdR%2BRR3WINSW0Lg55k9FG3BRlAnFumrGYVvesYBLFO5mtyUq%2Bk4iuU1XPmbLWaD%2FrK903yzSR7djQtUr5ioEDuQXq%2FYsOK5Q7zyMSCSp27UNOvXG9CnzH0X3vkHtUiK7YqzNY5ULIvqsF0U54lGKaLKStCkrU6%2FuuaM9kuB67NeoimiL7McEmKJK%2F4WwPjkKv5hAuJaeXjUkHGy6NKg8wCudE5ZoTRGCl3Tf8R1ummTaTLJpqKfUUd3fNuXkt0PN3z7PRr4vjM7dwzXA1Xdx3UjoCB0Hie5pv8g8Jbp7KgAJE4VQXm%2Fx4oFQgYnNKWLxUperiUnMHMMjfkrsGOrAB9Uyl7BMKyJW9o3nycIOepHiAvJREF5TjiTXO%2B%2FkYkE58U3HSUickI8AA7PBYmTJjpOh3iOldm84ECUqu3Qlv45ONYe7lmHW9ngqgPVgJqDDzEoE%2Bwo9zHEYZjeg5hPVkgR2BAFNywSI4muvaWAE8vfc5G1K6sdPXjXIA%2F%2BFmGcF1y4RFj34hZ%2BHduy%2B%2Fv0MyHR4j66sCtTWQipc%2B1cpv56ZB7eIq%2FyhrS1kXVFAWoJI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241220T003521Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKE3PBIYDND%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7226191ee536526369d0e271871bbf17597afdfc51afeedf3051c7bdff5bf1db)
 
 
-# NASA SOCiAL APP 
-![NASASOCiAL](https://pbs.twimg.com/media/GfMTIyiWwAAhuhu?format=jpg&name=medium)
+
 
 # The. Martian. 2015. EXTENDED. 1080p. BRRip.x 264. AAC ETRG
 @nasa-jpl i was thinking that [Matt Damon](https://www.imdb.com/name/nm0000354/) was teasing me bc [playboy](https://www.youtube.com/watch?v=cvsUojE83b8) stole all my belongings when [my wife left me...](https://www.essence.com/tags/erika-kelly/)
@@ -171,7 +179,8 @@ Its Rashard Iman Kelly - [NASAJPL](https://www.jpl.nasa.gov/virtual-tour/) [Mars
 [![Twitter Follow](https://img.shields.io/badge/Social-Tip__-blue?style=social&logo=X)](https://twitter.com/Tip) [T.I.](https://www.officialti.com/) thanks kid 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78kVkpg0yX3jlTqzreFk0U?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
+# NASA SOCiAL APP 
+![NASASOCiAL](https://pbs.twimg.com/media/GfMTIyiWwAAhuhu?format=jpg&name=medium)
 
 # PHOBOS
 ![phobos](https://avatars.mds.yandex.net/get-mpic/4334579/img_id4537117976329318750.jpeg/orig)
