@@ -4,7 +4,14 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
-
+<video controls preload="none"   width="100%" height="auto" poster="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg">
+    
+<source src="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" type="video/mp4" />
+         Download the
+        or
+<a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
+        video.
+</video> 
 
 # Mars Perseverance Sol 1396: Left Mastcam-Z Camera
 ![Sol 1396](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/zcam/ZL0_1396_0790875467_206EBY_N0650000ZCAM04065_1100LMJ01_1200.jpg)
@@ -54,6 +61,11 @@ Program Hello
   print *, 'Hello, World!'
 end program Hello
 ```
+# i did it for jehovah, now i do it for the world-casualDaily atm!
+![MyCAbinet](https://pbs.twimg.com/media/GhcBnUraMAAAh6F?format=jpg&name=large)
+![MY_CABinet](https://pbs.twimg.com/media/GhcDZhJacAIZrjr?format=jpg&name=large)
+![i did it for jehovah, now i do it for the world-casualDaily atm!](https://pbs.twimg.com/media/GhcKpEmakAAfi2j?format=jpg&name=large)
+
 
 # LoS Angeles Fires 2025
 
