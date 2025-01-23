@@ -30,6 +30,12 @@ Your browser does not support the audio element.
 <a href="https://stereo.gsfc.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4">mp4</a>
         video.
 </video> 
+
+![MarsHighSun](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/ncam/NLF_1396_0790870193_597ECM_N0650000NCAM00501_01_295J01_1200.jpg)
+
+![MARSSuN](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/ncam/NLF_1396_0790870040_037ECM_N0650000NCAM00501_01_295J01_1200.jpg)
+
+NASA's [Mars Perseverance rover](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLF_1396_0790870040_037ECM_N0650000NCAM00501_01_295J) acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
 ![mars2020](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/fcam/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J01_1200.jpg) [Cite](https://mars.nasa.gov/mars2020/multimedia/raw-images/FLF_1396_0790869729_050ECM_N0650000FHAZ00219_01_295J)
 
 # Mars Perseverance Sol 1396: Left Navigation Camera (Navcam)
