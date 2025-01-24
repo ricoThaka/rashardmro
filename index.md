@@ -3,6 +3,40 @@ layout: default
 title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
+
+
+
+### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
+[Giovanni User Guide.docx.html](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
+[HORiZONS_APi_GUiDE](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
+
+
+
+# Bill Nelson
+>My letter to the next NASA Administrator:
+@nasa @nasa-jpl Mr_Nelson, i want direct links to your letter for my records @whitehouse 
+[Related](https://x.com/SenBillNelson/status/1880340564962635963) [letter to the next NASA Administrator](https://x.com/SenBillNelson/status/1881749943234556165)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://pbs.twimg.com/media/Gh1RmUoXwAAnxIw?format=jpg&name=large"><img src="https://pbs.twimg.com/media/Gh1RmUoXwAAnxIw?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://pbs.twimg.com/media/Gh1RmUmXkAAMHA6?format=jpg&name=large"><img src="https://pbs.twimg.com/media/Gh1RmUmXkAAMHA6?format=jpg&name=large" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+
+
 # VoyaGer 
 ![VOYAGER](https://pbs.twimg.com/media/GiBpHlFbIAA2ot_?format=png&name=900x900)
 ![Voyager](https://pbs.twimg.com/media/GiBpcLQbwAAqJO_?format=png&name=900x900)
@@ -98,14 +132,16 @@ end program Hello
 [RelatedTweet](https://x.com/RicoThaka/status/1881905119887048732) [Nasa EarthObservatory](https://earthobservatory.nasa.gov/images/event/153817/los-angeles-fires-2025) 
 ![PALiSADESFOOTPRiNT](https://pbs.twimg.com/media/Gh3V8lHa0AA1pEl?format=jpg&name=medium)
 [NASA_EARTHOBSERVATORY - The Palisades Fire’s Footprint](https://earthobservatory.nasa.gov/images/153831/the-palisades-fires-footprint) [RelatedTweet](https://x.com/RicoThaka/status/1881895494986895736) 
-### Mars MissionObjectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+
+
+### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 [Giovanni User Guide.docx.html](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
 [HORiZONS_APi_GUiDE](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
 ![Viking](https://planetarydata.jpl.nasa.gov/img/data/phoenix/phxssi_1xxx/extras/browse/sol151/ss151rsd909587541_208f0r2m1.img.jpeg)
 [<img src="https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif" alt="Mars Lander Persevere Rover PARACHuTE" />](https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif)
->[Mars Reconnaissance Orbiter](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) caught this image of [Phoenix](https://science.nasa.gov/mission/mars-phoenix/) hanging from its parachute as it descended to the [Martian surface](https://www.uahirise.org/hipod/archive/) in 2008.
+[Mars Reconnaissance Orbiter](https://www.jpl.nasa.gov/missions/mars-reconnaissance-orbiter-mro/) caught this image of [Phoenix](https://science.nasa.gov/mission/mars-phoenix/) hanging from its parachute as it descended to the [Martian surface](https://www.uahirise.org/hipod/archive/) in 2008.
 Credit: [NASA](https://science.nasa.gov/mars/) /[JPL-Caltech](https://www.caltech.edu/research/jpl) /[University of Arizona](https://www.uahirise.org/)
 [<img src="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3705/Spacecraft_descending_to_Mars_with_large_crater_in_background.jpeg?w=1024&format=webp&fit=clip&crop=faces%2Cfocalpoint" />](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3705/Spacecraft_descending_to_Mars_with_large_crater_in_background.jpeg?w=1024&format=webp&fit=clip&crop=faces%2Cfocalpoint)
 
