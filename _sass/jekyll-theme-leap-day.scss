@@ -47,7 +47,7 @@ body {
 }
 
 #header {
-
+  display : block;
   padding: 0px;
   align-content: center;
   border-radius: 31px 0px 31px 0px;
@@ -55,9 +55,7 @@ body {
     padding: 15px;
     margin-right: auto;
     margin-left: auto; 	
-    /* opera does not like 'margin:20px auto' */
-    /* background: #666; */
-  width: 400px; /* ie5win fudge begins */
+    width: 80vh;
     text-align:left; 
   }
   
