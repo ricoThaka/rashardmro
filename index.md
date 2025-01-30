@@ -8,7 +8,18 @@ mermaid: true
 
 ### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf) [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+
+[CurrentWork - rashardMRO - CODEPEN](https://codepen.io/ricoThaka/pen/JoPxzrd?editors=1100)
+
+[iD.NASA.GOV - NASA USER LOGiN](https://auth.launchpad.nasa.gov/login?level=20&target=https%3A%2F%2Fauth.launchpad.nasa.gov%2Facr%2Fv1%2Fauthlevel%2F20%3Ffeddata%3DP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9NTNkZDk1YjQtM2Q2NC00MDA4LTg4NTQtZDAzMTAzOWIyMmM0JnNjb3BlPW9wZW5pZCUyMHByb2ZpbGUlMjBlbWFpbCUyMG5hc2FzdGFuZGFyZCZzdGF0ZT1uZnFJb3kxWERhcnVLXzhEM2dIR2tUUnl5RnhlM1Z2QlViVHlYQzJvWDI4JTNEJnJlZGlyZWN0X3VyaT1odHRwczovL2lkLm5hc2EuZ292L2xvZ2luL29hdXRoMi9jb2RlL2xhdW5jaHBhZCZub25jZT1KeUtpVGl2ZHpHbzBBVDlFbldMbk4zRUNJVEJ5RGhHZnI0ZWlFa21jTDFFJlNNUE9SVEFMVVJMPWh0dHBzJTNBJTJGJTJGYXV0aC5sYXVuY2hwYWQubmFzYS5nb3YlMkZhZmZ3ZWJzZXJ2aWNlcyUyRkNBU1NPJTJGb2lkYyUyRklDQU0tUGFzc3dvcmQlMkZhdXRob3JpemU%3D)
+![success](https://pbs.twimg.com/media/GgvPi-4acAAEpgq?format=png&name=small)
+![Login](https://pbs.twimg.com/media/GgvPi9waYAAJIx1?format=jpg&name=large)
+
+
+
+ [PDS Cartography and Imaging Sciences Node - WebTool](https://pds-imaging.jpl.nasa.gov/beta/search) [Computer Ethics 4th ed. Deborah G. Johnson](https://github.com/ricoThaka/ricothaka.github.io/blob/pixelsquare/assets/pdf/computer-ethics-4e_compress.pdf) [NASAJPL Technology Highlights 2022](https://scienceandtechnology.jpl.nasa.gov/sites/default/files/documents/JPL_2022_Technology_Highlights.pdf) <~ @whitehouse @deptofdefense thats a report that i missed from @nasa 
 [Giovanni User Guide.docx.html](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
 [HORiZONS_APi_GUiDE](https://ssd-api.jpl.nasa.gov/doc/horizons.html)
 
