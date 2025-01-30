@@ -10,6 +10,8 @@ mermaid: true
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
+[Mars Perseverance Raw Images](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+[RelatedTweet](https://x.com/RicoThaka/status/1884759440655839323) [Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef)
 
 [CurrentWork - rashardMRO - CODEPEN](https://codepen.io/ricoThaka/pen/JoPxzrd?editors=1100)
 
