@@ -16,7 +16,8 @@ mermaid: true
 [RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720) [2](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714160208_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [1](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714159981_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [w](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00690/ids/edr/browse/shrlc/SI1_0690_0728205224_570ECM_N0321184SRLC08040_0000LMJ05_1200.jpg)
 
 [Mars Perseverance Raw Images](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
-[RelatedTweet](https://x.com/RicoThaka/status/1884759440655839323) [Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
+[RelatedTweet](https://x.com/RicoThaka/status/1884759440655839323) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@secdef__-blue?style=social&logo=X)](https://twitter.com/@secdef) [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
 
 [CurrentWork - rashardMRO - CODEPEN](https://codepen.io/ricoThaka/pen/JoPxzrd?editors=1100)
 
