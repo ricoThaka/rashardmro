@@ -17,11 +17,13 @@ mermaid: true
 [FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
 
 [<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)
-[RelatedTweet](https://x.com/RicoThaka/status/1885106591214801086) 
+[RelatedTweet](https://x.com/RicoThaka/status/1885106591214801086) [RELATEDTWEET](https://x.com/RicoThaka/status/1885085716834902342)
 ![TWiNG](https://pbs.twimg.com/media/Gik-XgMbgAAg8i-?format=jpg&name=large)
 ![AViRiS](https://raw.githubusercontent.com/ricoThaka/rashardmro/4a8760a2245ffc36f81b8b052a70d21690c16d9a/assets/pl0ts/AV320250123t202605_004_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
 [RelatedTweet](https://x.com/RicoThaka/status/1885104845428031838)
 ![AViRiS](https://pbs.twimg.com/media/Gik8gXfbYAMOTaQ?format=jpg&name=large)
+![RASHARDLoGiN TWiNG](https://pbs.twimg.com/media/Gik824sbYAAbsY_?format=jpg&name=large)
+![MY_LOGiN](https://pbs.twimg.com/media/GikrKzObsAAp9jc?format=jpg&name=large)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
 # MarsPano 
