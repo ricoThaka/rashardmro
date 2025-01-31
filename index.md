@@ -11,6 +11,19 @@ mermaid: true
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
 
+# [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
+![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+
+[FLiGHTLiNES.CSV](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/aVIRIS_Flight_Lines.csv) [Coast](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars)
+
+[<IMG src="https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true" alt="AVIRIS-3 L1b Radiance Data Related to California Fires Now Available" />](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/AV320250123t202047_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg?raw=true)
+[RelatedTweet](https://x.com/RicoThaka/status/1885106591214801086) 
+![TWiNG](https://pbs.twimg.com/media/Gik-XgMbgAAg8i-?format=jpg&name=large)
+![AViRiS](https://raw.githubusercontent.com/ricoThaka/rashardmro/4a8760a2245ffc36f81b8b052a70d21690c16d9a/assets/pl0ts/AV320250123t202605_004_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
+[RelatedTweet](https://x.com/RicoThaka/status/1885104845428031838)
+![AViRiS](https://pbs.twimg.com/media/Gik8gXfbYAMOTaQ?format=jpg&name=large)
+![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
+
 # MarsPano 
 ![MarsPano](https://pbs.twimg.com/media/GigDa_2a4AAEdzj?format=jpg&name=large)
 [RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720) [2](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714160208_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [1](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714159981_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [w](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00690/ids/edr/browse/shrlc/SI1_0690_0728205224_570ECM_N0321184SRLC08040_0000LMJ05_1200.jpg)
