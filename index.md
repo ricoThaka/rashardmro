@@ -25,7 +25,9 @@ mermaid: true
 ![RASHARDLoGiN TWiNG](https://pbs.twimg.com/media/Gik824sbYAAbsY_?format=jpg&name=large)
 ![MY_LOGiN](https://pbs.twimg.com/media/GikrKzObsAAp9jc?format=jpg&name=large)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
-
+# Missing from My world
+maybe its good, idk but i wanna know we ok with eachother @blackgirlscode
+![NORMANI](https://pbs.twimg.com/media/GikmvJfasAAbjlj?format=jpg&name=large)
 # MarsPano 
 ![MarsPano](https://pbs.twimg.com/media/GigDa_2a4AAEdzj?format=jpg&name=large)
 [RelatedTweeT](https://x.com/RicoThaka/status/1884760551156510720) [2](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714160208_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [1](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00532/ids/edr/browse/zcam/ZR0_0532_0714159981_098EBY_N0261222ZCAM03426_1100LMJ01_1200.jpg) [w](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00690/ids/edr/browse/shrlc/SI1_0690_0728205224_570ECM_N0321184SRLC08040_0000LMJ05_1200.jpg)
