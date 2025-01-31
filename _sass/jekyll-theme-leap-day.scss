@@ -46,25 +46,37 @@ body {
   width: 100vw;
 }
 
-header {
+
+.top-container {
+
+  padding: 0px;
+  align-content: center;
+  border-radius: 31px 0px 31px 0px;
+	max-width: 400px; 
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto; 	
+	/* opera does not like 'margin:20px auto' */
+	/* background: #666; */
+  width: 50%; /* ie5win fudge begins */
+	text-align:left; 
+}
+
+#header {
   display : block;
   padding: 0px;
-  align-content: left;
+  align-content: center;
   border-radius: 31px 0px 31px 0px;
   margin-bottom:-27px;
     padding: 15px;
     margin-right: auto;
     margin-left: auto; 	
-    
+    width: 80vh;
     text-align:left; 
   }
   
   .drop {filter: drop-shadow(4px 4px 1px #b71c1c);}
-  .headerMargins 
-  {
-    
-    
-  }
+
 section {
      
   display : block;
@@ -495,34 +507,6 @@ dt {
   font-weight:700;
 }
 
-header {
-  padding: 25px 20px 40px 20px;
-  text-align: center;
-  z-index:99;
-  -webkit-font-smoothing:antialiased;
-  min-height: 76px;
-
-  h1 {
-    font: 40px/48px 'Martian Mono','Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #f3f3f3;
-    text-shadow: 0px 2px 0px #235796;
-    margin: 0px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
-  }
-
-  p {
-    color: #d8d8d8;
-    text-shadow:rgba(#000, 0.2) 0 1px 0;
-    font-size: 18px;
-    margin: 0px;
-  }
-
-  
-}
 
 gradient-text {
   
@@ -672,7 +656,7 @@ footer {
   }
 
   header {
-    padding:20px 20px;
+   
     margin: 0;
 
     h1 {
@@ -715,7 +699,20 @@ footer {
   body {
   }
 
+  header{
+    position: relative;
+    padding: 0px 0px;
+    min-height: 0px;
 
+    h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+  }
   section {
     margin-top: 0px;
   }
@@ -2732,4 +2729,3 @@ flex: 0 1 200px;
 flex: 1 1 200px;
 padding: 0px;
 }
-
