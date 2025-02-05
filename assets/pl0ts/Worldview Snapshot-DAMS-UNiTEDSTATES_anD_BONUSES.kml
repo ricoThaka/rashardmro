@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Worldview Snapshot</name>
+	<Style id="LayerFolder_check">
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder id="07A1094134360D0861E5">
+		<name>MODIS_Terra_CorrectedReflectance_TrueColor</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<styleUrl>#LayerFolder_check</styleUrl>
+		<GroundOverlay id="0B518A81A4360D08BCE7">
+			<name>MODIS_Terra_CorrectedReflectance_TrueColor</name>
+			<Icon>
+				<href>MODIS_Terra_CorrectedReflectance_TrueColor.png</href>
+			</Icon>
+			<LatLonBox>
+				<north>90</north>
+				<south>-90</south>
+				<east>180</east>
+				<west>-180</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+	<Folder id="0FBCF2D409360D0861E8">
+		<name>GRanD_Dams</name>
+		<open>1</open>
+		<styleUrl>#LayerFolder_check</styleUrl>
+		<GroundOverlay id="0AC6946E0D360D08B07E">
+			<name>GRanD_Dams</name>
+			<Icon>
+				<href>GRanD_Dams.png</href>
+			</Icon>
+			<LatLonBox>
+				<north>90</north>
+				<south>-90</south>
+				<east>180</east>
+				<west>-180</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+	<Folder id="1F488054D2360D0861E8">
+		<name>Coastlines_15m</name>
+		<open>1</open>
+		<styleUrl>#LayerFolder_check</styleUrl>
+		<GroundOverlay id="00AE3542F8360D09C26F">
+			<name>Coastlines_15m</name>
+			<Icon>
+				<href>Coastlines_15m.png</href>
+			</Icon>
+			<LatLonBox>
+				<north>90</north>
+				<south>-90</south>
+				<east>180</east>
+				<west>-180</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Document>
+</kml>
