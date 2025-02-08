@@ -12,9 +12,24 @@ img[src*="karen-bass-2012.jpg"] {width: 20%;padding: 4px;}
 </style>    
 
 # LA_RiVER 
-[RainFallFlux](https://x.com/RicoThaka/status/1888309672031170874) [LONGBEACHPARADE](https://x.com/RicoThaka/status/1720959701318541421) @blackgirlscode this is where coi leray smiled at me when i sign languaged a twtter ref @nasa-jpl [SMARTPHONES](https://x.com/RicoThaka/status/1723169287899320501) [DusTMAP-NASASVS](https://x.com/RicoThaka/status/1887341832641912882) [A_LiNE_LARiVER](https://x.com/RicoThaka/status/1887200958259540046)
- 
+[RainFallFlux](https://x.com/RicoThaka/status/1888309672031170874) [LONGBEACHPARADE](https://x.com/RicoThaka/status/1720959701318541421) @blackgirlscode this is where coi leray smiled at me when i sign languaged a twtter ref @nasa-jpl [SMARTPHONES](https://x.com/RicoThaka/status/1723169287899320501) [DusTMAP-NASASVS](https://x.com/RicoThaka/status/1887341832641912882) [A_LiNE_LARiVER](https://x.com/RicoThaka/status/1887200958259540046) [UNIX Programming Enviornment](https://archive.org/download/UnixProgrammingEnviornment)
+ [The Los Angeles River : its life, death, and possible rebirth](https://archive.org/details/losangelesriveri0000gump) [Río L.A : tales from the Los Angeles River](https://archive.org/details/rolatalesfromlos0000morr) [LA River Public Art Project](https://explore.publicartarchive.org/la-river-public-art-project/)
+![LA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg) [LOSANGELES](https://www.loc.gov/item/2007660434/)
 
+{% for post in site.[name] %}
+    <ul>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    </ul>
+{% endfor %}
+
+<video controls preload="none" 
+  src="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FINALCUT.mp4"
+  poster="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FINALCUT.02846_print.jpg">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014648/NHQ_2024_0801_AnOceanInBloom_FINALCUT.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Mr_Obama, [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
 I was looking at your 2017 speech on [climate](https://obamawhitehouse.archives.gov/featured-videos/video/2017/01/09/record-president-obama-climate-and-energy). At [34s](https://youtu.be/WkjYfTPTDlg?t=24) You said "We're restoring vulnerable ecosystems like the [Mariposa](https://youtu.be/WkjYfTPTDlg?t=32)" I am living in [Los Angeles County](https://mayor.lacity.gov/about-mayor-karen-bass) under [Rep_Karen_Bass](https://en.wikipedia.org/wiki/Karen_Bass) [Los Angeles County Mayor](https://jobs.lamayor.org/). Im in a bit of a period of feeling swamped. I am still at [NASAJPL](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large) but i have a dispute that may be easy to settle with [Mori](https://moriassociates.com/) [![Twitter Follow](https://img.shields.io/badge/Social-LACoSheriff__-blue?style=social&logo=X)](https://twitter.com/LACoSheriff) [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) [Related Tweet](https://x.com/RicoThaka/status/1829312406654419079) Long story short i want to know if you have looked at the Documentary [Oceans iN Bloom](https://www.youtube.com/watch?v=GTOgp59FSpI) [![Twitter Follow](https://img.shields.io/badge/Social-NASAGoddard__-blue?style=social&logo=X)](https://twitter.com/NASAGoddard)
