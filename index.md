@@ -17,6 +17,7 @@ mermaid: true
 {% endfor %}
 
 ![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
+![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
 [RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
 [UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
