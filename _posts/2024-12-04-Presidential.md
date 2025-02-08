@@ -12,8 +12,8 @@ img[src*="karen-bass-2012.jpg"] {width: 20%;padding: 4px;}
 </style>    
 
 # LA_RiVER 
-[RainFallFlux](https://x.com/RicoThaka/status/1888309672031170874)
-
+[RainFallFlux](https://x.com/RicoThaka/status/1888309672031170874) [LONGBEACHPARADE](https://x.com/RicoThaka/status/1720959701318541421) @blackgirlscode this is where coi leray smiled at me when i sign languaged a twtter ref @nasa-jpl [SMARTPHONES](https://x.com/RicoThaka/status/1723169287899320501) [DusTMAP-NASASVS](https://x.com/RicoThaka/status/1887341832641912882) [A_LiNE_LARiVER](https://x.com/RicoThaka/status/1887200958259540046)
+ 
 
 
 # Mr_Obama, [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
