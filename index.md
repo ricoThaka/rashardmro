@@ -11,7 +11,7 @@ mermaid: true
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
 <ul>
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
           <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
