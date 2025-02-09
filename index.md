@@ -10,6 +10,13 @@ mermaid: true
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
+![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
+![Atladena](https://tile.loc.gov/storage-services/service/pnp/mrg/02100/02144v.jpg)
+![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
+[UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
+
+
 <ul>
     {% for post in site.posts %}
       <li>
@@ -21,11 +28,7 @@ mermaid: true
 </ul>
 
 [Loops and Collections - TUTORiAL:JEKYLL:CONTENTMANAGEMENT](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
-![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
-![Atladena](https://tile.loc.gov/storage-services/service/pnp/mrg/02100/02144v.jpg)
-![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
-[RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
-[UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
+
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
 ![AViRiS](https://avirisng.jpl.nasa.gov/img/banner130213.png)
 
