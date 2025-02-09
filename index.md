@@ -12,7 +12,9 @@ mermaid: true
 
 {% for post in site.posts %}
     <ul>
-      <h3><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ site.github.url }}{{ post.url }}">
+      {{ post.title }}
+      </a></h3>
     </ul>
 {% endfor %}
 
