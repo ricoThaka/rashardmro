@@ -18,7 +18,7 @@ mermaid: true
     </ul>
 {% endfor %}
 
-
+[Loops and Collections - TUTORiAL:JEKYLL:CONTENTMANAGEMENT](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
 ![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
 ![Atladena](https://tile.loc.gov/storage-services/service/pnp/mrg/02100/02144v.jpg)
 ![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
