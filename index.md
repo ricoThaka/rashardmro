@@ -10,13 +10,15 @@ mermaid: true
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
-{% for post in site.posts %}
-    <ul>
-      <h3><a href="{{ site.github.url }}{{ post.url }}">
-      {{ post.title }}
-      </a></h3>
-    </ul>
-{% endfor %}
+<ul>
+    {% for post in paginator.posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+</ul>
 
 [Loops and Collections - TUTORiAL:JEKYLL:CONTENTMANAGEMENT](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
 ![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
