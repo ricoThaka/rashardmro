@@ -18,13 +18,14 @@ mermaid: true
 
   
  <div class="postLoop">
-     {% for post in site.posts %}
-      <li>
-          <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-      </li>
-    {% endfor %}
+
+{% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+   </li>
+{% endfor %}
   
 </div> 
 
