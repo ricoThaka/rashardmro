@@ -16,6 +16,17 @@ mermaid: true
 [RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
 [UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
 
+  
+ <div class="postLoop">
+     {% for post in site.posts %}
+      <li>
+          <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+  
+</div> 
 
 <ul>
     {% for post in site.posts %}
