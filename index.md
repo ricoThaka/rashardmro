@@ -18,7 +18,7 @@ mermaid: true
 
   
  <div class="postLoop">
-
+<ul>
 {% for post in site.posts %}
     <li>
       <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
@@ -26,7 +26,7 @@ mermaid: true
       <p>{{ post.content | strip_html | truncatewords:50 }}</p>
    </li>
 {% endfor %}
-  
+</ul>  
 </div> 
 
 <ul>
