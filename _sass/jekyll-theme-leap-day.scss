@@ -193,15 +193,12 @@ p:first-of-type {
     border: 1px solid #c9ff23;
     border-radius: 1px;
     padding:5px;
-    background-color: rgb(96 139 168 / 0.2);
-    flex: 1 1 250px;
+    flex: 1 1 160px;
   }
    .postLoop h3 span {
       display: inline-block;
       color: white;
       letter-spacing: -1px;
-      background: rgb(0, 0, 0); /* fallback color */
-      background: rgba(0, 0, 0, 0.7);
       padding: 10px;
     }
 
