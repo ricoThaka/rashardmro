@@ -15,17 +15,7 @@ mermaid: true
 </ul>  
 </div> 
 
- <div class="postLoop">
-<ul>
-{% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-   </li>
-{% endfor %}
-</ul>  
-</div> 
+
 
 ### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
