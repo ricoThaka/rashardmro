@@ -1,19 +1,13 @@
 ---
-layout: post
-mermaid: true
-published: true
-image: latest_1024_0193.jpg
----
-
----
 layout: covid
-title:  "EuropaClipper"
+title:  "CovidDump"
+date:   2024-11-18 22:51:06 -0800
 published: true
-tags: jupiter europa 
-image: Europa_Clipper.png
+image: Coronavirus._SARS-CoV-2.png
+tags: covid
 ---
 
-
+# Covid BrainDumP
 
 # EUROPEAN PATENT SPECIFICATION
 <object type="application/pdf" data="https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf" width="900" height="400"></object> 
@@ -70,14 +64,6 @@ Its [Rashard Iman Kelly- NASA/JPL M_R_O/JUNO](https://ricothaka.github.io/rashar
 [COVID 'most likely' leaked from Wuhan lab, social distancing 'not based on science,' select committee finds](https://www.foxnews.com/politics/covid-most-likely-leaked-from-wuhan-lab-social-distancing-not-based-science-select-committee-finds)
 
 
-# Johnny Mnemonic (1995)
-[imdb](https://www.imdb.com/title/tt0113481/)
-<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nNW11aHA4OXFscHIzN2JxdTg5ZGxyeWszZDhhbGJ3aHRtNzd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIbzujHh2PCbm/giphy.webp">
-<source src="https://archive.org/download/johnny-mnemonic-1995/Johnny%20Mnemonic%20%281995%29.mp4" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
  ![20060257852](https://pbs.twimg.com/media/GILy46BawAAT5XP?format=jpg&name=large)
  ![CovidSARS](https://pbs.twimg.com/media/GILy5yQbIAAXGiB?format=jpg&name=large)
@@ -166,31 +152,16 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 
 [wiki](https://en.wikipedia.org/wiki/Europa_Clipper#:~:text=It%20was%20launched%20on%20October,while%20in%20orbit%20around%20Jupiter.)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Johnny Mnemonic (1995)
+[imdb](https://www.imdb.com/title/tt0113481/)
+<video controls preload="none"  poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nNW11aHA4OXFscHIzN2JxdTg5ZGxyeWszZDhhbGJ3aHRtNzd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIbzujHh2PCbm/giphy.webp">
+<source src="https://archive.org/download/johnny-mnemonic-1995/Johnny%20Mnemonic%20%281995%29.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://photojournal.jpl.nasa.gov/archive/PIA26463.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
-There should be whitespace between paragraphs.
+<object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>                  
 
-### Why are they crashing the Galileo satellite?
-
-![The Galileo satellite](https://starchild.gsfc.nasa.gov/Images/StarChild/questions/gal_deploy.jpg)
-The Galileo satellite was launched from Space Shuttle Atlantis during the STS-34 mission in 1989. It took five years to reach Jupiter, where it has remained for the past 9 years. At one point, it released a small probe which dove into the Jovian atmosphere and sent back valuable data to scientists about the composition, speed, density, and temperature of our solar system's largest planet. Galileo has now completed 34 orbits of Jupiter and is running low on the fuel it needs to remain in contact with scientists on Earth. The decision was made to have the spacecraft plunge into the dense layers of Jupiter's atmosphere on September 20, 2003. Friction between the satellite and the atmospheric gases will cause the craft to be crushed and start to burn. In the end, it will get so hot and feel so much atmospheric pressure that it will totally disintegrate and vaporize.
-
-The Galileo satellite collected data for 6 years longer than planned. In addition to the information collected about the atmosphere of Jupiter, it detected evidence of underground salt water oceans on Jupiter's moons Europa, Ganymede and Callisto, and examined the active volcanoes on the moon Io. In fact, Galileo's own discoveries doomed it to the fate it will have this month. Given the environment found on Europa, scientists feared that if they just left the satellite in orbit, it might one day collide with that moon and contaminate it with microbes from Earth. They felt it was a chance they could not take. [STARCHilD](https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html)
-
-### PIA23616: Galileo in High Bay 1
-White walls and scaffolding had become a common sight in the High Bay 1 clean room in [JPL's Spacecraft Assembly Facility](https://www.jpl.nasa.gov/missions/europa-clipper/) by the time the Galileo orbiter was being built. This photo from Nov. 1, 1984 shows that gowning requirements had also become more complex.
-
-Note the fully-opened high-gain antenna; an emblem on the clean room's Wall of Fame depicts it partially opened, as it was at Jupiter.
-![PIA23616: Galileo in High Bay 1](https://photojournal.jpl.nasa.gov/jpeg/PIA23616.jpg)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6nXW87AKLKr5wXt311SCya?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> @blackgirlscode thanks for the love @normani! 
-
-# Heliophysics
-The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
-
-layout: post
-title:  HelioPhysics
-date:   2024-11-13 22:51:06 -0800
-published: true
+https://www.nature.com/articles/d41586-024-03026-9
