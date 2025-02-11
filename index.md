@@ -4,6 +4,8 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
 <div class="postLoop">
 <ul>
 {% for post in site.posts %}
@@ -15,9 +17,20 @@ mermaid: true
 </ul>  
 </div> 
 
+# Astronomy: Mars LandSurveying @whitehouse
+i found a crater with a strange texture! and wanted to share it
+[File Location](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/DTM/PSP/ORB_001900_001999/PSP_001981_1825_PSP_002258_1825/) 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/fzFe0I7Guq">https://t.co/fzFe0I7Guq</a> <a href="https://t.co/czVJUvOpbs">https://t.co/czVJUvOpbs</a> <a href="https://twitter.com/hashtag/kamaladumpsterfire?src=hash&amp;ref_src=twsrc%5Etfw">#kamaladumpsterfire</a> plz <a href="https://twitter.com/hashtag/AskNasa?src=hash&amp;ref_src=twsrc%5Etfw">#AskNasa</a> what this is <a href="https://twitter.com/neiltyson?ref_src=twsrc%5Etfw">@neiltyson</a> u really in this shit? <a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> wit a <a href="https://twitter.com/12ozProphet?ref_src=twsrc%5Etfw">@12ozProphet</a> <a href="https://twitter.com/hashtag/acct?src=hash&amp;ref_src=twsrc%5Etfw">#acct</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@Normani</a> look what I found <a href="https://twitter.com/hashtag/yuma?src=hash&amp;ref_src=twsrc%5Etfw">#yuma</a> 😛🤢🤮 <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> <a href="https://twitter.com/hashtag/HBCU?src=hash&amp;ref_src=twsrc%5Etfw">#HBCU</a> how lazy are u? <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@usdol</a> <a href="https://t.co/9UydqGdmz1">pic.twitter.com/9UydqGdmz1</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1857140962742669747?ref_src=twsrc%5Etfw">November 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Mars Land Surveying : Rocks on Mars 
+### PIA26481: NASA's Perseverance Observes 'Observation Rock'
+Original Caption Released with Image:
+This natural-color, high-resolution mosaic showing "Observation Rock" was taken by the Mastcam-Z instrument on NASA's Perseverance as the rover climbed the western wall of Jezero Crater. The location is near an area the Perseverance science team is calling "Curtis Ridge."
 
-### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+The 14 frames used to generate the mosaic were acquired on Oct. 18, 2024, the 1,302nd Martian day, or sol, of Perseverance's mission. [NasaPhotoJournal](https://photojournal.jpl.nasa.gov/catalog/PIA26481) @nasa-jpl 
+[<img src="https://photojournal.jpl.nasa.gov/jpegMod/PIA26481_modest.jpg" alt="Rocks on mars" />](https://photojournal.jpl.nasa.gov/jpegMod/PIA26481_modest.jpg)
+
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
 
