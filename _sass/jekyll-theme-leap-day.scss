@@ -97,10 +97,8 @@ body {
       no-repeat 0 0 fixed;
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
     background-size: cover;
-  
     /* background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01046/ids/edr/browse/rcam/RRF_1046_0759804806_506ECM_N0495338RHAZ02420_01_295J01_800.jpg) no-repeat 0 0 fixed; */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
-  
     text-align: left;
     /* part 2 of 2 centering hack */
     voice-family: '"}"';
@@ -188,9 +186,7 @@ p:first-of-type {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row-reverse;
-      background: url(https://www.nasa.gov/wp-content/uploads/2018/10/parachute-16.gif);
-    background-size: cover;
-    background-attachment: fixed;
+    background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
   
   }
   .postLoop > * {
