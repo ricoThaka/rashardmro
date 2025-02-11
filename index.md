@@ -17,7 +17,16 @@ mermaid: true
 </ul>  
 </div> 
 
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls preload="none" 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
 
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 <style>
