@@ -4,19 +4,18 @@ title: Rashard Mars Reconnaissance Orbiter of NasaJPL
 mermaid: true
 ---
 
+<div class="postLoop">
+<ul>
+{% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+   </li>
+{% endfor %}
+</ul>  
+</div> 
 
-
-### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
-[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
-
-![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
-![Atladena](https://tile.loc.gov/storage-services/service/pnp/mrg/02100/02144v.jpg)
-![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
-[RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
-[UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
-
-  
  <div class="postLoop">
 <ul>
 {% for post in site.posts %}
@@ -29,15 +28,17 @@ mermaid: true
 </ul>  
 </div> 
 
-<ul>
-    {% for post in site.posts %}
-      <li>
-          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-      </li>
-    {% endfor %}
-</ul>
+### Mars Mission Objectives [MArs Reconnocinse Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+
+![NASAJPL_FiRE_Co](https://pbs.twimg.com/media/GipSxe7bYAAb9ta?format=jpg&name=large)
+![Atladena](https://tile.loc.gov/storage-services/service/pnp/mrg/02100/02144v.jpg)
+![ALTADENA](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17700/6a17744r.jpg)
+[RelatedTweet](https://x.com/BubbleGumPop626/status/1885410416156877044) [nassaJPLfire](https://x.com/BubbleGumPop626/status/1885409476796440876)
+[UnixProgrammingEnviornment](https://archive.org/download/UnixProgrammingEnviornment/UnixProgrammingEnviorment.txt)
+
+  
 
 [Loops and Collections - TUTORiAL:JEKYLL:CONTENTMANAGEMENT](https://carpentries-incubator.github.io/jekyll-pages-novice/arrays/index.html)
 
