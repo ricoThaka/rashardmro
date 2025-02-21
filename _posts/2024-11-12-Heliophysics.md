@@ -1,6 +1,6 @@
 ---
 layout: covid
-mermaid: true
+mermaid: false
 title:  "CovidDump"
 date:   2024-11-18 22:51:06 -0800
 published: true
