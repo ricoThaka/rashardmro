@@ -17,29 +17,19 @@ mermaid: true
 </ul>  
 </div> 
 
-### The Red Planet Mars
-An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
-<video controls preload="none" 
-  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
-  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
-
-  Sorry, your browser doesn't support embedded videos, but don't worry, you can
-  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
-  and watch it with your favorite video player!
-</video>
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 <style>
 svg  {width: 100%; height: auto;}
 </style>
 
-[![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
+[![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 # Chronology of discoveries of water on Mars
 To date, interplanetary spacecraft have provided abundant evidence of water on Mars, dating back to the Mariner 9 mission [Wiki](https://en.wikipedia.org/wiki/Chronology_of_discoveries_of_water_on_Mars)
@@ -156,6 +146,17 @@ maybe its good, idk but i wanna know we ok with eachother @blackgirlscode
     </div>
   </div>
 </div>
+
+### The Red Planet Mars
+An American scientist is able to contact and communicate with Mars with shattering political, economic, and spiritual repercussions. [imdb](https://www.imdb.com/title/tt0045073/)
+<video controls preload="none" 
+  src="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4"
+  poster="https://i.ebayimg.com/images/g/31cAAOSwu1VW6VuC/s-l1600.webp">
+
+  Sorry, your browser doesn't support embedded videos, but don't worry, you can
+  <a href="https://archive.org/download/the-red-planet-mars/the%20red%20planet%20mars.mp4">download it</a>
+  and watch it with your favorite video player!
+</video>
 
 
 # VoyaGer 
