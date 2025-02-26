@@ -116,7 +116,49 @@ body {
     max-width: 100%;
   }
 
+  .box {
+    width: 80%;
+    border: 1px solid #3DF28B;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
+  }
 
+  .box>* {
+    display: block;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    flex-shrink:1;
+    flex-grow:1;
+ 
+    
+          &:hover {
+        flex-grow: 3;
+        
+      }
+    }
+  
+  .box a:link {
+    
+    color: white;
+    
+  }
+
+  
 svg { width:100%;}
 .jumpmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #0dd9c4; color: #3df28b; border: #3df28b; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-weight: bold
   ;}

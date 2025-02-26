@@ -2,6 +2,28 @@
 layout: default
 ---
 
+<div class="postLoop">
+
+{% for post in site.posts %}
+   
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+   
+{% endfor %}
+ 
+</div> 
+
+<div class="postLoop">
+<ul>
+{% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
+
+   </li>
+{% endfor %}
+</ul>  
+</div> 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

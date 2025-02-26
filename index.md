@@ -6,7 +6,8 @@ mermaid: true
 
 ### Mars Mission Objectives [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
-<div class="postLoop">
+
+<div class="box">
 
 {% for post in site.posts %}
    
@@ -16,18 +17,6 @@ mermaid: true
 {% endfor %}
  
 </div> 
-
-<div class="postLoop">
-<ul>
-{% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h3>
-
-   </li>
-{% endfor %}
-</ul>  
-</div> 
-
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 <style>
