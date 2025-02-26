@@ -18,6 +18,10 @@ mermaid: true
  
 </div> 
 
+## Sol 4461: Mars Hand Lens Imager (MAHLI)
+Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
+![PENNY_ON_MARS](https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg)
+
 # Rashard Kelly NasaJpl MRO JUNO iSS
 <style>
 svg  {width: 100%; height: auto;}
