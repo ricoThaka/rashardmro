@@ -3,7 +3,7 @@ layout: post
 mermaid: true
 published: true
 title: Mars Tools
-image: mermaid.webp
+image: PIA26080_modest.jpg
 ---
 
 
