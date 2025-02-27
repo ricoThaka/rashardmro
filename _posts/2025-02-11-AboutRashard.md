@@ -5,3 +5,5 @@ published: true
 title: About Rashard
 image: rashardMRO.jpeg
 ---
+
+![MRO](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25354_mro_team_2016-06-23-web.jpg?w=1600&h=900&fit=clip&crop=faces%2Cfocalpoint)
