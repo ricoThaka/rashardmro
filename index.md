@@ -21,7 +21,15 @@ mermaid: true
 # Viking Project
 ![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
 ### OCCURRED 47 YEARS AGO
-NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html) 
+NASA's Viking Project found a place in history when it became the first U.S. mission to land a spacecraft safely on the surface of Mars and return images of the surface. [ReadMore](https://science.nasa.gov/mission/viking/) + [Viking Lander High Resolution Mosaics](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/hires.html)
+
+### PIA02985: Dust storm in the Thaumasia region of Mars
+#### Original Caption Released with Image:
+This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region on Mars. This large disturbance soon grew into the first global dust storm observed by the Viking Orbiters. This image was taken at 9:00 local time near perihelion when heating of Mars is at a maximum. The image is at 1400 km across and north is at 1:00. (Viking Orbiter 176B02).
+
+Image Credit:
+[NASA/JPL](https://github.com/customer-stories/jpl)
+
 
 ## Sol 4461: Mars Hand Lens Imager (MAHLI)
 Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
