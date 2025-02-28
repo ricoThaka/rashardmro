@@ -29,7 +29,7 @@ This Viking Orbiter 2 image shows a large dust storm over the Thaumasia region o
 
 Image Credit:
 [NASA/JPL](https://github.com/customer-stories/jpl)
-
+![p](https://photojournal.jpl.nasa.gov/jpeg/PIA02985.jpg)
 
 ## Sol 4461: Mars Hand Lens Imager (MAHLI)
 Most images acquired by MAHLI in daylight use the sun as an illumination source. However, in some cases, MAHLI's two groups of white light LEDs and one group of longwave ultraviolet (UV) LEDs might be used to illuminate targets [READMORE](https://mars.nasa.gov/raw_images/1436574/?site=msl) `Credits: NASA/JPL-Caltech/MSSS`
