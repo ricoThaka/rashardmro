@@ -308,10 +308,9 @@ p:first-of-type {
   .ic {
     filter: contrast(200%); }
 
-
-    img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
-
-  img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
+img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
+img[src*="Logo_of_the_United_States_Space_Force.png"] {width: 188px;padding: 4px;}
+img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
 img[src*="https://badge.fury.io"] {width: 100%;}
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 svg { width: max-content;

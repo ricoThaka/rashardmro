@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: true
-title: About Rashard
+title: RashardGDS
 image: rashardMRO.jpeg
 ---
 
