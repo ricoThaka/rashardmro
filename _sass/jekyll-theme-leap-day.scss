@@ -193,9 +193,11 @@ p:first-of-type {
     float: left;
     border-bottom: solid 10px #ffffff50;
   }
-   img {  max-height: 100%;
+
+img {  max-height: 100%;
     max-width: 100%;
-  display:block;}
+  display:block;
+}
 
   a {
     font-weight:400;
@@ -464,13 +466,7 @@ strong {
 
 
  
-.floatright img:nth-child(odd) {
-  float: right;
-}
-.floatleft img:nth-child(even) {
-  float: left;
-  border-bottom: solid 10px #ffffff50;
-}
+
 
 blockquote {
   border-left:1px solid #ffcc00;
