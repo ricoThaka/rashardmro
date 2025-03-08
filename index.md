@@ -18,6 +18,13 @@ mermaid: true
  
 </div> 
 
+
+# SPHEREx and PUNCH Launch
+Live coverage of the launch for SPHEREx, the agency’s newest telescope and its rideshare PUNCH, a mission to study the Sun’s solar wind. [6:15 pm PST Mar8th 2025](https://plus.nasa.gov/scheduled-video/spherex-and-punch-launch/) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
+
+<iframe width="912" height="513" src="https://www.youtube.com/embed/6o0q86RKL14?list=PLTiv_XWHnOZrfLibq-Y1t8T0V3DnSYNph" title="See the Spacecraft: SPHEREx Nears Launch (LIVE Q+A)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 # Viking Project
 ![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
 ### OCCURRED 47 YEARS AGO
