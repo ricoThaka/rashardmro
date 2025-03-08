@@ -6,6 +6,10 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+
+
+![airplane crashes in Empire State Building](https://pbs.twimg.com/media/GBq6J1Vb0AArVRX?format=jpg&name=large)
+[relatedTweet](https://x.com/RicoThaka/status/1736905294385725610)
 [Monthly Board Meeting - Dec 2, 2024](https://youtu.be/Fm4iNtnLR6s?t=3222) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS)
 
 <style>
