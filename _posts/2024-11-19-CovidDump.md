@@ -8,16 +8,7 @@ tags: covid
 ---
 
 
-<div class="box">
 
-{% for post in site.posts %}
-   
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-
-   
-{% endfor %}
- 
-</div> 
 # Covid BrainDumP
 
 # EUROPEAN PATENT SPECIFICATION
@@ -176,3 +167,14 @@ NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it wil
 <object type="application/pdf" data="https://europa.nasa.gov/internal_resources/379/ScienceInstruments_031422_Public.pdf" width="900" height="400"></object>                  
 
 https://www.nature.com/articles/d41586-024-03026-9
+
+<div class="box">
+
+{% for post in site.posts %}
+   
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+   
+{% endfor %}
+ 
+</div> 
