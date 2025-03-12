@@ -9,41 +9,14 @@ html {
 font-size: 1rem;
   font-family: "IBM Plex Sans", monospace;
 
-}
-p:first-of-type {
-   color:#3df28b; 
-  }
-  .floatright img:nth-child(odd) {
-    float: right;
-  }
-  .floatleft img:nth-child(even) {
-    float: left;
-    border-bottom: solid 10px #ffffff50;
-  }
-
-img {  max-height: 100%;
-    max-width: 100%;
-  display:block;
-}
-
-  a {
-    font-weight:400;
-    text-decoration:none;
-    color: #63c0f5;
-    text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-  }
-  a,
-  a:hover,
-  a:visited a:hover {
-    color: #c9ff23;
-    padding: 0px;
-    
-  }
   
-
+background: url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png) -237px 30px no-repeat fixed,
+linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
   
-background: url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png) -237px 30px no-repeat fixed;
-  background-position: 0 0;
+ 
+ 
+
+ background-position: 0 0;
    line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -59,21 +32,17 @@ body {
   color: white;
 }
 
-  .box {
+.box {
     width: 100%;
-    border: 1px solid #3DF28B;
     display: flex;
     flex-wrap: wrap;
-    margin: .1rem;
     background-attachment: fixed;
     justify-content: space-evenly;
     background-size: 100% auto;
     font-kerning: normal;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
-    background-size: 20% auto;
-
+    background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01429/ids/edr/browse/ncam/NRF_1429_0793807327_534ECM_N0691054NCAM03429_10_195J01_1200.jpg);
   }
 
   .box>* {
@@ -81,8 +50,9 @@ body {
     text-decoration: none;
     transition: all .2s ease-in-out;
     border: 1px solid #c9ff23;
-    padding: 1px;
-    margin: 1px;
+    padding: 3px;
+    border-radius: 2px;
+    margin:5px;
     background-color: #3DF28B20;
     transition: all .2s ease-in-out;
     flex-shrink:1;
@@ -108,7 +78,7 @@ body {
 img[src*="nasalogo_whitetext_redwing.svg"] {
   
   display: block;
-
+ 
  }
 
 a,
@@ -164,7 +134,7 @@ height: 400px;
 
 object {
 
-height: auto;
+height: 300px;
   width: 100%;
 
 }
@@ -177,7 +147,6 @@ h1, h2, h3 {
   columns: 2;
 
 }
-
 #content {
   
   border-radius: 31px 31px 31px 31px;
@@ -185,9 +154,8 @@ h1, h2, h3 {
   scrollbar-color: #595959 #262626;
   scrollbar-width: thin;
   padding: 25px;
-  height: 70vh;
+  height: 50vh;
   overflow-y: auto;
-  margin-top: 10px;
   margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto; 	
@@ -196,7 +164,10 @@ h1, h2, h3 {
   voice-family:inherit;
   box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
   background : #0D0D0D;
-    background-size: 30px 30px;
+  background-image :
+    linear-gradient(#262626 1px, transparent 0),
+    linear-gradient(90deg, #262626 1px, transparent 0), ;
+  background-size: 30px 30px;
     background-attachment: fixed;   
  background-image: 
    url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png),
@@ -206,46 +177,6 @@ background-size: cover;/*now this is known for the safari*/
 background-attachment: fixed;     
   
  
-
-
-
-blockquote {
-  border-left:1px solid #ffcc00;
-  margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
-  color: white;
-  text-shadow: rgba(255,255,255,1) 0px 0px 6px;
-}
-
-code {
-  font-family: 'Martian Mono', Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
-  font-size:13px;
-  color:#efefef;
-  text-shadow: 0px 1px 0px #000;
-  margin: 0 4px;
-  padding: 2px 6px;
-  background: #33333350;
-  border-radius: 2px;
-}
-
-pre {
-  padding:8px 15px;
-    border-radius: 3px;
-  border:1px solid #b5e853;
-  overflow: auto;
-  overflow-y: hidden;
-  background: transparent
-  url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
-  center repeat;
-  font: bold 14px/18px 'Martian Mono',Arial,  "Lucida Sans Unicode", verdana, lucida, sans-serif; 
-  color:white;
-  code {
-    margin: 0px;
-    padding: 0px;
-  }
-}
-
 
     }
 
@@ -293,7 +224,7 @@ p {
 
 video {
 
-  height: auto;
+  height: 30vh;
   width: 100%;
   display: block;
   margin-block: 10px 10px;

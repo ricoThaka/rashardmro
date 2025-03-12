@@ -22,7 +22,7 @@ mermaid: true
 [RelatedTwwt](https://x.com/RicoThaka/status/1899554951942357428)
 ![Me](https://pbs.twimg.com/media/GlySoS9WEAAsNem?format=jpg&name=medium)
 ![mycompterphone](https://pbs.twimg.com/media/GlySTNiakAAWO-m?format=png&name=medium) [Related](https://x.com/RicoThaka/status/1899554951942357428)
-@whitehouse 
+@whitehouse [twt](https://x.com/BubbleGumPop510/status/1718736155607466199)
 
 # Europa Clipper Camera Passes First Test in Space
 Soon after NASA's Europa Clipper spacecraft launched toward Jupiter's icy moon on Oct. 14, 2024, the mission team powered on each of the science instruments for a series of test or "checkout" activities. The Europa Imaging System – with its narrow-angle and wide-angle cameras – underwent its first checkouts in December 2024.
