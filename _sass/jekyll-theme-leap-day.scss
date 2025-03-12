@@ -27,6 +27,37 @@ body {
   color: white;
 }
 
+
+#content {
+  
+  border-radius: 31px 31px 31px 31px;
+  width: 80vw; 
+  scrollbar-color: #595959 #262626;
+  scrollbar-width: thin;
+  padding: 25px;
+  height: 70vh;
+  overflow-y: auto;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto; 	
+  border: 19px solid #262626;
+  text-align:left; 
+  voice-family:inherit;
+  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
+  background : #0D0D0D;
+    background-size: 30px 30px;
+    background-attachment: fixed;   
+ background-image: 
+   url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png);
+background-size: cover;/*now this is known for the safari*/
+background-attachment: fixed;     
+  
+ 
+
+    }
+
+
   .box {
     width: 100%;
     border: 1px solid #3DF28B;
@@ -44,7 +75,7 @@ body {
 
   }
 
-  .box>* {
+.box>* {
     display: block;
     text-decoration: none;
     transition: all .2s ease-in-out;
@@ -63,15 +94,16 @@ body {
       }
     }
   
-  .box a:link {
+.box a:link {
     
     color: white;
     
   }
 
-  .box a:hover {
+.box a:hover {
     transform: scale(1.3);
   }
+
 
 img[src*="nasalogo_whitetext_redwing.svg"] {
   
@@ -145,37 +177,6 @@ h1, h2, h3 {
   columns: 2;
 
 }
-
-#content {
-  
-  border-radius: 31px 31px 31px 31px;
-  width: 80vw; 
-  scrollbar-color: #595959 #262626;
-  scrollbar-width: thin;
-  padding: 25px;
-  height: 70vh;
-  overflow-y: auto;
-  margin-top: 10px;
-  margin-bottom: 40px;
-  margin-right: auto;
-  margin-left: auto; 	
-  border: 19px solid #262626;
-  text-align:left; 
-  voice-family:inherit;
-  box-shadow: rgba(38,38,38, 0.4) 5px 5px, rgba(38,38,38, 0.3) 10px 10px, rgba(38,38,38, 0.2) 15px 15px, rgba(38,38,38, 0.1) 20px 20px, rgba(38,38,38, 0.05) 25px 25px;
-  background : #0D0D0D;
-    background-size: 30px 30px;
-    background-attachment: fixed;   
- background-image: 
-   url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png),
-  
-linear-gradient(45deg, #2BFF88 0%, #2BD2FF 52%, #FA8BFF 90%);
-background-size: cover;/*now this is known for the safari*/
-background-attachment: fixed;     
-  
- 
-
-    }
 
 
 .animate.pop {
@@ -423,28 +424,6 @@ gradient-text {
   background: #DB362D;
 }
 
-.social-links {
-  border-bottom: solid 1px #DB362D;
-  margin-bottom: 15px;
-}
-.social-links li {
-  width: 25%;
-  border-left: solid 1px #DB362D;
-}
-.social-links li:first-child {
-  border: none;
-}
-.social-links a {
-  display: block;
-  height: 5.5em;
-  text-align: center;
-  color: white;
-  font: 0.75em/5.5em "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
-
-}
-.social-links a:hover {
-  color: #DB362D;
-}
 .list-hover-slide li {
   position: relative;
   overflow: hidden;
