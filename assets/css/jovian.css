@@ -10,8 +10,7 @@ font-size: 1rem;
   font-family: "IBM Plex Sans", monospace;
 
   
-background: url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png) -237px 30px no-repeat fixed,
-linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+background: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg) -237px 30px no-repeat fixed;
   
  
  
@@ -42,7 +41,7 @@ body {
     font-kerning: normal;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01429/ids/edr/browse/ncam/NRF_1429_0793807327_534ECM_N0691054NCAM03429_10_195J01_1200.jpg);
+    background: url(https://photojournal.jpl.nasa.gov/jpegMod/PIA00657_modest.jpg);
   }
 
   .box>* {
@@ -152,8 +151,7 @@ h1, h2, h3 {
   border-radius: 31px 31px 31px 31px;
   width: 80vw; 
   scrollbar-color: #595959 #262626;
-  scrollbar-width: thin;
-  padding: 25px;
+    padding: 25px;
   height: 50vh;
   overflow-y: auto;
   margin-bottom: 40px;
@@ -170,15 +168,10 @@ h1, h2, h3 {
   background-size: 30px 30px;
     background-attachment: fixed;   
  background-image: 
-   url(https://www.lroc.asu.edu/ckeditor_assets/pictures/1343/content_fip_point_persp.png),
-  
-linear-gradient(45deg, #2BFF88 0%, #2BD2FF 52%, #FA8BFF 90%);
+   url(https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg);
 background-size: cover;/*now this is known for the safari*/
 background-attachment: fixed;     
-  
- 
-
-    }
+ }
 
 
 .animate.pop {
