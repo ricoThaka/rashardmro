@@ -19,7 +19,7 @@ mermaid: true
 </div> 
 
 ## My phone was stolen
-[RelatedTwwt](https://x.com/RicoThaka/status/1899554951942357428)
+[RelatedTwt](https://x.com/RicoThaka/status/1899554951942357428)
 ![Me](https://pbs.twimg.com/media/GlySoS9WEAAsNem?format=jpg&name=medium)
 ![mycompterphone](https://pbs.twimg.com/media/GlySTNiakAAWO-m?format=png&name=medium) [Related](https://x.com/RicoThaka/status/1899554951942357428)
 @whitehouse [twt](https://x.com/BubbleGumPop510/status/1718736155607466199)
