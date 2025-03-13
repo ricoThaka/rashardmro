@@ -18,6 +18,46 @@ mermaid: true
  
 </div> 
 
+
+
+# Right Navigation Camera (Navcam) : Mars Perseverance Sol 1344 : 
+NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on Nov. 30, 2024 (Sol 1344) at the local mean solar time of 09:21:50.
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NRF_1344_0786241785_659ECM_N0630000NCAM14343_01_195J01_1200.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01344/ids/edr/browse/ncam/NLF_1344_0786241785_659ECM_N0630000NCAM14343_04_195J01_1200.jpg" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_07_195J01_1200.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+ <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg"><img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01327/ids/edr/browse/ncam/NLF_1327_0784746083_722ECM_N0620064NCAM02327_10_195J01_1200.jpg" alt=""> </a>
+        
+   </div>
+    </div>
+  </div>
+</div>
+
 ## My phone was stolen
 [RelatedTwt](https://x.com/RicoThaka/status/1899554951942357428)
 ![Me](https://pbs.twimg.com/media/GlySoS9WEAAsNem?format=jpg&name=medium)
@@ -219,11 +259,7 @@ An American scientist is able to contact and communicate with Mars with shatteri
 </video>
 
 
-# VoyaGer 
-![VOYAGER](https://pbs.twimg.com/media/GiBpHlFbIAA2ot_?format=png&name=900x900)
-![Voyager](https://pbs.twimg.com/media/GiBpcLQbwAAqJO_?format=png&name=900x900)
-![ATLAS_VOYAGER](https://pbs.twimg.com/media/GiBpPkSbYAEPUC4?format=jpg&name=large)
-[RElatedTweet](https://x.com/RicoThaka/status/1882620807152828812) [WhereIsVoyager](https://x.com/RicoThaka/status/1882620421193011326) [PDS_LiNK](https://pds-imaging.jpl.nasa.gov/beta/record?uri=atlas:pds4:vgr:voyager_1:/wenkert_pdart16_vgr_rav1ciun/data/qedr/vgr1/VGR_1223-MAMQTV-055590-DATA-055590.003.vic) [EarthWindMap](https://x.com/RicoThaka/status/1882617887422308863)
+
 
 # Mars Perseverance Sol 1396: Left Mastcam-Z Camera
 ![Sol 1396](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01396/ids/edr/browse/zcam/ZL0_1396_0790875467_206EBY_N0650000ZCAM04065_1100LMJ01_1200.jpg)
