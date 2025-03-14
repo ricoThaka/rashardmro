@@ -31,15 +31,15 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     column-fill: balance;
     word-break: break-all;
+    height: 100vh;
+    width: 100vw;
     }
 
 body {
 
-  height: 100vh;
-  width: 100vw;
+
 }
 
 .top-container {
@@ -81,9 +81,9 @@ section {
   display : block;
   flex-wrap: wrap;
   border-radius: 31px 31px 31px 31px;
+  border: 19px solid #DB362D;
   margin-top: 0px;
-  width: 80vw;
-  height: 50vh;
+  width: 85vh;
   padding: 0px;
   margin-bottom: 40px;
   margin-right: auto;
@@ -93,7 +93,7 @@ section {
   padding:5px;
 /* opera does not like 'margin:20px auto' */
 /* background: #666; */
-border: 19px solid #DB362D;
+
 background: url(https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04329/opgs/edr/ncam/NLB_781808042EDR_F1091998NCAM00354M_.JPG) no-repeat 0 0 fixed;
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
 background-size: cover;
