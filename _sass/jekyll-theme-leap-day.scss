@@ -119,7 +119,7 @@ section img {
 
 
   .box {
-    width: 50%;
+    width: 88%;
     display: flex;
     flex-wrap: wrap;
     background-attachment: fixed;
@@ -286,8 +286,8 @@ p:first-of-type {
 
     img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
 
-  img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;}
-img[src*="https://badge.fury.io"] {width: 100%;}
+  /* img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;} */
+/* img[src*="https://badge.fury.io"] {width: 100%;} */
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
 svg { width: max-content;
 display: inline-block; }
@@ -297,10 +297,10 @@ img[src*="img.shields.io/badge/Social"] {display: inline-block; float: none;}
     filter: contrast(50%); 
   }
   img[alt*="USGS"] {width: 100%;
-    border-bottom:solid 10px  #BF785E;}
+    border-bottom:solid 10px  #BF785E50;}
   /* matches selection in URL/src */
   img[src*="nasa.gov"] {width: 100%;
-    border-bottom:solid 10px  #c9ff23;}
+    border-bottom:solid 10px  #c9ff2350;}
   img[alt="kk"] {
     width: 100%;
     
