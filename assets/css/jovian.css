@@ -75,6 +75,31 @@ body {
     transform: scale(1.3);
   }
 
+
+
+
+  .tupperware > * {
+    border: 1px solid #c9ff23;
+    border-radius: 5px;
+    padding: 0px;
+    flex: 1 1 150px;
+    overflow: hidden;
+    }
+  
+  .tupperware {
+    display: flex;
+    flex-flow: row wrap; 
+    padding: 15px;
+    gap: 5px;
+    margin: auto;
+    height: 400px;
+  }
+  
+  .tupperware img {
+    width: 100%;
+  }
+
+  
 img[src*="nasalogo_whitetext_redwing.svg"] {
   
   display: block;
