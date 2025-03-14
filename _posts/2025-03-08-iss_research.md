@@ -1,6 +1,7 @@
 
 
-
+# Spot The Station
+[Schedule](https://spotthestation.nasa.gov/)
 
 [flyover complete mar7](https://x.com/RicoThaka/status/1898367379656085867) I was going to embed my video, it got a little personal, but hey im still getting organized! Someone disabled my archive upload at the library and im almost out of time [We Need more Mobile  Life Support](https://x.com/RicoThaka/status/1898380902025105732) . . . hi i have notes in [ThisTweet](https://x.com/RicoThaka/status/1898359489927012434) 
 `@Space_Station u guys moved slow and red there was another red object that did like a 4 like line at another altitude `
