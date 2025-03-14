@@ -118,17 +118,22 @@ section img {
   }
 
 
+
   .box {
-    width: 88%;
+    width: 80%;
+    border: 1px solid #3DF28B;
     display: flex;
     flex-wrap: wrap;
+    margin: .1rem;
     background-attachment: fixed;
     justify-content: space-evenly;
     background-size: 100% auto;
     font-kerning: normal;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
-    background: url(https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01429/ids/edr/browse/ncam/NRF_1429_0793807327_534ECM_N0691054NCAM03429_10_195J01_1200.jpg);
+    background: url(https://mars.nasa.gov/msl-raw-images/msss/04461/mhli/4461MH0003720011601746C00_DXXX.jpg);
+    background-size: 20% auto;
+    background-attachment: fixed;
   }
 
   .box>* {
@@ -136,9 +141,8 @@ section img {
     text-decoration: none;
     transition: all .2s ease-in-out;
     border: 1px solid #c9ff23;
-    padding: 3px;
-    border-radius: 2px;
-    margin:5px;
+    padding: 1px;
+    margin: 1px;
     background-color: #3DF28B20;
     transition: all .2s ease-in-out;
     flex-shrink:1;
@@ -156,11 +160,6 @@ section img {
     color: white;
     
   }
-
-  .box a:hover {
-    transform: scale(1.3);
-  }
-
 
 svg { width:100%;}
 .jumpmenu {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #0dd9c4; color: #3df28b; border: #3df28b; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-weight: bold
