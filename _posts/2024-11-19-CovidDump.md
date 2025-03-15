@@ -11,6 +11,9 @@ tags: covid
 
 # Covid BrainDumP
 
+
+# Covid Mental Roster?
+[TheWeekNd?](https://x.com/RicoThaka/status/1730823586204799197)
 # EUROPEAN PATENT SPECIFICATION
 <object type="application/pdf" data="https://patentimages.storage.googleapis.com/1d/4e/4a/ac8914e765d645/EP3172319B1.pdf" width="900" height="400"></object> 
 # Covid
