@@ -536,3 +536,5 @@ END
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+![NAtionality @blackgirlscode](https://pbs.twimg.com/media/GmGVR8ebAAACXkY?format=jpg&name=large)
