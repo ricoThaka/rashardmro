@@ -91,7 +91,7 @@ body {
     flex-flow: row wrap; 
     padding: 15px;
     gap: 5px;
-    margin: auto;
+    margin: 10px;
     height: 400px;
   }
   
@@ -99,7 +99,7 @@ body {
     width: 100%;
   }
 
-  
+
 img[src*="nasalogo_whitetext_redwing.svg"] {
   
   display: block;
@@ -116,6 +116,7 @@ a:visited a:hover {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  display: inline-block;
 }
 
 /* contentDiv */
