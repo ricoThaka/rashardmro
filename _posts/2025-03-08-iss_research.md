@@ -2,6 +2,7 @@
 
 # Spot The Station
 [Schedule](https://spotthestation.nasa.gov/)
+[Uncovering the Secrets of the International Space Station (Full Episode)  Superstructures @natgeosociety](https://www.youtube.com/watch?v=Ei-TcECJVXU)
 
 ![RASHARD_KELLY](https://pbs.twimg.com/media/GjxYDuyaMAA0djB?format=jpg&name=large) [Related](https://x.com/RicoThaka/status/1890482876858167405)
 ### ApprovedApps
