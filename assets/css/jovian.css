@@ -37,7 +37,7 @@ img:nth-child(odd) {
 }
 img:nth-child(even) {
   float: left;
-  border-bottom: solid 10px #ffffff50;
+
 }
 
 .box {
@@ -48,7 +48,7 @@ img:nth-child(even) {
     justify-content: space-evenly;
     background-size: 100% auto;
     font-kerning: normal;
-    border-radius: 2px;
+    border-radius: 4px;
     letter-spacing: .2rem;
     font: bold 10px/18px verdana, lucida, sans-serif;
     background: url(https://noirlab.edu/public/media/archives/images/large/noirlab2116a.jpg);
@@ -188,11 +188,12 @@ h1, h2, h3 {
   width: 80vw; 
   scrollbar-color: #595959 #262626;
     padding: 25px;
-  height: 50vh;
+  height: 60vh;
   overflow-y: auto;
   margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto; 	
+  margin-top: 25px;
   border: 19px solid #262626;
   text-align:left; 
   voice-family:inherit;
