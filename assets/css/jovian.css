@@ -31,6 +31,15 @@ body {
   color: white;
 }
 
+
+img:nth-child(odd) {
+  float: right;
+}
+img:nth-child(even) {
+  float: left;
+  border-bottom: solid 10px #ffffff50;
+}
+
 .box {
     width: 100%;
     display: flex;

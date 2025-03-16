@@ -18,7 +18,7 @@ mermaid: true
  
 </div> 
 
-
+[Target pole/equ : IAU_MARS horizons_results.txt](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/horizons_results.txt) [CloudMobile_C7 BlogPoston ./compiling](https://ricothaka.github.io/compiling/cloudMobile-Sratus-C7) [EarthWater Resources an Condititons](https://ricothaka.github.io/compiling/WaterWerkS) [LoS Angeles River](https://ricothaka.github.io/compiling/The-Losangeles-River)
 
 # Right Navigation Camera (Navcam) : Mars Perseverance Sol 1344 : 
 NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
