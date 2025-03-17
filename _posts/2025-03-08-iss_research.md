@@ -1,5 +1,9 @@
 
 
+
+[AMG JOB](https://x.com/RicoThaka/status/1901769189653926187)
+
+[Research i need to compile here](https://ricothaka.github.io/compiling/The-Iss-Research)
 # Spot The Station
 [Schedule](https://spotthestation.nasa.gov/)
 [Uncovering the Secrets of the International Space Station (Full Episode)  Superstructures @natgeosociety](https://www.youtube.com/watch?v=Ei-TcECJVXU)
