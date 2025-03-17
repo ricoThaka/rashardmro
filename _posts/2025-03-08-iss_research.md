@@ -1,6 +1,6 @@
 
 
-
+https://earthobservatory.nasa.gov/features/BlueMarble
 [AMG JOB](https://x.com/RicoThaka/status/1901769189653926187)
 
 [Research i need to compile here](https://ricothaka.github.io/compiling/The-Iss-Research)
