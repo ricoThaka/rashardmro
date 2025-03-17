@@ -1,7 +1,7 @@
 ---
 layout: post
 mermaid: true
-published: false
+published: true
 image: dilbertworklog.webp
 ---
 
