@@ -10,7 +10,8 @@
 
 [ECOSTRESS - commute Tweet](https://x.com/RicoThaka/status/1835053132394717537) [DigitalRealty](https://x.com/RicoThaka/status/1879959480160731391) [EMiT](https://x.com/RicoThaka/status/1890483895797211532)
 ---
-
+[TutorialFiles](https://x.com/RicoThaka/status/1882203952944730255) [MoreMaps! FirMS KML](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml)
+[LosAngelesFire](https://x.com/RicoThaka/status/1882206772829766132) [GoogleEarth](https://earth.google.com/web/@0,-0.3811001,0a,22251752.77375655d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggBSg0I____________ARAA) [KML_ViEWER -https://kmlviewer.nsspot.net/ -](https://kmlviewer.nsspot.net/) [BurningHills](https://x.com/RicoThaka/status/1882197967530242306)
 
 [flyover complete mar7](https://x.com/RicoThaka/status/1898367379656085867) I was going to embed my video, it got a little personal, but hey im still getting organized! Someone disabled my archive upload at the library and im almost out of time [We Need more Mobile  Life Support](https://x.com/RicoThaka/status/1898380902025105732) . . . hi i have notes in [ThisTweet](https://x.com/RicoThaka/status/1898359489927012434) 
 `@Space_Station u guys moved slow and red there was another red object that did like a 4 like line at another altitude `
