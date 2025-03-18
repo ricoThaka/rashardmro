@@ -7,7 +7,7 @@ image: pentagon.jpg
 ---
 
 
-
+[PARSE](https://x.com/RicoThaka/status/1901702469522174261) [LiVECAM](https://x.com/RicoThaka/status/1901699818852139077) [Job Posting mercedes-benz](https://x.com/RicoThaka/status/1901695363435954390)
 ![airplane crashes in Empire State Building](https://pbs.twimg.com/media/GBq6J1Vb0AArVRX?format=jpg&name=large)
 [relatedTweet](https://x.com/RicoThaka/status/1736905294385725610)
 [Monthly Board Meeting - Dec 2, 2024](https://youtu.be/Fm4iNtnLR6s?t=3222) [![Twitter Follow](https://img.shields.io/badge/Social-BOEAPS__-blue?style=social&logo=X)](https://twitter.com/BOEAPS)
