@@ -6,6 +6,7 @@ title: RashardGDS
 image: rashardMRO.jpeg
 ---
 
+![BLUEGHOST](https://pbs.twimg.com/media/GmMujkuXUAAjqbr?format=png&name=900x900) [Related](https://x.com/Firefly_Space/status/1901414669677449256)
 [Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/)
 
 [TutorialFiles](https://x.com/RicoThaka/status/1882203952944730255) [MoreMaps! FirMS KML](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-kml)

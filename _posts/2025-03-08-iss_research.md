@@ -1,5 +1,11 @@
 
 
+
+[Related](https://x.com/BubbleGumPop626/status/1901803181908324374) [SPLASHDOWNMAP](https://x.com/NASA/status/1902026214220415319)
+# Apollo 9's Return on March 13, 1969
+The Apollo 9 spacecraft, with astronauts James A. McDivitt, David R. Scott, and Russell L...[ReadMore](https://www.flickr.com/photos/nasacommons/53564608052/)
+![SPLASHDOWN1969](https://live.staticflickr.com/65535/53564608052_426bab3b78_h.jpg)
+
 https://earthobservatory.nasa.gov/features/BlueMarble
 [AMG JOB](https://x.com/RicoThaka/status/1901769189653926187)
 
