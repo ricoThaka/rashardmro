@@ -9,6 +9,9 @@ image: rashardMRO.jpeg
 # Exploration Ground Data Systems (xGDS) v1
 Software to support science operations, including tools for planning, monitoring, visualization, documentation, analysis, and search. [(ARC-17174-1)](https://software.nasa.gov/software/ARC-17174-1) :: [A Brief Guide to the F´ Ground Data System](https://nasa.github.io/fprime/UsersGuide/gds/gds-introduction.html)
 
+
+[Port Of Longbeach tweets](https://x.com/BubbleGumPop510/status/1902772972303290612) [JPL](https://x.com/BubbleGumPop510/status/1902130520106164671) [OUTAGES](https://x.com/BubbleGumPop626/status/1901803181908324374)
+
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Earth?src=hash&amp;ref_src=twsrc%5Etfw">#Earth</a> <a href="https://twitter.com/NASA_Astronauts?ref_src=twsrc%5Etfw">@NASA_Astronauts</a> <a href="https://twitter.com/hashtag/WelcomeHome?src=hash&amp;ref_src=twsrc%5Etfw">#WelcomeHome</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> <a href="https://twitter.com/hashtag/Ground_n_Flight_Datasystems?src=hash&amp;ref_src=twsrc%5Etfw">#Ground_n_Flight_Datasystems</a> . . . <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@usdol</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://t.co/j5AhATD2AE">https://t.co/j5AhATD2AE</a> <a href="https://t.co/lXUDd0rp9U">pic.twitter.com/lXUDd0rp9U</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1902117989383860506?ref_src=twsrc%5Etfw">March 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -28,3 +31,29 @@ Software to support science operations, including tools for planning, monitoring
 [Nasa/podaac_tools_and_services](https://github.com/nasa/podaac_tools_and_services)
 [EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources)
 ![MRO](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25354_mro_team_2016-06-23-web.jpg?w=1600&h=900&fit=clip&crop=faces%2Cfocalpoint)
+
+
+```
+********************************************************************************
+
+                         U.S. GOVERNMENT COMPUTER
+
+This US Government computer is for authorized users only.  By accessing this
+system you are consenting to complete monitoring with no expectation of privacy.
+Unauthorized access or use may subject you to disciplinary action and criminal
+prosecution.
+
+Attention user: You are downloading data from NASA's Land Processes Distributed
+Active Archive Center (LP DAAC) located at the USGS Earth Resources Observation and
+Science (EROS) Center.
+
+This data is open to the public and browse images are freely available without
+restriction.  Satellite data products may require a NASA Earthdata Login username
+and password.  To obtain a NASA Earthdata Login account, please visit
+https://urs.earthdata.nasa.gov/users/new/.
+
+For more information about the data you are downloading, including documentation
+and how to properly cite the data, please visit https://lpdaac.usgs.gov/.
+
+********************************************************************************
+```

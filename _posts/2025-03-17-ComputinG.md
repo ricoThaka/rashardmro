@@ -14,7 +14,8 @@ image: computing
   <img src="https://pbs.twimg.com/media/GmgKCcRaEAE8gFU?format=jpg&name=small" alt="photo" />
 </picture>
 
-
+![book](https://pbs.twimg.com/media/GmW2PjVbMAAITB2?format=jpg&name=4096x4096)
+[Related](https://x.com/BubbleGumPop510/status/1902126966079418396)
 # AT&T Archives: The UNIX Operating System
 @nasa @nasa-jpl @blackgirlscode @normani I forked the Linux Kernel for M_R_O Jamie, we can build from this if we are to remain [heterogeneuos](https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity) `/ˌhedərəˈjēnēəs/`  @whitehouse 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=dgjIU-Lykc63CG98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

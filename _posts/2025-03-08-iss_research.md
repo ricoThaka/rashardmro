@@ -1,6 +1,11 @@
 
 
+# ECOSTRESS DATA 
+![ECOSTRESS](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.03.19/AST_L1T_00303182025000621_20250319113356_51927_BR.2.VNIR.jpg)
+[WorkTweet](https://x.com/RicoThaka/status/1902430516462465456) [EcoStressWork](https://x.com/RicoThaka/status/1902540648122872177)
 
+
+![ECOSTRess dataDir](https://pbs.twimg.com/media/Gmcujs1a8AAqCUZ?format=jpg&name=large)
 [Related](https://x.com/BubbleGumPop626/status/1901803181908324374) [SPLASHDOWNMAP](https://x.com/NASA/status/1902026214220415319)
 # Apollo 9's Return on March 13, 1969
 The Apollo 9 spacecraft, with astronauts James A. McDivitt, David R. Scott, and Russell L...[ReadMore](https://www.flickr.com/photos/nasacommons/53564608052/)
