@@ -237,11 +237,11 @@ p:first-of-type {
     padding: 15px;
     gap: 5px;
     margin: auto;
-    height: 400px;
+    max-height: min-content;
   }
   
   .tupperware img {
-    width: 100%;
+    max-width: 100%;
   }
   
   .paginator {
