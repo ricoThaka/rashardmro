@@ -6,7 +6,8 @@ title: RashardGDS
 image: rashardMRO.jpeg
 ---
 
-
+# Exploration Ground Data Systems (xGDS) v1
+Software to support science operations, including tools for planning, monitoring, visualization, documentation, analysis, and search. [(ARC-17174-1)](https://software.nasa.gov/software/ARC-17174-1) :: [A Brief Guide to the F´ Ground Data System](https://nasa.github.io/fprime/UsersGuide/gds/gds-introduction.html)
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/Earth?src=hash&amp;ref_src=twsrc%5Etfw">#Earth</a> <a href="https://twitter.com/NASA_Astronauts?ref_src=twsrc%5Etfw">@NASA_Astronauts</a> <a href="https://twitter.com/hashtag/WelcomeHome?src=hash&amp;ref_src=twsrc%5Etfw">#WelcomeHome</a> -<a href="https://twitter.com/hashtag/rashard?src=hash&amp;ref_src=twsrc%5Etfw">#rashard</a> <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasaJPL</a> <a href="https://twitter.com/hashtag/Ground_n_Flight_Datasystems?src=hash&amp;ref_src=twsrc%5Etfw">#Ground_n_Flight_Datasystems</a> . . . <a href="https://twitter.com/USDOL?ref_src=twsrc%5Etfw">@usdol</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://t.co/j5AhATD2AE">https://t.co/j5AhATD2AE</a> <a href="https://t.co/lXUDd0rp9U">pic.twitter.com/lXUDd0rp9U</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1902117989383860506?ref_src=twsrc%5Etfw">March 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -186,7 +186,7 @@ margin: 20px;
 display:block;}
 
 p:first-of-type {
-   color:#3df28b; 
+   color:#8bffbd; 
   }
   .floatright img:nth-child(odd) {
     float: right;
@@ -195,9 +195,13 @@ p:first-of-type {
     float: left;
     border-bottom: solid 10px #ffffff50;
   }
-   img {  max-height: 100%;
-    max-width: 100%;
-  display:block;}
+
+img {
+
+  max-height: min-content;
+  max-width: 100%;
+  display: block;
+}
 
   a {
     font-weight:400;
@@ -283,8 +287,8 @@ p:first-of-type {
     filter: contrast(200%); }
 
 
+    img[src*="ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif"] {width: 25%;padding: 4px;}
     img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
-
   /* img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;} */
 /* img[src*="https://badge.fury.io"] {width: 100%;} */
 img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}

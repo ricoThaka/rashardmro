@@ -18,6 +18,21 @@ mermaid: true
  
 </div> 
 
+### This image was acquired on March 18, 2025 (Sol 1449) at the local mean solar time of 11:05:40.
+[NASA's Mars Perseverance rover](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/) acquired this image using its onboard Left Navigation Camera (Navcam). [The camera](https://www.youtube.com/watch?v=4czjS9h4Fpg) is located high on the rover's mast and aids in driving. [LANDiNG airborne-sys.com](https://airborne-sys.com/2021/02/23/mars-perseverance-raw-images/) [Gallery of raw images received from the Mars Perseverance Rover - REDDit r/nasa @nasa @nasa-jpl](https://www.reddit.com/r/nasa/comments/ln0c46/gallery_of_raw_images_received_from_the_mars/?rdt=52431) [Sample Rocks](https://youtu.be/PPgFKZvfMUU)
+[M.A.R.S: Martian Advanced Renewable Systems - GATECH](https://vip.gatech.edu/teams/vvd)
+
+### OBJECTIVE
+Seek signs of ancient life and collect samples of rock and regolith for possible Earth return [Mars2020 on Pinterest](https://www.pinterest.com/noahzegna/perseverance-raw-images/)
+[<img src="https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01449/ids/edr/browse/ncam/NLF_1449_0795569513_633ECM_N0700000NCAM00501_01_295J01_1200.jpg" alt="" />](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01449/ids/edr/browse/ncam/NLF_1449_0795569513_633ECM_N0700000NCAM00501_01_295J01_1200.jpg)
+
+![linux](https://raw.githubusercontent.com/ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif)
+@nasa @nasa-jpl i started a repo to build my own distros with [ricothaka/linux](https://ricothaka.github.io/linux/) thats just a frontend but the codebase is linked and full of really good documentation [LinuxDocs](https://github.com/ricoThaka/linux/blob/master/Documentation/filesystems/smb/cifsroot.rst). Im going to read [TheLibrary](https://www.lapl.org/sites/default/files/press/2022/pdfs/12-6-22-lapl-inclusion-release.pdf) documentation and see how i can get a laptop or a cellphone i code remotely on or run my own builds with thier tracking software to keep the machines safe. The virtual machine i template i was working on dont have to be touched, if i know what a barebones kernel runs like #GroundDataSystems will be that much more stable! 
+![lfs](https://www.linuxfromscratch.org/images/lfs-logo.png)
+Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
+![BASH](https://bashlogo.com/img/logo/svg/full_colored_light.svg)
+
+
 [Solid Steel Radio Show: Mixed by DK, Strictly Kev, PC, The Butch Cassidy Sound System (Nov 22, 2004)](https://youtu.be/e_N4TYS1l60?t=4509) [Solid Steel presents DJ Food & DK - "Now, Listen!" (full mixed CD)](https://www.youtube.com/watch?v=7z32WnNxDUY)
 [Atlas - Plaetary Data System](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3A%22viking%20orbiter%22&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=72)
 [Target pole/equ : IAU_MARS horizons_results.txt](https://github.com/ricoThaka/rashardmro/blob/master/assets/pl0ts/horizons_results.txt) [CloudMobile_C7 ANDROiD BlogPoston ./compiling](https://ricothaka.github.io/compiling/cloudMobile-Sratus-C7) + [Linuxing](https://ricothaka.github.io/compiling/The-2025-Los-Angeles-Fires) [EarthWater Resources an Condititons](https://ricothaka.github.io/compiling/WaterWerkS) [LoS Angeles River](https://ricothaka.github.io/compiling/The-Losangeles-River) [My Wife Abandoned ME](https://ricothaka.github.io/compiling/ErikasAbandonment) [Los Angelesfires 2025 Blogpost on Compiling](https://ricothaka.github.io/compiling/The-2025-Los-Angeles-Fires)

@@ -21,6 +21,17 @@ image: computing
 <img src="https://pbs.twimg.com/media/GltNetVXYAEvWEU?format=jpg&name=medium" />
 </div>
 
+<article>
+# Android as a Linux device
+<video controls src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4" poster="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/717bdfc9eefe7dc338019b841635c555798a6edc/unixing/db0734b6-b4e2-4e28-be1b-30dff5fb66e05450003096811573599.jpg" width="100%">
+        Sorry, your browser doesn't support embedded videos, but don't worry, you can
+        <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/video/gpfNLfVwUjnY2NBJ.mp4">download it</a>
+        and watch it with your favorite video player!
+      </video>
+
+</article>
+
+
 # CloudMobile_c7
 ### The Durant_Library garbagepail find
 I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone [ReadMore BLOGPost on /compiling](https://ricothaka.github.io/compiling/cloudMobile-Sratus-C7) 
