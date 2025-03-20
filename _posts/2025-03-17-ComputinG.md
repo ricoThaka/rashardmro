@@ -5,6 +5,22 @@ published: true
 image: computing
 ---
 
+
+
+# AT&T Archives: The UNIX Operating System
+@nasa @nasa-jpl @blackgirlscode @normani I forked the Linux Kernel for M_R_O Jamie, we can build from this if we are to remain [heterogeneuos](https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity) `/ˌhedərəˈjēnēəs/`  @whitehouse 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tc4ROCJYbm0?si=dgjIU-Lykc63CG98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Ed Tutorial on the dev site 
+
+[Discovering ed: the gnu editor](https://ricothaka.github.io/GNU-ed)
+![gnu_ED on rikothaka.github.io](https://pbs.twimg.com/media/GlehG1bbwAEIUCA?format=jpg&name=large)
+
+<div class="tupperware">
+<img src="https://pbs.twimg.com/media/GltNetaXIAAJ87e?format=jpg&name=medium" />
+<img src="https://pbs.twimg.com/media/GltNetVXYAEvWEU?format=jpg&name=medium" />
+</div>
+
 # CloudMobile_c7
 ### The Durant_Library garbagepail find
 I got really comfortable coding and making github commits to the point i never felt offline. A guy was wierdly waiting for the power outlet at Grand Molina park in downtown los angeles, and i really think he put me to sleep and stole it. I completed an episode of Johnny Quest and left satisfied as my phone hit 100%. Judging by his air he know ppl from magic at the very least bc he had very little respect asking if both outlets were being used. I woke up it was gonr, my backpack was stolen today. Im so confused in so many directions bc since the body is made up of mostly water its a big old magnet! So the object you carry hold magnitism like your own. ITs not as bad as losing my daughter, but i get the displacement when her mother started having sex with other men. We had trouble walking, its like the ground was moving at times, When this phone got stolen I experianced those feelings again so I know me an my child had a good charge. I miss her so much. Imma leave some #MemorialTweets It was a good phone [ReadMore BLOGPost on /compiling](https://ricothaka.github.io/compiling/cloudMobile-Sratus-C7) 
