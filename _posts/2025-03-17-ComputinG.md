@@ -5,6 +5,14 @@ published: true
 image: computing
 ---
 
+# Monitoring Options
+![BigBrother](https://pbs.twimg.com/media/GmgKfUaaEAEYbY5?format=png&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1902782598390468858) [FamilyCellular](https://x.com/RicoThaka/status/1902782001645756819)
+<picture>
+  <source srcset="https://pbs.twimg.com/media/GmgKCcRaEAE8gFU?format=jpg&name=small" type="image/jpeg" />
+  <source srcset="https://www.it.uc3m.es/bb/gifs/bb-diag.gif" type="image/gif" />
+  <img src="https://pbs.twimg.com/media/GmgKCcRaEAE8gFU?format=jpg&name=small" alt="photo" />
+</picture>
 
 
 # AT&T Archives: The UNIX Operating System
