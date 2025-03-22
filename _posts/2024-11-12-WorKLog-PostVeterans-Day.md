@@ -5,7 +5,71 @@ published: true
 image: dilbertworklog.webp
 ---
 
+<style>
+
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 30%;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.tupperware img {
+  width: 100%;
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+ </style>
+
 # [<~ BACK!](./)
+
+
+
+<div class="tupperware">
+ 
+<figure>
+ <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+</figure>
+
+
+
+</div>
 
 # Astronomy: Mars LandSurveying @whitehouse
 i found a crater with a strange texture! and wanted to share it
