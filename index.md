@@ -35,7 +35,6 @@ im using some test code here that is not passing the @w3c validator i talked abo
 .parent-rule Parse Error &:hover { /* child rule properties */ }
 .box > *Parse Error &:hover { transform: scale(1.5); }
 ```
-</style>
 
 
 <style>
