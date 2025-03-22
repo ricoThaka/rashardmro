@@ -113,7 +113,7 @@ overflow-y: auto;
 
 
 section img {
-  max-height: auto;
+  max-height: 500px;
   max-width: 100%;
   }
 
@@ -907,15 +907,11 @@ video {
   /*  transition: 4s cubic-bezier(.25,.1,.2,3); */
 }
 
-embed {
-  
-  width: 100%;
-min-height: max-content;
-}
 
-iframe {
+iframe embed {
   margin:0px;
   width: 100%;
+  min-height: max-content;
 }
 
 
