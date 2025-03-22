@@ -17,6 +17,85 @@ mermaid: true
 {% endfor %}
  
 </div> 
+# Web Standards
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px;float:right"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+I always took my web development seriously. I was a [webmonkey.com](https://web.archive.org/web/19990202221137/http://www.hotwired.com/webmonkey/) reader, i followed [lifehacker](https://web.archive.org/web/20050630084617/http://www.lifehacker.com/). Im activly creating trackable work for my role @nasa-jpl. Since [The Space Station](https://spotthestation.nasa.gov/) accesses my data at times i have to be realistic that i dont know the expanse of possibilities i could run into transmitting data. If the browser can accept the connection let it be worth the wait no matter the [surface](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag) [RelatedTweet @nasa-jpl](https://x.com/RicoThaka/status/1903512941821047155) [Related - Muna Ahmed Closure?](https://x.com/RicoThaka/status/1903510020509331525) [Schema.ORg Checks on `/rashardmro`](https://x.com/RicoThaka/status/1903507371269493031) [Failed checks on DEV=-ricothaka.github.io](https://x.com/RicoThaka/status/1903504871678177366)
+
+im using some test code here that is not passing the @w3c validator i talked about it on [MozillaTwitter](https://x.com/RicoThaka/status/1903555421530722309) [This Article says to use it @mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting#invalid_nested_style_rules) [& nesting selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Nesting_selector)
+
+```css
+.parent-rule Parse Error &:hover { /* child rule properties */ }
+.box > *Parse Error &:hover { transform: scale(1.5); }
+```
+</style>
+
+.tupperware > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 30%;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.tupperware {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.tupperware img {
+  width: 100%;
+}
+
+.tupperware figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+ </style>
+
+
+<div class="box" markdown="1">
+<figure>
+ <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
+ <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+</figure>
+ 
+</div>
+
+
+
 
 ### This image was acquired on March 18, 2025 (Sol 1449) at the local mean solar time of 11:05:40.
 [NASA's Mars Perseverance rover](https://www.jpl.nasa.gov/missions/mars-2020-perseverance-rover/) acquired this image using its onboard Left Navigation Camera (Navcam). [The camera](https://www.youtube.com/watch?v=4czjS9h4Fpg) is located high on the rover's mast and aids in driving. [LANDiNG airborne-sys.com](https://airborne-sys.com/2021/02/23/mars-perseverance-raw-images/) [Gallery of raw images received from the Mars Perseverance Rover - REDDit r/nasa @nasa @nasa-jpl](https://www.reddit.com/r/nasa/comments/ln0c46/gallery_of_raw_images_received_from_the_mars/?rdt=52431) [Sample Rocks](https://youtu.be/PPgFKZvfMUU)
