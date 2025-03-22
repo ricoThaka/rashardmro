@@ -79,7 +79,7 @@ im using some test code here that is not passing the @w3c validator i talked abo
  </style>
 
 
-<div class="box" markdown="1">
+<div class="tupperware" markdown="1">
 <figure>
  <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
  <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
