@@ -8,37 +8,74 @@ image: dilbertworklog.webp
 <style>
 
 
-.tupperware > * {
-  border: 1px solid #c9ff23;
-  border-radius: 5px;
-  padding: 0px;
-  flex-basis: 30%;
-  flex-shrink:2;
-  flex-grow:1;
-  overflow: hidden;
-  transition: all 300ms ease-in-out;
+
+
+  .box>* {
+    display: block;
+    color: white;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+    border: 1px solid #c9ff23;
+    padding: 1px;
+    margin: 1px;
+    background-color: #3DF28B20;
+    transition: all .2s ease-in-out;
+    word-break: break-all;
+    
+
+            
+             
+          
+    flex: 1 1 0;
+ 
+    
+          &:hover {
+   flex-grow: 2;          transform: scale(1.5);
+            
+            
+       
+        
+      }
+    
+    }
   
-  &:hover {
-    flex-grow: 9.3;
+
+
+  .box {
+    width: 80%;
+    background-color: #22222290;
+    border: 1px solid #3DF28B;
+    word-break: break-all;
+    display: flex;
+    flex-wrap: wrap;
+    margin: .1rem;
+    background-attachment: fixed;
+    justify-content: space-evenly;
+    align-items: stretch;
+    background-size: 100% auto;
+    font-kerning: normal;
+    letter-spacing: .2rem;
+    font: bold 10px/18px  verdana, lucida, sans-serif;
+    
+    
+
+  }
+
+  .box a:link {
+    
+    color: white;
     
   }
-}
 
+   .box figure img { 
+              max-width: 350px;
+  max-height: auto; 
+            max-width:auto;
+            display: inline; 
+            margin: auto; 
+        } 
 
-.tupperware {
-  display: flex;
-  justify-content: space-evenly;
-  flex-flow: row wrap; 
-  padding: 15px;
-  gap: 5px;
-  height: auto;
-}
-
-.tupperware img {
-  width: 100%;
-}
-
-.tupperware figcaption {
+figcaption {
   background-color: #22222290;
   color: #fff;
   font: bold small sans-serif;
@@ -46,15 +83,26 @@ image: dilbertworklog.webp
   text-align: center;
 }
 
+
  
  </style>
 
 # [<~ BACK!](./)
 
 
+# Web Standards
+I always took my web development seriously. I was a [webmonkey.com](https://web.archive.org/web/19990202221137/http://www.hotwired.com/webmonkey/) reader, i followed [lifehacker](https://web.archive.org/web/20050630084617/http://www.lifehacker.com/). Im activly creating trackable work for my role @nasa-jpl. Since [The Space Station](https://spotthestation.nasa.gov/) accesses my data at times i have to be realistic that i dont know the expanse of possibilities i could run into transmitting data. If the browser can accept the connection let it be worth the wait no matter the [surface](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 
-<div class="tupperware">
- 
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+
+<div class="box" markdown="1">
 <figure>
  <a href="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
  <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
@@ -66,10 +114,10 @@ image: dilbertworklog.webp
  <img src="https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
   <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
 </figure>
-
-
-
+ 
 </div>
+
+
 
 # Astronomy: Mars LandSurveying @whitehouse
 i found a crater with a strange texture! and wanted to share it
