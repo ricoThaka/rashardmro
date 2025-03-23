@@ -9,6 +9,12 @@ image: rashardMRO.jpeg
 # Exploration Ground Data Systems (xGDS) v1
 Software to support science operations, including tools for planning, monitoring, visualization, documentation, analysis, and search. [(ARC-17174-1)](https://software.nasa.gov/software/ARC-17174-1) :: [A Brief Guide to the F´ Ground Data System](https://nasa.github.io/fprime/UsersGuide/gds/gds-introduction.html)
 
+# Design Resources
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?emrc=1b7a14) [The Elements of Typographic Style Robert Bringhurst 1992](https://readings.design/PDF/the_elements_of_typographic_style.pdf) 
+[Grid Systems In Graphic Design Josef Muller Brockmann](https://dn790008.ca.archive.org/0/items/GridSystemsInGraphicDesignJosefMullerBrockmann/Grid%20systems%20in%20graphic%20design%20-%20Josef%20Muller-Brockmann.pdf)
+
+<iframe src="https://archive.org/embed/GridSystemsInGraphicDesignJosefMullerBrockmann" width="560" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 [Port Of Longbeach tweets](https://x.com/BubbleGumPop510/status/1902772972303290612) [JPL](https://x.com/BubbleGumPop510/status/1902130520106164671) [OUTAGES](https://x.com/BubbleGumPop626/status/1901803181908324374)
 
