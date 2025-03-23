@@ -1,5 +1,10 @@
 
+# Team Meeting in Pomona [RelatedTweet](https://x.com/RicoThaka/status/1903944314977489188) [Enrollment Form for the F Prime Tutorial @ The Bronco Space Lab ](https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtMQ1ajjc7DZJteAAjLgwC-JUMkNWMFA3OVlDOExaQU1LOTBLRlE4WTVXMi4u&route=shorturl)
+ The Bronco Space Lab will be holding an F Prime Tutorial on Friday April 11, 2025 from 9AM - 4PM. The tutorial will take place in the Bronco Space Lab at 3670 W Temple Ave STE 278, Pomona CA 91768.
 
+F Prime is a free, open-source and flight-proven flight software development ecosystem developed at the NASA Jet Propulsion Laboratory that is tailored for small-scale systems such as CubeSats, SmallSats, and instruments. To learn more about F Prime, visit their documentation page!
+
+[https://fprime.jpl.nasa.gov/overview/](https://fprime.jpl.nasa.gov/overview/) [AppointmentMade](https://x.com/RicoThaka/status/1903948286081577343) @blackgirlscode 
 
 [The Geosciences](https://pds-geosciences.wustl.edu/) Node archives data related to the study of moons and planets of the inner Solar System. The navigation bar on the left side of each page has links to data sets grouped by planet, mission, and instrument. Click the links to expand the list and locate the data of interest.
 
