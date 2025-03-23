@@ -17,6 +17,13 @@ mermaid: true
 {% endfor %}
  
 </div> 
+
+# Design Resources
+[NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?emrc=1b7a14) [The Elements of Typographic Style Robert Bringhurst 1992](https://readings.design/PDF/the_elements_of_typographic_style.pdf) 
+[Grid Systems In Graphic Design Josef Muller Brockmann](https://dn790008.ca.archive.org/0/items/GridSystemsInGraphicDesignJosefMullerBrockmann/Grid%20systems%20in%20graphic%20design%20-%20Josef%20Muller-Brockmann.pdf)
+
+<iframe src="https://archive.org/embed/GridSystemsInGraphicDesignJosefMullerBrockmann" width="560" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Web Standards
 
 <p>
