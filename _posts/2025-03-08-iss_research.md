@@ -1,4 +1,16 @@
+---
+layout: default
+title:  "iSS_ResearcH"
+published: true
+date:   2025-03-24 21:19:06 -0800
+tags: jupiter europa iss
+image: Europa_Clipper.png
+---
 
+
+
+### Jupyter-NOTEBOOkin 
+[Adds a toolbar button which pastes the current time & date into the current cell:](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/datestamper/readme.html) [Insert Current date - Markdown ? - googleGroups](https://groups.google.com/g/jupyter/c/M28LfP7F0Wk) The United States is one of the few countries that use “mm-dd-yyyy” as their date format–which is very very unique![Date Format in the United States](https://iso.mit.edu/americanisms/date-format-in-the-united-states/) [Date/Time Formats - imb.COM](https://www.ibm.com/docs/en/sgfmw/5.3.1?topic=modification-datetime-formats)
 
 # ECOSTRESS DATA 
 ![ECOSTRESS](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.03.19/AST_L1T_00303182025000621_20250319113356_51927_BR.2.VNIR.jpg)
