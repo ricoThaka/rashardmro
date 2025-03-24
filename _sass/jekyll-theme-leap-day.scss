@@ -289,9 +289,9 @@ img {
 
     img[src*="ricoThaka/linux/refs/heads/master/Documentation/images/logo.gif"] {width: 25%;padding: 4px;}
     img[src*="Mars_Reconnaissance_Orbiter_insignia.png"] {width: 25%;padding: 4px;}
-  /* img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;} */
+/* img[src*="workflows/ci.yaml/badge.svg"] {width: 100%;} */
 /* img[src*="https://badge.fury.io"] {width: 100%;} */
-img[src*="img.shields.io/badge/Social-ricoThaka"] {width: 100%;}
+/* img[src*="img.shields.io/badge/Social-ricoThaka"] {display:inline-block} */
 svg { width: max-content;
 display: inline-block; }
 img[src*="img.shields.io/badge/Social"] {display: inline-block; float: none;}
@@ -315,6 +315,7 @@ img[src*="img.shields.io/badge/Social"] {display: inline-block; float: none;}
   img[alt="whiteslavery40"] {
     max-width: 40%;
     transform: rotate(45deg);
+    float: left;
   }
   
  .mermaid svg { 

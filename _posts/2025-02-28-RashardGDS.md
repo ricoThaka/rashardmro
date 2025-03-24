@@ -4,10 +4,50 @@ mermaid: true
 published: true
 title: RashardGDS
 image: rashardMRO.jpeg
+tags: nasaoffice nasajpl helpdesk
 ---
+
+
+## Announcement : MarsTeamWorkshop
+# Team Meeting in Pomona [RelatedTweet](https://x.com/RicoThaka/status/1903944314977489188) [Enrollment Form for the F Prime Tutorial @ The Bronco Space Lab ](https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtMQ1ajjc7DZJteAAjLgwC-JUMkNWMFA3OVlDOExaQU1LOTBLRlE4WTVXMi4u&route=shorturl)
+ The Bronco Space Lab will be holding an F Prime Tutorial on Friday April 11, 2025 from 9AM - 4PM. The tutorial will take place in the Bronco Space Lab at 3670 W Temple Ave STE 278, Pomona CA 91768.
+
+F Prime is a free, open-source and flight-proven flight software development ecosystem developed at the NASA Jet Propulsion Laboratory that is tailored for small-scale systems such as CubeSats, SmallSats, and instruments. To learn more about F Prime, visit their documentation page!
+
+[https://fprime.jpl.nasa.gov/overview/](https://fprime.jpl.nasa.gov/overview/) [AppointmentMade](https://x.com/RicoThaka/status/1903948286081577343) @blackgirlscode 
+![F_Prime Tutorial](https://pbs.twimg.com/media/GmwuZ8NbUAAl04e?format=jpg&name=large)
 
 # Exploration Ground Data Systems (xGDS) v1
 Software to support science operations, including tools for planning, monitoring, visualization, documentation, analysis, and search. [(ARC-17174-1)](https://software.nasa.gov/software/ARC-17174-1) :: [A Brief Guide to the F´ Ground Data System](https://nasa.github.io/fprime/UsersGuide/gds/gds-introduction.html)
+
+
+[°Goes Wind calculator](https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G18&band=DMW&length=48&dim=undefined)
+[Interactive Global Geostationary Weather Satellite Images - GOES](https://weather.ndc.nasa.gov/GOES/)
+[ALERTCalifornia is a UC San Diego Program](https://cameras.alertcalifornia.org/?pos=37.2391_-119.0039_6) 
+[OPEN TOPOGRAPHY](https://opentopography.org/)
+[Acme Mapper](https://mapper.acme.com/) [cssgridoverlap - kevinPowell](https://youtu.be/HFG3BKOqOlE) [CSS FORUM](https://processwire.com/talk/topic/24849-css-grid-andor-flex-overlap-two-divs/)
+# ANAGLYPH/PS
+[hirise-pds](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/PSP/ORB_005800_005899/)
+
+# Mars Relay Network 
+[Lessons Learned from the Mars Relay Network: Considerations for Future Relay Networks](https://ieeexplore.ieee.org/document/10521332)
+<object data="https://eyes.nasa.gov/apps/mrn/#/mars" width="100%" height=400px ></object>
+
+# The Global CTX Mosaic of Mars
+[The Bruce Murray Laboratory](https://murray-lab.caltech.edu/) for Planetary Visualization has completed a 5.7 [terapixel](https://en.wikipedia.org/wiki/Gigapixel_image#:~:text=A%20terapixel%20image%20is%20an,collectively%20considered%20over%20one%20terapixel.) mosaic of the surface of Mars rendered at 5.0 m/px. Each pixel in the mosaic is about the size of a typical parking space, providing unprecedented resolution of the martian surface at the global scale.
+<object data="https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html" width="100%" height=400px >
+    </object>
+
+# Deep Space Network Now @nasa-jpl
+![DSN](https://eyes.nasa.gov/apps/dsn-now/images/intro/deep-space-network-logo@2x.png)
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:500px;width:100%;" >
+    </object>
+
+
+![MADRiD_DSN](https://www.nasa.gov/wp-content/uploads/2023/08/madrid-dss-56-01.jpg)
+>Deep Space Network, Deep Space Station 56 (DSS-56), a 112-foot-wide antenna at [Madrid Deep Space Communications Complex](https://www.mdscc.nasa.gov/index.php/en/start/) in Madrid, Spain. Image Credit: [NASA](https://plus.nasa.gov/series/)
+
 
 # Design Resources
 [NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?emrc=1b7a14) [The Elements of Typographic Style Robert Bringhurst 1992](https://readings.design/PDF/the_elements_of_typographic_style.pdf) 

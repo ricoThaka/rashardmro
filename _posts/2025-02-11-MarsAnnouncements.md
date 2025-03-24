@@ -1,3 +1,7 @@
+---
+layout: post
+title: Mars_Announcements
+---
 
 # Team Meeting in Pomona [RelatedTweet](https://x.com/RicoThaka/status/1903944314977489188) [Enrollment Form for the F Prime Tutorial @ The Bronco Space Lab ](https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtMQ1ajjc7DZJteAAjLgwC-JUMkNWMFA3OVlDOExaQU1LOTBLRlE4WTVXMi4u&route=shorturl)
  The Bronco Space Lab will be holding an F Prime Tutorial on Friday April 11, 2025 from 9AM - 4PM. The tutorial will take place in the Bronco Space Lab at 3670 W Temple Ave STE 278, Pomona CA 91768.

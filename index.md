@@ -18,6 +18,22 @@ mermaid: true
  
 </div> 
 
+
+# [Welcome Jared ](https://x.com/RicoThaka/status/1903598003610636667)  [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman) 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am honored to receive President Trump’s <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> nomination to serve as the next Administrator of NASA. Having been fortunate to see our amazing planet from space, I am passionate about America leading the most incredible adventure in human history.<br><br>On my last mission…</p>&mdash; Jared Isaacman (@rookisaacman) <a href="https://twitter.com/rookisaacman/status/1864346915183157636?ref_src=twsrc%5Etfw">December 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Announcement : MarsTeamWorkshop
+# Team Meeting in Pomona [RelatedTweet](https://x.com/RicoThaka/status/1903944314977489188) [Enrollment Form for the F Prime Tutorial @ The Bronco Space Lab ](https://forms.office.com/pages/responsepage.aspx?id=HqZLFuw5XU-J_6ofAKUhtMQ1ajjc7DZJteAAjLgwC-JUMkNWMFA3OVlDOExaQU1LOTBLRlE4WTVXMi4u&route=shorturl)
+ The Bronco Space Lab will be holding an F Prime Tutorial on Friday April 11, 2025 from 9AM - 4PM. The tutorial will take place in the Bronco Space Lab at 3670 W Temple Ave STE 278, Pomona CA 91768.
+
+[READMORE](https://x.com/RicoThaka/status/1903944314977489188)
+ [![Twitter Follow](https://img.shields.io/badge/Social-@MAyorOfLA__-blue?style=social&logo=X)](https://twitter.com/@MayorOfLA) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) [Commit 4a8760a](https://github.com/ricoThaka/rashardmro/commit/4a8760a2245ffc36f81b8b052a70d21690c16d9a) [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [https://fprime.jpl.nasa.gov/overview/](https://fprime.jpl.nasa.gov/overview/) [AppointmentMade](https://x.com/RicoThaka/status/1903948286081577343) @blackgirlscode [Manessa_Update](https://x.com/RicoThaka/status/1904229576949301453) [ManessaUpdate](https://x.com/RicoThaka/status/1903939479939010945) [CSS_GRiD game](https://x.com/RicoThaka/status/1903934384031547521)
+
+# Exploration Ground Data Systems (xGDS) v1
+Software to support science operations, including tools for planning, monitoring, visualization, documentation, analysis, and search. [(ARC-17174-1)](https://software.nasa.gov/software/ARC-17174-1) :: [A Brief Guide to the F´ Ground Data System](https://nasa.github.io/fprime/UsersGuide/gds/gds-introduction.html)
+
+
 # Design Resources
 [NASA Graphics Standards Manual (NHB 1430.2) (January 1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf?emrc=1b7a14) [The Elements of Typographic Style Robert Bringhurst 1992](https://readings.design/PDF/the_elements_of_typographic_style.pdf) 
 [Grid Systems In Graphic Design Josef Muller Brockmann](https://dn790008.ca.archive.org/0/items/GridSystemsInGraphicDesignJosefMullerBrockmann/Grid%20systems%20in%20graphic%20design%20-%20Josef%20Muller-Brockmann.pdf)
@@ -1958,6 +1974,11 @@ END
 ![HTML5CSS3](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
 
 ![JPL Jet Propulsion Laboratory - La Cañada Flintridge](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jet_Propulsion_Laboratory_logo.svg/2560px-Jet_Propulsion_Laboratory_logo.svg.png)  
+
+
+![Atlanta, lets do it again!](https://pbs.twimg.com/media/Gm0s3rsaEAAl-2E?format=jpg&name=large)
+[RelatedTweet](https://x.com/RicoThaka/status/1904227562215338039) [RelatedTweet](https://x.com/RicoThaka/status/1904228030010241412) [Tashi_B](https://x.com/RicoThaka/status/1904226289059549257)
+
 
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
