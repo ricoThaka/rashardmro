@@ -120,7 +120,7 @@ im using some test code here that is not passing the @w3c validator i talked abo
  
 </div>
 
-
+[<img src="https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png" alt="The Apple IIe (styled as Apple //e) is the third model in the Apple II series of personal computers produced by Apple Computer. It was released in January 1983" />](https://jointcustodydc.com/cdn/shop/products/IMG_3619_2048x.png) 
 
 
 ### This image was acquired on March 18, 2025 (Sol 1449) at the local mean solar time of 11:05:40.
