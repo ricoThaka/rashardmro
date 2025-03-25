@@ -19,6 +19,20 @@ mermaid: true
 </div> 
 
 
+[Contact Dave Diner](https://espo.nasa.gov/casie/node/34/contact)
+
+## Rashard_Iman_Kelly_M_R_O lost and confused as usual! I will tweet from @ricothaka!
+
+https://ricothaka.github.io/rashardmro/ I went to a dance school in atlanta plz watch the [Flintstones](https://www.b98.tv/videos_categories/the-flintstones/): [Pebbles Birthday PArty](https://www.b98.tv/video/pebbles-birthday-party/) abt [the boulderettes](https://hanna-barbera.fandom.com/wiki/The_Boulderettes) idk what to do its like a gang of girls that want me to be their husband, like a shared role an they want babies! A the last one is like yoshi and is independent with IVF eggs and gangster rappers and I'm just upset! idk what to do I want a handset for interface building an decent food, the dancing girls are porno actresses its like the undercover life, they even on Saturday night live, the main squeeze in in a skit called hot girl hospital, they have multiple aliases but can all turn into #NORMANi I feel stupid but its a girl and I had sex with the thing and need help possibly 8 times over + 2 children I was not present for! I want top go to this team exercise in [pomona california](https://ricothaka.github.io/rashardmro/2025/02/28/RashardGDS.html)  [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman)  [![Twitter Follow](https://img.shields.io/badge/Social-@laurieofmars__-blue?style=social&logo=X)](https://twitter.com/@laurieofmars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) 
+[Coral: `Kleptomaniac Pebbles`](https://www.b98.tv/video/kleptomaniac-pebbles/)
+
+
+
+![ContactingDaveDiner @nasa-jpl](https://pbs.twimg.com/media/Gm68XqhbYAMq4BL?format=jpg&name=large) [TheTwitterBroke @NASA_CASIE](https://x.com/NASA_CASIE)
+`@NASA_CASIE`
+`This account doesn’t exist`
+`Try searching for another.`
+
 # [Welcome Jared ](https://x.com/RicoThaka/status/1903598003610636667)  [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman) 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am honored to receive President Trump’s <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> nomination to serve as the next Administrator of NASA. Having been fortunate to see our amazing planet from space, I am passionate about America leading the most incredible adventure in human history.<br><br>On my last mission…</p>&mdash; Jared Isaacman (@rookisaacman) <a href="https://twitter.com/rookisaacman/status/1864346915183157636?ref_src=twsrc%5Etfw">December 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
