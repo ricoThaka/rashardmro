@@ -1,3 +1,7 @@
+
+
+[HECC Acts Fast to Give JPL Resources for SoCal Fire Simulations](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html) The success of many NASA-sponsored scientists and engineers depends on results achieved using HECC’s high-performance computing resources and services. With assistance from HECC experts throughout the lifecycle of their modeling and simulation projects, our users are making new scientific discoveries and advancing key technologies in aeronautics and space exploration. Here are a few examples. [ReadHere](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html)
+
 ![Manessah](https://pbs.twimg.com/media/GUphYsra8AAVXLW?format=jpg&name=large) @blackgirlscode @nasa-jpl 
 
 # USGS WATER note to Gov.Newsom
