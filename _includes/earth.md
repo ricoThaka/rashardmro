@@ -1,4 +1,7 @@
 
+[Oaklahoma Fire 3/26/25 seen on firms](https://x.com/BubbleGumPop626/status/1905059305709294076) [LAADS - 2nasa-jpl i spent a good fraction](https://x.com/BubbleGumPop626/status/1905053844301816311) of thhat workday learning a new @nasa earthdata archive. I dont know how to make it display anything though 
+
+![LAAds](https://pbs.twimg.com/media/GnAcItpaEAAD9aY?format=jpg&name=large)
 
 [HECC Acts Fast to Give JPL Resources for SoCal Fire Simulations](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html) The success of many NASA-sponsored scientists and engineers depends on results achieved using HECC’s high-performance computing resources and services. With assistance from HECC experts throughout the lifecycle of their modeling and simulation projects, our users are making new scientific discoveries and advancing key technologies in aeronautics and space exploration. Here are a few examples. [ReadHere](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html)
 
