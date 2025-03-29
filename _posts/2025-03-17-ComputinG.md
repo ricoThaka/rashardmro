@@ -8,7 +8,7 @@ image: computing
 
 [High-End Computing Capability](https://www.nas.nasa.gov/hecc/)
 
-
+![win9x](https://pbs.twimg.com/media/Gja-F1IbcAAIX4y?format=png&name=medium)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/GeorgieC?ref_src=twsrc%5Etfw">@GeorgieC</a> <a href="https://twitter.com/LaurieofMars?ref_src=twsrc%5Etfw">@LaurieofMars</a> <a href="https://twitter.com/WomenNASA?ref_src=twsrc%5Etfw">@WomenNASA</a> whoever of age to work please guide them <a href="https://twitter.com/NASAInterns?ref_src=twsrc%5Etfw">@NASAInterns</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a>,<a href="https://twitter.com/BlackGirlsCode?ref_src=twsrc%5Etfw">@BlackGirlsCode</a> has <a href="https://twitter.com/staceyabrams?ref_src=twsrc%5Etfw">@staceyabrams</a> involved so Im not as afraid <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a>. that woman would kill me! <a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> <a href="https://twitter.com/GovKemp?ref_src=twsrc%5Etfw">@GovKemp</a> <a href="https://t.co/UyjePQm0aA">https://t.co/UyjePQm0aA</a> issa good team <a href="https://twitter.com/hashtag/BGC?src=hash&amp;ref_src=twsrc%5Etfw">#BGC</a> <a href="https://t.co/V6UGLu82Ju">pic.twitter.com/V6UGLu82Ju</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1897076889585697172?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Monitoring Options
