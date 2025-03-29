@@ -1,6 +1,14 @@
 
 [Oaklahoma Fire 3/26/25 seen on firms](https://x.com/BubbleGumPop626/status/1905059305709294076) [LAADS - 2nasa-jpl i spent a good fraction](https://x.com/BubbleGumPop626/status/1905053844301816311) of thhat workday learning a new @nasa earthdata archive. I dont know how to make it display anything though 
 
+
+
+![Reading LA](https://pbs.twimg.com/media/GjS4_p4aQAAhgG-?format=jpg&name=large)
+[The Enourmous Villiage](https://x.com/RicoThaka/status/1888338137296105533)
+# Alge Report
+![Alge Willow Street](https://pbs.twimg.com/media/GcNFg_CasAEYAPT?format=jpg&name=large)
+[Related 11-12-2024](https://x.com/RicoThaka/status/1856404376484786631)
+
 [BlackCarbon](https://x.com/RicoThaka/status/1893786791787831600)
 
 [California Drought Visual from NASASVS](https://archive.org/details/conus-la-no-2-comp-v-0086-1080p-60)

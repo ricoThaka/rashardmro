@@ -3,6 +3,26 @@ layout: post
 title: "Notes for @nasa-jpl HR"
 ---
 
+[Los Angeles Charter and Administrative Code Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
+
+![LARiVEr1956](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg/1726px-Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg)
+Walkway and steel arch girder of the original 6th Street Viaduct over the Los Angeles River, 1956...as used as a guide in the latest update it connects the [Arts District in Downtown Los Angeles](https://artsdistrictla.org/) with the [Boyle Heights](https://boyleheightsbeat.com/) neighborhood. [Wiki](https://en.wikipedia.org/wiki/Sixth_Street_Viaduct)
+![6th STREETBRidGE](https://tile.loc.gov/storage-services/service/pnp/vrg/12700/12735v.jpg)
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr"><a href="https://twitter.com/VeronicaMcG?ref_src=twsrc%5Etfw">@VeronicaMcG</a> I&#39;m going to look for <a href="https://twitter.com/hashtag/MAMEROMS?src=hash&amp;ref_src=twsrc%5Etfw">#MAMEROMS</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://t.co/mtq3s1IAK8">https://t.co/mtq3s1IAK8</a> <a href="https://twitter.com/LACityClerk?ref_src=twsrc%5Etfw">@LACityClerk</a> . <a href="https://t.co/gebTyczuf0">pic.twitter.com/gebTyczuf0</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1899219796174176276?ref_src=twsrc%5Etfw">March 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ [![Twitter Follow](https://img.shields.io/badge/Social-@gavinnewsom__-blue?style=social&logo=X)](https://twitter.com/@gavinnewsom) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+
+[RIO L.A. - Tales from the Losangeles River](https://x.com/RicoThaka/status/1785830607354040693) [BUY](https://gibbs-smith.com/collections/angel-city-press/products/rio-la) [ORGCHART - CiTY of LOS Angeles](https://cao.lacity.gov/misc/LAorgchart.pdf)
+
+![STructureOf A Gov](https://pbs.twimg.com/media/GltcfY7aIAA9Was?format=jpg&name=large) @nasa-jpl @nasa @blackgirlscode [RelatedTweet](https://x.com/RicoThaka/status/1899214607572709665) [STRUCTURE of a CITY GOVERNMENT - PDF](https://my.lwv.org/sites/default/files/leagues/los-angeles/structureofacity.pdf) 
+
+
+![USES OF THE LOSANGELES RiVER](https://pbs.twimg.com/media/F__Vyy0bMAARWmL?format=jpg&name=medium)
+
+[LibraryBurned](https://x.com/RicoThaka/status/1778179396362510848) On April 29, 1986, the Central Library in downtown Los Angeles caught fire and burned. Nobody died, though 50 firefighters were injured and more than a million books were damaged. - [NYtiMES](https://www.nytimes.com/2018/10/15/books/review/susan-orlean-library-book.html#:~:text=On%20April%2029%2C%201986%2C%20the,a%20million%20books%20were%20damaged.) [Central Library Account](https://www.lapl.org/collections-resources/blogs/lapl/april-29-marks-30th-anniversary-1986-fire) [Library Fire 1986 - CityClerk ACcout](https://youtu.be/kDXqhQMczjM?si=77WAs9FSHce601lE) [KTTV 70: Remembering the 1986 L.A. Central Library fire - Fox11LA](https://youtu.be/zcJ0mogemM4?si=gxbS5p8MpZqR7w4z) [Local Account - olegkagan.com](https://olegkagan.com/the-library-fire/) [The Legacy of the Central Library Fire - LAPL_BLOG](https://www.lapl.org/collections-resources/blogs/lapl/legacy-central-library-fire) [List of destroyed libraries](https://en.wikipedia.org/wiki/List_of_destroyed_libraries)
+[gOVERNOR hISTORY aRNOLD sWA..](https://x.com/RicoThaka/status/1890165656286564829)
 
 # Types of rape
 Rape can be categorized in different ways: for example, by reference to the situation in which it occurs, by the identity or characteristics of the victim, and by the identity or characteristics of the perpetrator.
