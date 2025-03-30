@@ -7,7 +7,7 @@ title: "Notes for @nasa-jpl HR"
 
 # Live From the JPL Clean Room 
 ### — Building NEO Surveyor + ASTHROS
-Watch as components for two missions come together at NASA’s Jet Propulsion Laboratory (JPL) in Southern California. [ReadMoRe in The YoutuBEDescripTiON](https://www.youtube.com/watch?v=mxoCCvjW4Uo) [ Topic: NASA - Near Earth Objects Surveyor (NEOS)  (Read 54368 times) ` NASA_SPACEFLiGHT_FORUM`](https://forum.nasaspaceflight.com/index.php?topic=49105.80) [Meet NEO Surveyor, NASA’s near-Earth asteroid detector](https://www.newscientist.com/video/2451347-meet-neo-surveyor-nasas-near-earth-asteroid-detector/) on [YouTube](https://youtu.be/mFMI21G1lSg)
+Watch as components for two missions come together at NASA’s Jet Propulsion Laboratory (JPL) in Southern California. [ReadMoRe in The YoutuBEDescripTiON](https://www.youtube.com/watch?v=mxoCCvjW4Uo) [ Topic: NASA - Near Earth Objects Surveyor (NEOS)  (Read 54368 times) ` NASA_SPACEFLiGHT_FORUM`](https://forum.nasaspaceflight.com/index.php?topic=49105.80) [Meet NEO Surveyor, NASA’s near-Earth asteroid detector](https://www.newscientist.com/video/2451347-meet-neo-surveyor-nasas-near-earth-asteroid-detector/) on [YouTube](https://youtu.be/mFMI21G1lSg) [Live Tucson, AZ Webcam - UArizona Computer Science Webcams](https://www.youtube.com/watch?v=qD-OEc3vU8s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=zbJJOB6BpbThGhwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
