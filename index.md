@@ -18,6 +18,13 @@ mermaid: true
  
 </div> 
 
+# Dear_Mayor_Bass
+Its Rashard @nasa-jpl. I am offline tomorrow bc of [cesar chavez day](https://www.lapl.org/collections-resources/blogs/lapl/tags/cesar%20chavez) I have been seeing a lot of printed media suggesting that you were dishonest during the fires. If you were in Ghana, rememeber i have an african girlfriend that calls me her husband from ethiopia an know u may be handling a [rape](https://ricothaka.github.io/rape). You sat next to me at Cahuenga an i had recentley reached out over TWitter
+
+
+ [![Twitter Follow](https://img.shields.io/badge/Social-@rookisaacman__-blue?style=social&logo=X)](https://twitter.com/@rookisaacman)  [![Twitter Follow](https://img.shields.io/badge/Social-@laurieofmars__-blue?style=social&logo=X)](https://twitter.com/@laurieofmars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass) 
+[Escape from the Palisades: Split-second decision-making, confusing responses](https://www.latimes.com/california/story/2025-02-02/escape-from-the-palisades) 
+![Escape From The Palisades - latimes @datadesk](https://raw.githubusercontent.com/ricoThaka/rashardmro/refs/heads/master/assets/images/mars/escape.png)
 
 ![ScanDisk](https://pbs.twimg.com/media/Gja-F1IbcAAIX4y?format=png&name=medium)
 [Recent](https://x.com/RicoThaka/status/1905002832790704460)
