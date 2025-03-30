@@ -1,6 +1,25 @@
 
 [Oaklahoma Fire 3/26/25 seen on firms](https://x.com/BubbleGumPop626/status/1905059305709294076) [LAADS - 2nasa-jpl i spent a good fraction](https://x.com/BubbleGumPop626/status/1905053844301816311) of thhat workday learning a new @nasa earthdata archive. I dont know how to make it display anything though 
 
+
+
+![Reading LA](https://pbs.twimg.com/media/GjS4_p4aQAAhgG-?format=jpg&name=large)
+[The Enourmous Villiage](https://x.com/RicoThaka/status/1888338137296105533)
+# Alge Report
+![Alge Willow Street](https://pbs.twimg.com/media/GcNFg_CasAEYAPT?format=jpg&name=large)
+[Related 11-12-2024](https://x.com/RicoThaka/status/1856404376484786631)
+
+[BlackCarbon](https://x.com/RicoThaka/status/1893786791787831600)
+
+[California Drought Visual from NASASVS](https://archive.org/details/conus-la-no-2-comp-v-0086-1080p-60)
+<iframe src="https://archive.org/embed/conus-la-no-2-comp-v-0086-1080p-60" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Climate Plotting with @google earth @nassa-jpl 
+[vlog](https://archive.org/details/vid-20250309-133824/VID_20250309_145929.mp4)
+<video width="400px" height="auto" controls> 
+	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/VID_20250309_145929.mp4" type="video/mp4">	 
+</video> 
+
 ![LAAds](https://pbs.twimg.com/media/GnAcItpaEAAD9aY?format=jpg&name=large)
 
 [HECC Acts Fast to Give JPL Resources for SoCal Fire Simulations](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html) The success of many NASA-sponsored scientists and engineers depends on results achieved using HECC’s high-performance computing resources and services. With assistance from HECC experts throughout the lifecycle of their modeling and simulation projects, our users are making new scientific discoveries and advancing key technologies in aeronautics and space exploration. Here are a few examples. [ReadHere](https://www.nas.nasa.gov/hecc/about/hecc_user_success.html)
