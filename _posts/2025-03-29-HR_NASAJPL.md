@@ -3,15 +3,9 @@ layout: post
 title: "Notes for @nasa-jpl HR"
 ---
 
-
 # Live From the JPL Clean Room 
 ### — Building NEO Surveyor + ASTHROS
 Watch as components for two missions come together at NASA’s Jet Propulsion Laboratory (JPL) in Southern California. [ReadMoRe in The YoutuBEDescripTiON](https://www.youtube.com/watch?v=mxoCCvjW4Uo) [ Topic: NASA - Near Earth Objects Surveyor (NEOS)  (Read 54368 times) ` NASA_SPACEFLiGHT_FORUM`](https://forum.nasaspaceflight.com/index.php?topic=49105.80) [Meet NEO Surveyor, NASA’s near-Earth asteroid detector](https://www.newscientist.com/video/2451347-meet-neo-surveyor-nasas-near-earth-asteroid-detector/) on [YouTube](https://youtu.be/mFMI21G1lSg) [Live Tucson, AZ Webcam - UArizona Computer Science Webcams](https://www.youtube.com/watch?v=qD-OEc3vU8s) [Santa Monica Beach Cam powered by EXPLORE.org](https://www.youtube.com/watch?v=qmE7U1YZPQA)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mxoCCvjW4Uo?si=zbJJOB6BpbThGhwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
 [Los Angeles Charter and Administrative Code Sec. 230. Mayor.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-576) [OFFICIAL CITY OF LOS ANGELES CHARTER ™ - Current through legislation effective December 31, 2024](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-2)
 
 ![LARiVEr1956](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg/1726px-Uclalat_1429_b257_95950CK-1_Know_Your_City_No.66_Walkway_and_steel_girder_of_the_6th_Street_Viaduct_over_the_Los_Angeles_River%2C_Calif._January_22%2C_1956.jpg)
@@ -172,7 +166,7 @@ oral or written verbal expression.
 <a href="https://lasd.org/wp-content/uploads/2023/12/Captain-Dean-Brandon-R_300-240x300.jpg"><img src="https://lasd.org/wp-content/uploads/2023/12/Captain-Dean-Brandon-R_300-240x300.jpg" style="width:240px;height:300px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
 
 ## dis·po·si·tion
-### /ˌdispəˈziSH(ə)n/ [Libel and Slander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/)
+### /ˌdispəˈziSH(ə)n/ [Libel and Sander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/)
 
 
 
