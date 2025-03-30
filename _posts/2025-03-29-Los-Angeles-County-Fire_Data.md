@@ -1,3 +1,10 @@
+---
+layout: post
+mermaid: true
+published: true
+title: UsingNiX
+image: shocked-i-know-this.gif
+---
 
 ![LAMBO-BARBZ](https://pbs.twimg.com/media/GhHpnQoXgAAXH2y?format=jpg&name=large)
 
@@ -61,6 +68,8 @@ photo -[@JackQuillinTV](https://x.com/JackQuillinTV)
   Your browser does not support the video tag.
 </video>
 
+# 2009 Fire
+![2009](https://eoimages.gsfc.nasa.gov/images/imagerecords/40000/40110/lafires_ali_2009246_swir.jpg)
 
 # Reductions in Pollution Associated with Decreased Fossil Fuel Use Resulting from COVID-19 Mitigation
 **Released** Friday, April 24, 2020
