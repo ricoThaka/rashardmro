@@ -8,6 +8,78 @@ image: PIA26080_modest.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# COMPENSATION PLAN FOR DEPARTMENT OF WATER AND POWER
+  [![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG) I know u moonlight with [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) at time, r u getting your compensation ? [![Twitter Follow](https://img.shields.io/badge/Social-@LaurieofMars__-blue?style=social&logo=X)](https://twitter.com/@LaurieofMars) [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+  [RelatedTweet](https://x.com/RicoThaka/status/1907617772881969497) [FuLL_DoC - Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power.](https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-14141) @CityOfLosAngeles [Welcome to the Los Angeles Aqueduct - Real Time Data](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm) [Los Angeles River - The Unpredictable! - https://waterandpower.org/](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [The Key to California’s Survival Is Hidden Underground -wired.com](https://www.wired.com/story/the-key-to-californias-survival-is-hidden-underground/) *WATER IS URBAN*  [The @GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+
+  <style>
+
+
+.wp > * {
+  border: 1px solid #c9ff23;
+  border-radius: 5px;
+  padding: 0px;
+  flex-basis: 30%;
+  flex-shrink:2;
+  flex-grow:1;
+  overflow: hidden;
+  transition: all 300ms ease-in-out;
+  
+  &:hover {
+    flex-grow: 9.3;
+    
+  }
+}
+
+
+.wp {
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+  padding: 15px;
+  gap: 5px;
+  height: auto;
+}
+
+.wp img {
+  width: 100%;
+}
+
+.wp figcaption {
+  background-color: #22222290;
+  color: #fff;
+  font: bold small sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+ 
+ </style>
+
+
+<div class="wp" markdown="1">
+<figure>
+ <a href="https://pbs.twimg.com/media/Gnk4HV9aMAAKD-T?format=jpg&name=large" > 
+ <img src="https://pbs.twimg.com/media/Gnk4HV9aMAAKD-T?format=jpg&name=large" alt="Sec. 4.900.1. Adoption of the Compensation Plan for Department of Water and Power." /> </a>
+  <figcaption>
+  
+[![Twitter Follow](https://img.shields.io/badge/Social-@VeronicaMcG__-blue?style=social&logo=X)](https://twitter.com/@VeronicaMcG)
+    
+</figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://media.wired.com/photos/63bf201471c6b526845f1640/master/w_1600,c_limit/Floodwaters_CA_NOAA_NASA_report_Science_GettyImages-1246020220.jpg" > 
+ <img src="https://media.wired.com/photos/63bf201471c6b526845f1640/master/w_1600,c_limit/Floodwaters_CA_NOAA_NASA_report_Science_GettyImages-1246020220.jpg" alt="Title added by Ord. No. 150,957, Eff. 6-13-78, Oper. 4-17-78" /> </a>
+  <figcaption> 
+
+  [![Twitter Follow](https://img.shields.io/badge/Social-@LADWP__-blue?style=social&logo=X)](https://twitter.com/@LADWP) 
+
+  </figcaption>
+</figure>
+ 
+</div>
+
 # Live From the JPL Clean Room 
 ### — Building NEO Surveyor + ASTHROS
 Watch as components for two missions come together at NASA’s Jet Propulsion Laboratory (JPL) in Southern California. 
