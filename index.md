@@ -19,6 +19,9 @@ mermaid: true
 </div> 
 
 
+[MODiS](https://modis.gsfc.nasa.gov/)
+MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (originally known as EOS AM-1) and Aqua (originally known as EOS PM-1) satellites. Terra’s orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. [Noaa](https://coastwatch.glerl.noaa.gov/satellite-data-products/modis/)
+![TERRA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Terra_spacecraft_model.png/1664px-Terra_spacecraft_model.png)
 
 # Dear_Mayor_Bass
 
