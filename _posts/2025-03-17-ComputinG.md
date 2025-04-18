@@ -5,6 +5,10 @@ published: true
 image: computing
 ---
 
+[How to use sed to find and replace text in files in Linux / Unix shell](https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/)
+NOAA products [GreatLakes](https://coastwatch.glerl.noaa.gov/satellite-data-products/avhrr/)
+[The Shopify Cheat Sheet is a resource for building Shopify Themes with Liquid](https://www.shopify.com/partners/shopify-cheat-sheet?shpxid=4a4fe457-4786-4002-74D3-67F7C2E264B8)
+# Liquid Reference [from shopify](https://shopify.dev/docs/api/liquid)
 
 {% include liquidvariables.md %}
 
