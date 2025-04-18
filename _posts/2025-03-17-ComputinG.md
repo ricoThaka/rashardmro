@@ -5,6 +5,19 @@ published: true
 image: computing
 ---
 
+# `<object>`: The External Object element
+>The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin.
+The [NOAA](https://youtu.be/OdTwjHwbisY?si=4qwHZdkGY0OJNC9c) page im making to justify our work and protect my role at JPL/NASA bc the geart is never coming back, whoever wants control of the [NOAA](https://www.npr.org/2025/03/06/nx-s1-5316917/noaa-trump-impact-layoffs) image cant have healthy motives, [GearAcquisitionSyndrome](https://www.kenrockwell.com/tech/acquisition.htm) is suffocating america as the perpurtrators struggle that they are not menopausal as they deal with pornography commitment destroying [TheFamily](https://youtu.be/9CwQd5ZVgmg?si=006u_gT-eSWShzF8) from my perspective as a victim, TheFamily is the smallest componet of civilization, if its broken, the civilization is, so [TheBrokenFamily](https://youtu.be/_vrw416MnJ8)=[Treason~>](https://www.egattorneys.com/california-penal-code-37) Treason against this state consists only in levying war against it, adhering to its enemies, or giving them aid and [comfort](https://www.yelp.com/biz/deja-vu-showgirls-hollywood-los-angeles)... 
+
+THat said i had [NasaEyes](https://eyes.nasa.gov/apps/solar-system/#/home) embeds of various [FlyingToasters](https://eyes.nasa.gov/apps/solar-system/#/sc_europa_clipper) and they were breaking the page, but i was treating `<object>` like `<embed>` and closing after the first tag
+
+```html     
+<object data="https://epic.gsfc.nasa.gov/" type="text/html" /></object>
+
+<!-- This is properr-->
+ <object data="https://epic.gsfc.nasa.gov/" type="text/html" ></object>
+```
+ill see how they render after the [build](https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing) completes... 
 [How to use sed to find and replace text in files in Linux / Unix shell](https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/)
 NOAA products [GreatLakes](https://coastwatch.glerl.noaa.gov/satellite-data-products/avhrr/)
 [The Shopify Cheat Sheet is a resource for building Shopify Themes with Liquid](https://www.shopify.com/partners/shopify-cheat-sheet?shpxid=4a4fe457-4786-4002-74D3-67F7C2E264B8)
