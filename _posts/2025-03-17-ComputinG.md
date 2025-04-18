@@ -5,6 +5,9 @@ published: true
 image: computing
 ---
 
+
+{% include liquidvariables.md %}
+
 <div class="tupperware">
 
 <a href="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/worknotes03/cellNotes.png" ><img src="https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/refs/heads/master/assets/images/worknotes03/cellNotes.png" /></a>
@@ -149,6 +152,7 @@ I did not do much Technical reading from howto books, but work pdfs man that was
 [DonkyKong](https://x.com/RicoThaka/status/1893187582269264309)
 
 {% include unixingandroid.md %}
+
 
 
 <div class="tupperware">
